@@ -1,0 +1,2956 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kim, TW
+   Christy, JH
+   Rissanen, JR
+   Ribeiro, PD
+   Choe, JC
+AF Kim, Tae Won
+   Christy, John H.
+   Rissanen, Jade R.
+   Ribeiro, Pablo D.
+   Choe, Jae C.
+TI Effect of food addition on the reproductive intensity and timing of both
+   sexes of an intertidal crab
+SO MARINE ECOLOGY PROGRESS SERIES
+C1 [Kim, Tae Won] Stanford Univ, Hopkins Marine Stn, Pacific Grove, CA 93950 USA.
+   [Kim, Tae Won; Christy, John H.; Rissanen, Jade R.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Ribeiro, Pablo D.] Univ Nacl Mar del Plata, Dept Biol, Mar Del Plata, Buenos Aires, Argentina.
+   [Ribeiro, Pablo D.] Consejo Nacl Invest Cient & Tecn, RA-1033 Buenos Aires, DF, Argentina.
+   [Choe, Jae C.] Ewha Womans Univ, Dept Life Sci, Seoul 120750, South Korea.
+RP Kim, TW (reprint author), Stanford Univ, Hopkins Marine Stn, 120 Oceanview Blvd, Pacific Grove, CA 93950 USA.
+EM ktwon@stanford.edu
+OI Ribeiro, Pablo/0000-0002-3132-6981
+TC 7
+Z9 7
+SN 0171-8630
+PY 2010
+VL 401
+BP 183
+EP 194
+DI 10.3354/meps08416
+UT WOS:000276021600015
+ER
+
+PT J
+AU Robertson, DR
+   Smith-Vaniz, WF
+AF Robertson, D. R.
+   Smith-Vaniz, W. F.
+TI Use of clove oil in collecting coral reef fishes for research
+SO MARINE ECOLOGY PROGRESS SERIES
+C1 [Robertson, D. R.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Smith-Vaniz, W. F.] Univ Florida, Florida Museum Nat Hist, Gainesville, FL 32611 USA.
+RP Robertson, DR (reprint author), Smithsonian Trop Res Inst, Balboa, Panama.
+EM drr@stri.org
+TC 9
+Z9 10
+SN 0171-8630
+PY 2010
+VL 401
+BP 295
+EP 302
+DI 10.3354/meps08374
+UT WOS:000276021600025
+ER
+
+PT S
+AU Wright, SJ
+AF Wright, S. Joseph
+BE Ostfeld, RS
+   Schlesinger, WH
+TI The future of tropical forests
+SO YEAR IN ECOLOGY AND CONSERVATION BIOLOGY 2010
+SE Annals of the New York Academy of Sciences
+C1 [Wright, S. Joseph] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Wright, SJ (reprint author), Smithsonian Trop Res Inst, Unit 0948, APO, Miami, FL 34002 USA.
+EM wrightj@si.edu
+RI Wright, Stuart Joseph/M-3311-2013
+OI Wright, Stuart Joseph/0000-0003-4260-5676
+TC 127
+Z9 130
+SN 0077-8923
+BN 978-1-57331-791-7
+PY 2010
+VL 1195
+BP 1
+EP 27
+DI 10.1111/j.1749-6632.2010.05455.x
+UT WOS:000282828200001
+PM 20536814
+ER
+
+PT J
+AU Klose, SM
+   Welbergen, JA
+   Kalko, EKV
+AF Klose, Stefan M.
+   Welbergen, Justin A.
+   Kalko, Elisabeth K. V.
+TI Testosterone is associated with harem maintenance ability in
+   free-ranging grey-headed flying-foxes, Pteropus poliocephalus
+SO BIOLOGY LETTERS
+C1 [Klose, Stefan M.; Kalko, Elisabeth K. V.] Univ Ulm, Inst Expt Ecol, D-89069 Ulm, Germany.
+   [Klose, Stefan M.] Univ Queensland, Sch Biol Sci, Brisbane, Qld 4072, Australia.
+   [Welbergen, Justin A.] Univ Cambridge, Dept Zool, Cambridge CB2 3EJ, England.
+   [Kalko, Elisabeth K. V.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Klose, SM (reprint author), Univ Ulm, Inst Expt Ecol, Albert Einstein Allee 11, D-89069 Ulm, Germany.
+EM stefan.klose@uni-ulm.de
+TC 16
+Z9 16
+SN 1744-9561
+EI 1744-957X
+PD DEC 23
+PY 2009
+VL 5
+IS 6
+BP 758
+EP 761
+DI 10.1098/rsbl.2009.0563
+UT WOS:000271632000013
+PM 19689980
+ER
+
+PT J
+AU Rudel, TK
+   Defries, R
+   Asner, GP
+   Laurance, WF
+AF Rudel, Thomas K.
+   Defries, Ruth
+   Asner, Gregory P.
+   Laurance, William F.
+TI Changing Drivers of Deforestation and New Opportunities for Conservation
+SO CONSERVATION BIOLOGY
+C1 [Rudel, Thomas K.] Rutgers State Univ, New Brunswick, NJ 08901 USA.
+   [Defries, Ruth] Columbia Univ, New York, NY 10027 USA.
+   [Asner, Gregory P.] Carnegie Inst, Stanford, CA 94305 USA.
+   [Laurance, William F.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Rudel, TK (reprint author), Rutgers State Univ, 55 Dudley Rd, New Brunswick, NJ 08901 USA.
+EM rudel@aesop.rutgers.edu
+RI Asner, Gregory/G-9268-2013; Laurance, William F/B-2709-2012
+OI Asner, Gregory/0000-0001-7893-6421; Laurance, William
+   F/0000-0003-4430-9408
+TC 272
+Z9 278
+SN 0888-8892
+PD DEC
+PY 2009
+VL 23
+IS 6
+BP 1396
+EP 1405
+DI 10.1111/j.1523-1739.2009.01332.x
+UT WOS:000272163100012
+PM 20078640
+ER
+
+PT J
+AU Chazdon, RL
+   Peres, CA
+   Dent, D
+   Sheil, D
+   Lugo, AE
+   Lamb, D
+   Stork, NE
+   Miller, SE
+AF Chazdon, Robin L.
+   Peres, Carlos A.
+   Dent, Daisy
+   Sheil, Douglas
+   Lugo, Ariel E.
+   Lamb, David
+   Stork, Nigel E.
+   Miller, Scott E.
+TI The Potential for Species Conservation in Tropical Secondary Forests
+SO CONSERVATION BIOLOGY
+C1 [Chazdon, Robin L.] Univ Connecticut, Dept Ecol & Evolutionary Biol, Storrs, CT 06269 USA.
+   [Peres, Carlos A.] Univ E Anglia, Sch Environm Sci, Norwich NR4 7TJ, Norfolk, England.
+   [Dent, Daisy] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Sheil, Douglas] Mbarara Univ Sci & Technol, Inst Trop Forest Conservat, Kabale, Uganda.
+   [Lugo, Ariel E.] US Forest Serv, Int Inst Trop Forestry, USDA, Rio Piedras, PR 00926 USA.
+   [Lamb, David] Univ Queensland, Ctr Mined Land Rehabil, Brisbane, Qld 4072, Australia.
+   [Stork, Nigel E.] Univ Melbourne, Dept Resource Management & Geog, Melbourne, Vic, Australia.
+   [Miller, Scott E.] Smithsonian Inst, Washington, DC 20013 USA.
+RP Chazdon, RL (reprint author), Univ Connecticut, Dept Ecol & Evolutionary Biol, Storrs, CT 06269 USA.
+EM robin.chazdon@uconn.edu
+RI Sheil, Douglas/A-3867-2015; Dent, Daisy/L-3549-2016; Peres, Carlos
+   A./B-1276-2013; Peres, Carlos/N-8275-2019; Sheil, Douglas/H-1466-2012;
+   Sheil, Douglas/N-3291-2019; Chazdon, Robin/O-9766-2018
+OI Sheil, Douglas/0000-0002-1166-6591; Dent, Daisy/0000-0002-1219-7344;
+   Peres, Carlos A./0000-0002-1588-8765; Peres, Carlos/0000-0002-1588-8765;
+   Sheil, Douglas/0000-0002-1166-6591; Chazdon, Robin/0000-0002-7349-5687;
+   Miller, Scott/0000-0002-4138-1378; Stork, Nigel/0000-0001-7812-2452
+TC 305
+Z9 319
+SN 0888-8892
+EI 1523-1739
+PD DEC
+PY 2009
+VL 23
+IS 6
+BP 1406
+EP 1417
+DI 10.1111/j.1523-1739.2009.01338.x
+UT WOS:000272163100013
+PM 20078641
+ER
+
+PT J
+AU Wright, SJ
+   Muller-Landau, HC
+   Schipper, J
+AF Wright, S. Joseph
+   Muller-Landau, Helene C.
+   Schipper, Jan
+TI The Future of Tropical Species on a Warmer Planet
+SO CONSERVATION BIOLOGY
+C1 [Wright, S. Joseph; Muller-Landau, Helene C.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Schipper, Jan] IUCN, Species Program, CH-1196 Gland, Switzerland.
+   [Schipper, Jan] Conservat Int, Ctr Appl Biodivers Sci, Arlington, VA 22202 USA.
+RP Wright, SJ (reprint author), Smithsonian Trop Res Inst, Apartado 0843-03092, Balboa, Panama.
+EM wrightj@si.edu
+RI Wright, Stuart Joseph/M-3311-2013; Schipper, Jan/N-5266-2015
+OI Wright, Stuart Joseph/0000-0003-4260-5676; Muller-Landau,
+   Helene/0000-0002-3526-9021; Schipper, Jan/0000-0002-8338-7874
+TC 106
+Z9 108
+SN 0888-8892
+PD DEC
+PY 2009
+VL 23
+IS 6
+BP 1418
+EP 1426
+DI 10.1111/j.1523-1739.2009.01337.x
+UT WOS:000272163100014
+PM 20078642
+ER
+
+PT J
+AU Kaspari, M
+   Yanoviak, SP
+AF Kaspari, Michael
+   Yanoviak, Stephen P.
+TI Biogeochemistry and the structure of tropical brown food webs
+SO ECOLOGY
+C1 [Kaspari, Michael] Univ Oklahoma, Dept Zool, Grad Program Ecol & Evolutionary Biol, Norman, OK 73019 USA.
+   [Kaspari, Michael] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Yanoviak, Stephen P.] Univ Texas Med Branch, Dept Pathol, Galveston, TX 77555 USA.
+   [Yanoviak, Stephen P.] Univ Arkansas, Dept Biol, Little Rock, AR 72204 USA.
+RP Kaspari, M (reprint author), Univ Oklahoma, Dept Zool, Grad Program Ecol & Evolutionary Biol, Norman, OK 73019 USA.
+EM mkaspari@ou.edu
+OI Kaspari, Michael/0000-0002-9717-5768
+TC 70
+Z9 73
+SN 0012-9658
+PD DEC
+PY 2009
+VL 90
+IS 12
+BP 3342
+EP 3351
+DI 10.1890/08-1795.1
+UT WOS:000272700800007
+PM 20120804
+ER
+
+PT J
+AU Smith, JT
+   Jackson, JBC
+AF Smith, J. Travis
+   Jackson, Jeremy B. C.
+TI Ecology of extreme faunal turnover of tropical American scallops
+SO PALEOBIOLOGY
+C1 [Smith, J. Travis; Jackson, Jeremy B. C.] Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA.
+   [Jackson, Jeremy B. C.] Smithsonian Trop Res Inst, Ctr Trop Paleoecol & Archeol, Balboa, Panama.
+RP Smith, JT (reprint author), Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA.
+EM tsmith@dudek.com
+TC 30
+Z9 31
+SN 0094-8373
+PD WIN
+PY 2009
+VL 35
+IS 1
+BP 77
+EP 93
+DI 10.1666/07054.1
+UT WOS:000263751100006
+ER
+
+PT J
+AU Baugh, AT
+   Ryan, MJ
+AF Baugh, Alexander T.
+   Ryan, Michael J.
+TI Female tungara frogs vary in commitment to mate choice
+SO BEHAVIORAL ECOLOGY
+C1 [Baugh, Alexander T.; Ryan, Michael J.] Univ Texas Austin, Sect Integrat Biol, Austin, TX 78712 USA.
+   [Baugh, Alexander T.; Ryan, Michael J.] Univ Texas Austin, Inst Neurosci, Austin, TX 78712 USA.
+   [Ryan, Michael J.] Smithsonian Trop Res Inst, Balboa Ancon, Panama.
+RP Baugh, AT (reprint author), Univ Texas Austin, Sect Integrat Biol, 1 Univ Stn,C0930, Austin, TX 78712 USA.
+EM alex.baugh@gmail.com
+RI Baugh, Alex/E-4777-2010
+OI Baugh, Alexander/0000-0003-2032-892X
+TC 20
+Z9 20
+SN 1045-2249
+PD NOV-DEC
+PY 2009
+VL 20
+IS 6
+BP 1153
+EP 1159
+DI 10.1093/beheco/arp120
+UT WOS:000271813600001
+ER
+
+PT J
+AU Puebla, O
+   Bermingham, E
+   Guichard, F
+AF Puebla, Oscar
+   Bermingham, Eldredge
+   Guichard, Frederic
+TI Estimating dispersal from genetic isolation by distance in a coral reef
+   fish (Hypoplectrus puella)
+SO ECOLOGY
+C1 [Puebla, Oscar; Bermingham, Eldredge] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Puebla, Oscar; Bermingham, Eldredge; Guichard, Frederic] McGill Univ, Dept Biol, Montreal, PQ H3A 1B1, Canada.
+RP Puebla, O (reprint author), Smithsonian Trop Res Inst, Box 0843-03092, Balboa, Ancon, Panama.
+EM oscar.puebla@mail.mcgill.ca
+RI Guichard, Frederic/B-6188-2015
+OI Guichard, Frederic/0000-0002-7369-482X
+TC 41
+Z9 41
+SN 0012-9658
+PD NOV
+PY 2009
+VL 90
+IS 11
+BP 3087
+EP 3098
+DI 10.1890/08-0859.1
+UT WOS:000271457300012
+PM 19967864
+ER
+
+PT J
+AU Ruger, N
+   Huth, A
+   Hubbell, SP
+   Condit, R
+AF Rueger, Nadja
+   Huth, Andreas
+   Hubbell, Stephen P.
+   Condit, Richard
+TI Response of recruitment to light availability across a tropical lowland
+   rain forest community
+SO JOURNAL OF ECOLOGY
+C1 [Rueger, Nadja; Huth, Andreas] UFZ Helmholtz Ctr Environm Res, Dept Ecol Modelling, Helmholtz Ctr Environm Res, D-04318 Leipzig, Germany.
+   [Hubbell, Stephen P.] Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USA.
+   [Condit, Richard] Smithsonian Trop Res Inst, Ctr Trop Forest Sci, Unit 0948, APO, AA 34002 USA.
+   [Condit, Richard] Univ Calif Santa Barbara, Natl Ctr Ecol Anal & Synth, Santa Barbara, CA 93106 USA.
+RP Ruger, N (reprint author), Tech Univ Dresden, Dept Forest Biometr Syst Anal, Inst Forest Growth & Forest Comp Sci, Pienner Str 8, D-01737 Tharandt, Germany.
+EM nadja.rueger@tu-dresden.de
+RI Ruger, Nadja/J-6393-2015; Ruger, Nadja/Q-6418-2019
+OI Ruger, Nadja/0000-0003-2371-4172; Ruger, Nadja/0000-0003-2371-4172
+TC 55
+Z9 57
+SN 0022-0477
+PD NOV
+PY 2009
+VL 97
+IS 6
+BP 1360
+EP 1368
+DI 10.1111/j.1365-2745.2009.01552.x
+UT WOS:000270787100026
+ER
+
+PT J
+AU Kapheim, KM
+   Pollinger, JP
+   Wcislo, WT
+   Wayne, RK
+AF Kapheim, Karen M.
+   Pollinger, John P.
+   Wcislo, William T.
+   Wayne, Robert K.
+TI Characterization of 12 polymorphic microsatellite markers for a
+   facultatively eusocial sweat bee (Megalopta genalis)
+SO MOLECULAR ECOLOGY RESOURCES
+C1 [Kapheim, Karen M.; Pollinger, John P.; Wayne, Robert K.] Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USA.
+   [Wcislo, William T.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Kapheim, KM (reprint author), Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, 621 Charles E Young Dr S, Los Angeles, CA 90095 USA.
+EM kapheimk@ucla.edu
+RI Kapheim, Karen Marie/AAA-6124-2019
+OI Kapheim, Karen Marie/0000-0002-8140-7712
+TC 4
+Z9 4
+SN 1755-098X
+PD NOV
+PY 2009
+VL 9
+IS 6
+BP 1527
+EP 1529
+DI 10.1111/j.1755-0998.2009.02693.x
+UT WOS:000270787500021
+PM 21564949
+ER
+
+PT J
+AU Craven, D
+   Hall, J
+   Verjans, JM
+AF Craven, Dylan
+   Hall, Jefferson
+   Verjans, Jean-Marc
+TI Impacts of Herbicide Application and Mechanical Cleanings on Growth and
+   Mortality of Two Timber Species in Saccharum spontaneum Grasslands of
+   the Panama Canal Watershed
+SO RESTORATION ECOLOGY
+C1 [Craven, Dylan; Hall, Jefferson] Smithsonian Trop Res Inst, Native Species Reforestat Project PRORENA, Appl Ecol Program, Ctr Trop Forest Sci, Balboa, Ancon, Panama.
+   [Verjans, Jean-Marc] Ecoforest SA, Balboa, Ancon, Panama.
+RP Craven, D (reprint author), Smithsonian Trop Res Inst, Native Species Reforestat Project PRORENA, Appl Ecol Program, Ctr Trop Forest Sci, Ave Roosevelt 401, Balboa, Ancon, Panama.
+EM dylan.craven@yale.edu
+RI Craven, Dylan/K-2717-2012
+OI Craven, Dylan/0000-0003-3940-833X
+TC 20
+Z9 21
+SN 1061-2971
+PD NOV
+PY 2009
+VL 17
+IS 6
+BP 751
+EP 761
+DI 10.1111/j.1526-100X.2008.00408.x
+UT WOS:000272131700001
+ER
+
+PT J
+AU O'Dea, A
+   Jackson, J
+AF O'Dea, Aaron
+   Jackson, Jeremy
+TI Environmental change drove macroevolution in cupuladriid bryozoans
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [O'Dea, Aaron; Jackson, Jeremy] Smithsonian Trop Res Inst, Ctr Trop Paleoecol & Archeol, Panama City, Panama.
+   [O'Dea, Aaron] Univ British Columbia, Dept Earth & Ocean Sci, Vancouver, BC V6T 1Z4, Canada.
+   [Jackson, Jeremy] Univ Calif San Diego, Scripps Inst Oceanog, Ctr Marine Biodivers & Conservat, La Jolla, CA 92093 USA.
+RP O'Dea, A (reprint author), Smithsonian Trop Res Inst, Ctr Trop Paleoecol & Archeol, Apartado 0843-03092, Panama City, Panama.
+EM odeaa@si.edu
+RI O'Dea, Aaron/D-4114-2011
+TC 34
+Z9 35
+SN 0962-8452
+EI 1471-2954
+PD OCT 22
+PY 2009
+VL 276
+IS 1673
+BP 3629
+EP 3634
+DI 10.1098/rspb.2009.0844
+UT WOS:000270172200008
+PM 19640882
+ER
+
+PT J
+AU Myers, JA
+   Harms, KE
+AF Myers, Jonathan A.
+   Harms, Kyle E.
+TI Local immigration, competition from dominant guilds, and the ecological
+   assembly of high-diversity pine savannas
+SO ECOLOGY
+C1 [Myers, Jonathan A.; Harms, Kyle E.] Louisiana State Univ, Dept Biol Sci, Div Systemat Ecol & Evolut, Baton Rouge, LA 70803 USA.
+   [Harms, Kyle E.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Myers, JA (reprint author), Louisiana State Univ, Dept Biol Sci, Div Systemat Ecol & Evolut, Baton Rouge, LA 70803 USA.
+EM jmyer19@lsu.edu
+TC 41
+Z9 41
+SN 0012-9658
+EI 1939-9170
+PD OCT
+PY 2009
+VL 90
+IS 10
+BP 2745
+EP 2754
+DI 10.1890/08-1953.1
+UT WOS:000270274200011
+PM 19886484
+ER
+
+PT J
+AU Comita, LS
+   Engelbrecht, BMJ
+AF Comita, Liza S.
+   Engelbrecht, Bettina M. J.
+TI Seasonal and spatial variation in water availability drive habitat
+   associations in a tropical forest
+SO ECOLOGY
+C1 [Comita, Liza S.] Univ Georgia, Dept Plant Biol, Athens, GA 30606 USA.
+   [Engelbrecht, Bettina M. J.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Comita, LS (reprint author), Columbia Univ, Dept Ecol Evolut & Environm Biol, New York, NY 10027 USA.
+EM lsc2125@columbia.edu
+RI Engelbrecht, Bettina/E-9914-2012
+OI Comita, Liza/0000-0002-9169-1331
+TC 105
+Z9 115
+SN 0012-9658
+EI 1939-9170
+PD OCT
+PY 2009
+VL 90
+IS 10
+BP 2755
+EP 2765
+DI 10.1890/08-1482.1
+UT WOS:000270274200012
+PM 19886485
+ER
+
+PT J
+AU Gloor, M
+   Phillips, OL
+   Lloyd, JJ
+   Lewis, SL
+   Malhi, Y
+   Baker, TR
+   Lopez-Gonzalez, G
+   Peacock, J
+   Almeida, S
+   de Oliveira, ACA
+   Alvarez, E
+   Amaral, I
+   Arroyo, L
+   Aymard, G
+   Banki, O
+   Blanc, L
+   Bonal, D
+   Brando, P
+   Chao, KJ
+   Chave, J
+   Davila, N
+   Erwin, T
+   Silva, J
+   Di Fiore, A
+   Feldpausch, TR
+   Freitas, A
+   Herrera, R
+   Higuchi, N
+   Honorio, E
+   Jimenez, E
+   Killeen, T
+   Laurance, W
+   Mendoza, C
+   Monteagudo, A
+   Andrade, A
+   Neill, D
+   Nepstad, D
+   Vargas, PN
+   Penuela, MC
+   Cruz, AP
+   Prieto, A
+   Pitman, N
+   Quesada, C
+   Salomao, R
+   Silveira, M
+   Schwarz, M
+   Stropp, J
+   Ramirez, F
+   Ramirez, H
+   Rudas, A
+   ter Steege, H
+   Silva, N
+   Torres, A
+   Terborgh, J
+   Vasquez, R
+   van der Heijden, G
+AF Gloor, M.
+   Phillips, O. L.
+   Lloyd, J. J.
+   Lewis, S. L.
+   Malhi, Y.
+   Baker, T. R.
+   Lopez-Gonzalez, G.
+   Peacock, J.
+   Almeida, S.
+   Alves de Oliveira, A. C.
+   Alvarez, E.
+   Amaral, I.
+   Arroyo, L.
+   Aymard, G.
+   Banki, O.
+   Blanc, L.
+   Bonal, D.
+   Brando, P.
+   Chao, K. -J.
+   Chave, J.
+   Davila, N.
+   Erwin, T.
+   Silva, J.
+   Di Fiore, A.
+   Feldpausch, T. R.
+   Freitas, A.
+   Herrera, R.
+   Higuchi, N.
+   Honorio, E.
+   Jimenez, E.
+   Killeen, T.
+   Laurance, W.
+   Mendoza, C.
+   Monteagudo, A.
+   Andrade, A.
+   Neill, D.
+   Nepstad, D.
+   Nunez Vargas, P.
+   Penuela, M. C.
+   Pena Cruz, A.
+   Prieto, A.
+   Pitman, N.
+   Quesada, C.
+   Salomao, R.
+   Silveira, Marcos
+   Schwarz, M.
+   Stropp, J.
+   Ramirez, F.
+   Ramirez, H.
+   Rudas, A.
+   ter Steege, H.
+   Silva, N.
+   Torres, A.
+   Terborgh, J.
+   Vasquez, R.
+   van der Heijden, G.
+TI Does the disturbance hypothesis explain the biomass increase in
+   basin-wide Amazon forest plot data?
+SO GLOBAL CHANGE BIOLOGY
+C1 [Gloor, M.; Phillips, O. L.; Lloyd, J. J.; Lewis, S. L.; Baker, T. R.; Lopez-Gonzalez, G.; Peacock, J.; Feldpausch, T. R.] Univ Leeds, Sch Geog, Leeds LS2 9JT, W Yorkshire, England.
+   [Malhi, Y.] Univ Oxford, Oxford, England.
+   [Almeida, S.] Paraense Emilio Goeldi, Belem, Para, Brazil.
+   [Alves de Oliveira, A. C.; Amaral, I.] Team INPA, Manaus, Amazonas, Brazil.
+   [Alvarez, E.] Columbia Univ, Medellin, Colombia.
+   [Arroyo, L.] Missouri Bot Garden, Santa Cruz, Bolivia.
+   [Arroyo, L.] Museo Hist Nat Noel Kempff Mercado, Santa Cruz, Bolivia.
+   [Aymard, G.] UNELLEZ Guanare, Guanare, Venezuela.
+   [Banki, O.; Stropp, J.] Univ Utrecht, NL-3508 TC Utrecht, Netherlands.
+   [Blanc, L.; Bonal, D.] UMR, Kourou, French Guiana.
+   [Erwin, T.] Smithsonian Inst, Washington, DC 20560 USA.
+   [Silva, J.] Univ San Abad Cusco, Cuzco, Peru.
+   [Di Fiore, A.] NYU, New York, NY USA.
+   [Freitas, A.] Museu Paraense Emilio Goeldi, Belem, Para, Brazil.
+   [Herrera, R.] IVIC, Caracas, Venezuela.
+   [Higuchi, N.] Inst Natl Pesquisas Amazonia, Manaus, Amazonas, Brazil.
+   [Honorio, E.] IIAP, Iquitos, Peru.
+   [Jimenez, E.] Univ Nacl Colombia, Leticia, Colombia.
+   [Killeen, T.] Conservat Int, Washington, DC USA.
+   [Laurance, W.] Smithsonian Trop Res Inst, Ancon, Panama.
+   [Mendoza, C.] Manejo Forestal Tierras Trop Bolivia, Fomabo, Sacta, Bolivia.
+   [Monteagudo, A.; Pena Cruz, A.; Vasquez, R.] Jardin Bot Missouri, Proyecto Flora Peru, Oxapampa, Peru.
+   [Andrade, A.] INPA, Manaus, Amazonas, Brazil.
+   [Neill, D.] Fdn Jatun Sacha, Quito, Ecuador.
+   [Neill, D.] Missouri Bot Garden, Quito, Ecuador.
+   [Nepstad, D.] Woods Hole Res Ctr, Woods Hole, MA USA.
+   [Nunez Vargas, P.] Univ San Antonio Abad Cusco, Cuzco, Peru.
+   [Penuela, M. C.] Univ Nacl Colombia, Leticia, Amazonas, Brazil.
+   [Prieto, A.; Rudas, A.] Univ Nacl Colombia, Inst Ciencias Nat, Bogota, Colombia.
+   [Pitman, N.] Duke Univ, Ctr Trop Conservat, Durham, NC 27706 USA.
+   [Quesada, C.] Univ Leeds, Sch Geog, Leeds LS2 9JT, W Yorkshire, England.
+   [Salomao, R.] Museu Paraense Emilio Goeldi, Belem, Para, Brazil.
+   [Silveira, Marcos] Univ Fed Acre, Acre, Brazil.
+   [Ramirez, F.] Univ Nacl Amazonia Peruana, Iquitos, Peru.
+   [Ramirez, H.; Torres, A.] Univ Los Andes, Merida, Venezuela.
+   [ter Steege, H.] NHN Utrecht, Utrecht, Netherlands.
+   [Silva, N.] CIFOR, Tapajos, Brazil.
+   [Silva, N.] EMBRAPA Amazonia Oriental, Belem, Para, Brazil.
+RP Gloor, M (reprint author), Univ Leeds, Sch Geog, Leeds LS2 9JT, W Yorkshire, England.
+EM eugloor@googlemail.com
+RI Laurance, William F/B-2709-2012; Coronado, Euridice Nora
+   Honorio/K-3412-2015; van der Heijden, Geertje/AAB-4102-2019; Steege,
+   Hans ter/B-5866-2011; Phillips, Oliver L/A-1523-2011; Lloyd,
+   Jonathan/F-8893-2010; Brando, Paulo/AAC-9396-2019; Brando, Paulo
+   M/C-4302-2012; Silveira, Marcos/H-7906-2013; Feldpausch,
+   Ted/D-3436-2009; Pitman, Nigel/A-7681-2008; Ramirez, Fredy/R-1522-2016
+OI Laurance, William F/0000-0003-4430-9408; Coronado, Euridice Nora
+   Honorio/0000-0003-2314-590X; van der Heijden,
+   Geertje/0000-0002-2110-5173; Steege, Hans ter/0000-0002-8738-2659;
+   Phillips, Oliver L/0000-0002-8993-6168; Lloyd,
+   Jonathan/0000-0002-5458-9960; Brando, Paulo/0000-0001-8952-7025; Brando,
+   Paulo M/0000-0001-8952-7025; Silveira, Marcos/0000-0003-0485-7872;
+   Feldpausch, Ted/0000-0002-6631-7962; Pitman, Nigel/0000-0002-9211-2880;
+   Jimenez, Eliana M./0000-0002-8610-1771; SALOMAO,
+   RAFAEL/0000-0003-0947-0132; blanc, lilian/0000-0003-3605-4230; Lewis,
+   Simon/0000-0002-8066-6851; Alvarez-Davila, Esteban/0000-0001-9032-0099;
+   Lopez-Gonzalez, Gabriela/0000-0002-0814-8830; Ramirez,
+   Fredy/0000-0003-2441-9984
+TC 59
+Z9 60
+SN 1354-1013
+PD OCT
+PY 2009
+VL 15
+IS 10
+BP 2418
+EP 2430
+DI 10.1111/j.1365-2486.2009.01891.x
+UT WOS:000269577800006
+ER
+
+PT J
+AU Jorge, MLSP
+   Howe, HF
+AF Jorge, Maria Luisa S. P.
+   Howe, Henry F.
+TI Can forest fragmentation disrupt a conditional mutualism? A case from
+   central Amazon
+SO OECOLOGIA
+C1 [Jorge, Maria Luisa S. P.] Vanderbilt Univ, Dept Biol Sci, VU Stn, Nashville, TN 37235 USA.
+   [Jorge, Maria Luisa S. P.; Howe, Henry F.] Univ Illinois, Dept Biol Sci, Chicago, IL 60607 USA.
+   [Jorge, Maria Luisa S. P.; Howe, Henry F.] Field Museum Nat Hist, Dept Zool, Chicago, IL 60605 USA.
+   [Jorge, Maria Luisa S. P.] Inst Nacl de Pesquisas da Amazonia, Biol Dynam Forest Fragments Project, BR-69011970 Manaus, Amazonas, Brazil.
+   [Jorge, Maria Luisa S. P.] Smithsonian Trop Res Inst, BR-69011970 Manaus, Amazonas, Brazil.
+RP Jorge, MLSP (reprint author), Vanderbilt Univ, Dept Biol Sci, VU Stn, B 35-1634, Nashville, TN 37235 USA.
+EM malu.jorge@vanderbilt.edu; hfhowe@uic.edu
+RI Jorge, Maria Luisa/B-1103-2013; Jorge, Maria Luisa/S-1164-2016; Howe,
+   Henry F/B-8749-2014
+OI Jorge, Maria Luisa/0000-0003-4264-5897; Jorge, Maria
+   Luisa/0000-0003-4264-5897; Howe, Henry F/0000-0001-5081-2128
+TC 32
+Z9 34
+SN 0029-8549
+PD OCT
+PY 2009
+VL 161
+IS 4
+BP 709
+EP 718
+DI 10.1007/s00442-009-1417-7
+UT WOS:000269860700007
+PM 19633870
+ER
+
+PT J
+AU Camacho, R
+   Boyero, L
+   Cornejo, A
+   Ibanez, A
+   Pearson, RG
+AF Camacho, Regina
+   Boyero, Luz
+   Cornejo, Aydee
+   Ibanez, Alicia
+   Pearson, Richard G.
+TI Local Variation in Shredder Distribution can Explain their Oversight in
+   Tropical Streams
+SO BIOTROPICA
+C1 [Camacho, Regina; Boyero, Luz; Pearson, Richard G.] James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+   [Boyero, Luz; Ibanez, Alicia] Smithsonian Trop Res Inst, Balboa 2072, Panama.
+RP Boyero, L (reprint author), James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+EM luz.boyero@jcu.edu.au
+RI Boyero, Luz/N-1719-2019; Boyero, Luz/L-5822-2014
+OI Boyero, Luz/0000-0001-7366-9299; Boyero, Luz/0000-0001-7366-9299;
+   Cornejo, Aydee/0000-0001-6789-5847; Pearson, Richard/0000-0001-6047-031X
+TC 24
+Z9 26
+SN 0006-3606
+EI 1744-7429
+PD SEP
+PY 2009
+VL 41
+IS 5
+BP 625
+EP 632
+DI 10.1111/j.1744-7429.2009.00519.x
+UT WOS:000269700500016
+ER
+
+PT J
+AU Dattilo, W
+   Izzo, TJ
+   Inouye, BD
+   Vasconcelos, HL
+   Bruna, EM
+AF Dattilo, Wesley
+   Izzo, Thiago J.
+   Inouye, Brian D.
+   Vasconcelos, Heraldo L.
+   Bruna, Emilio M.
+TI Recognition of Host Plant Volatiles by Pheidole minutula Mayr
+   (Myrmicinae), an Amazonian Ant-Plant Specialist
+SO BIOTROPICA
+C1 [Dattilo, Wesley; Izzo, Thiago J.] Inst Nacl de Pesquisas da Amazonia, Biol Dynam Forest Fragments Project, Manaus, Amazonas, Brazil.
+   [Dattilo, Wesley; Izzo, Thiago J.] Smithsonian Trop Res Inst, Manaus, Amazonas, Brazil.
+   [Izzo, Thiago J.; Bruna, Emilio M.] Univ Florida, Dept Wildlife Ecol & Conservat, Gainesville, FL 32611 USA.
+   [Inouye, Brian D.] Florida State Univ, Dept Biol Sci, Tallahassee, FL 32306 USA.
+   [Vasconcelos, Heraldo L.] Univ Fed Uberlandia, Inst Biol, BR-38400 Uberlandia, MG, Brazil.
+   [Bruna, Emilio M.] Univ Florida, Ctr Latin Amer Studies, Gainesville, FL 32611 USA.
+   [Dattilo, Wesley] Univ Estadual Norte Fluminense, Ctr Biociencias & Biotecnol, Campos, RJ, Brazil.
+RP Izzo, TJ (reprint author), Inst Nacl de Pesquisas da Amazonia, Biol Dynam Forest Fragments Project, Manaus, Amazonas, Brazil.
+EM izzothiago@gmail.com
+RI Izzo, Thiago/K-7405-2012; , WD/A-6371-2012; Bruna, Emilio M/H-2769-2012;
+   Vasconcelos, Heraldo L/C-3353-2013
+OI Izzo, Thiago/0000-0002-4613-3787; , WD/0000-0002-4758-4379; Bruna,
+   Emilio M/0000-0003-3381-8477; Vasconcelos, Heraldo L/0000-0001-6969-7131
+TC 13
+Z9 14
+SN 0006-3606
+PD SEP
+PY 2009
+VL 41
+IS 5
+BP 642
+EP 646
+DI 10.1111/j.1744-7429.2009.00518.x
+UT WOS:000269700500018
+ER
+
+PT J
+AU Thamm, S
+   Kalko, EKV
+   Wells, K
+AF Thamm, Sven
+   Kalko, Elisabeth K. V.
+   Wells, Konstans
+TI Ectoparasite Infestations of Hedgehogs (Erinaceus europaeus) are
+   Associated with Small-Scale Landscape Structures in an Urban-Suburban
+   Environment
+SO ECOHEALTH
+C1 [Thamm, Sven; Kalko, Elisabeth K. V.; Wells, Konstans] Univ Ulm, Inst Expt Ecol, D-89081 Ulm, Germany.
+   [Kalko, Elisabeth K. V.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Wells, K (reprint author), Univ Ulm, Inst Expt Ecol, Albert Einstein Allee 11, D-89081 Ulm, Germany.
+EM konstans.wells@uni-ulm.de
+RI Wells, Konstans/A-7232-2010
+OI Wells, Konstans/0000-0003-0377-2463
+TC 16
+Z9 18
+SN 1612-9202
+PD SEP
+PY 2009
+VL 6
+IS 3
+BP 404
+EP 413
+DI 10.1007/s10393-009-0268-3
+UT WOS:000278348100012
+PM 20119687
+ER
+
+PT J
+AU Rompre, G
+   Robinson, WD
+   Desrochers, A
+   Angehr, G
+AF Rompre, Ghislain
+   Robinson, W. Douglas
+   Desrochers, Andre
+   Angehr, George
+TI Predicting declines in avian species richness under nonrandom patterns
+   of habitat loss in a Neotropical landscape
+SO ECOLOGICAL APPLICATIONS
+C1 [Rompre, Ghislain; Desrochers, Andre] Univ Laval, Ctr Etud Foret, Quebec City, PQ G1V 0A6, Canada.
+   [Rompre, Ghislain; Robinson, W. Douglas] Oregon State Univ, Dept Fisheries & Wildlife, Oak Creek Lab Biol, Corvallis, OR 97331 USA.
+   [Angehr, George] Smithsonian Trop Res Inst, Unit 0948, APO, AA 34002 USA.
+RP Rompre, G (reprint author), Univ Laval, Ctr Etud Foret, Pavillon Abitibi Price,2405 Rue Terrasse, Quebec City, PQ G1V 0A6, Canada.
+EM ghislain.rompre.1@ulaval.ca
+RI Desrochers, Andre/B-6248-2008
+OI Desrochers, Andre/0000-0002-5676-964X
+TC 9
+Z9 9
+SN 1051-0761
+EI 1939-5582
+PD SEP
+PY 2009
+VL 19
+IS 6
+BP 1614
+EP 1627
+DI 10.1890/08-1207.1
+UT WOS:000269075200021
+PM 19769107
+ER
+
+PT J
+AU Poulsen, M
+   Fernandez-Marin, H
+   Currie, CR
+   Boomsma, JJ
+AF Poulsen, Michael
+   Fernandez-Marin, Hermogenes
+   Currie, Cameron R.
+   Boomsma, Jacobus J.
+TI EPHEMERAL WINDOWS OF OPPORTUNITY FOR HORIZONTAL TRANSMISSION OF FUNGAL
+   SYMBIONTS IN LEAF-CUTTING ANTS
+SO EVOLUTION
+C1 [Poulsen, Michael; Fernandez-Marin, Hermogenes; Boomsma, Jacobus J.] Univ Copenhagen, Ctr Social Evolut, Dept Biol, DK-2100 Copenhagen, Denmark.
+   [Poulsen, Michael; Fernandez-Marin, Hermogenes] Smithsonian Trop Res Inst, APO, AA 34002 USA.
+   [Poulsen, Michael; Currie, Cameron R.] Univ Wisconsin, Dept Bacteriol, Madison, WI 53706 USA.
+RP Poulsen, M (reprint author), Univ Copenhagen, Ctr Social Evolut, Dept Biol, Univ Pk 15, DK-2100 Copenhagen, Denmark.
+EM Poulsen@bact.wisc.edu; FernandezH@si.edu; Currie@bact.wisc.edu;
+   JJBoomsma@bio.ku.dk
+RI Poulsen, Michael/C-6276-2012; Boomsma, Jacobus J/M-2785-2014
+OI Poulsen, Michael/0000-0002-2839-1715; Boomsma, Jacobus
+   J/0000-0002-3598-1609
+TC 20
+Z9 20
+SN 0014-3820
+EI 1558-5646
+PD SEP
+PY 2009
+VL 63
+IS 9
+BP 2235
+EP 2247
+DI 10.1111/j.1558-5646.2009.00704.x
+UT WOS:000269367200004
+PM 19473381
+ER
+
+PT J
+AU Funk, WC
+   Cannatella, DC
+   Ryan, MJ
+AF Funk, W. C.
+   Cannatella, D. C.
+   Ryan, M. J.
+TI Genetic divergence is more tightly related to call variation than
+   landscape features in the Amazonian frogs Physalaemus petersi and
+   P-freibergi
+SO JOURNAL OF EVOLUTIONARY BIOLOGY
+C1 [Funk, W. C.; Cannatella, D. C.; Ryan, M. J.] Univ Texas Austin, Sect Integrat Biol, Austin, TX 78712 USA.
+   [Cannatella, D. C.] Univ Texas Austin, Texas Nat Sci Ctr, Austin, TX 78712 USA.
+   [Ryan, M. J.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Funk, WC (reprint author), Colorado State Univ, Dept Biol, Ft Collins, CO 80523 USA.
+EM chris.funk@colostate.edu
+OI Funk, W. Chris/0000-0002-6466-3618
+TC 43
+Z9 44
+SN 1010-061X
+PD SEP
+PY 2009
+VL 22
+IS 9
+BP 1839
+EP 1853
+DI 10.1111/j.1420-9101.2009.01795.x
+UT WOS:000269138100005
+PM 19583696
+ER
+
+PT J
+AU Valencia, R
+   Condit, R
+   Muller-Landau, HC
+   Hernandez, C
+   Navarrete, H
+AF Valencia, Renato
+   Condit, Richard
+   Muller-Landau, Helene C.
+   Hernandez, Consuelo
+   Navarrete, Hugo
+TI Dissecting biomass dynamics in a large Amazonian forest plot
+SO JOURNAL OF TROPICAL ECOLOGY
+C1 [Valencia, Renato; Hernandez, Consuelo; Navarrete, Hugo] Pontificia Univ Catolica Ecuador, Lab Ecol Plantas & Herbario QCA, Escuela Ciencias Biol, Quito, Ecuador.
+   [Condit, Richard] Smithsonian Trop Res Inst, Global Forest Observ Network, Balboa, Ancon, Panama.
+RP Valencia, R (reprint author), Pontificia Univ Catolica Ecuador, Lab Ecol Plantas & Herbario QCA, Escuela Ciencias Biol, Apartado 17-01-2184, Quito, Ecuador.
+EM lrvalencia@puce.edu.ec
+OI Navarrete, Hugo/0000-0002-5262-9754; Muller-Landau,
+   Helene/0000-0002-3526-9021
+TC 31
+Z9 34
+SN 0266-4674
+EI 1469-7831
+PD SEP
+PY 2009
+VL 25
+BP 473
+EP 482
+DI 10.1017/S0266467409990095
+PN 5
+UT WOS:000269168700003
+ER
+
+PT J
+AU Wells, K
+   Corlett, RT
+   Lakim, MB
+   Kalko, EKV
+   Pfeiffer, M
+AF Wells, Konstans
+   Corlett, Richard T.
+   Lakim, Maklarin B.
+   Kalko, Elisabeth K. V.
+   Pfeiffer, Martin
+TI Seed consumption by small mammals from Borneo
+SO JOURNAL OF TROPICAL ECOLOGY
+C1 [Wells, Konstans; Kalko, Elisabeth K. V.; Pfeiffer, Martin] Univ Ulm, Inst Expt Ecol, D-89069 Ulm, Germany.
+   [Corlett, Richard T.] Natl Univ Singapore, Dept Biol Sci, Singapore 117548, Singapore.
+   [Kalko, Elisabeth K. V.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Wells, K (reprint author), Univ Ulm, Inst Expt Ecol, Albert Einstein Allee 11, D-89069 Ulm, Germany.
+EM konstans.wells@uni-ulm.de
+RI Wells, Konstans/A-7232-2010; Corlett, Richard/G-1251-2011; Pfeiffer,
+   Martin/A-6989-2012; Corlett, Richard T./S-2899-2019
+OI Wells, Konstans/0000-0003-0377-2463; Corlett,
+   Richard/0000-0002-2508-9465
+TC 11
+Z9 13
+SN 0266-4674
+PD SEP
+PY 2009
+VL 25
+BP 555
+EP 558
+DI 10.1017/S0266467409990058
+PN 5
+UT WOS:000269168700012
+ER
+
+PT J
+AU Draheim, H
+   Cui, M
+   Dick, CW
+AF Draheim, Hope
+   Cui, Melissa
+   Dick, Christopher W.
+TI Characterization of 14 microsatellite DNA markers for the tropical
+   forest tree Virola surinamensis (Rol.) Warb. (Myristicaceae)
+SO MOLECULAR ECOLOGY RESOURCES
+C1 [Draheim, Hope; Cui, Melissa; Dick, Christopher W.] Univ Michigan, Dept Ecol & Evolutionary Biol, Ann Arbor, MI 48109 USA.
+   [Dick, Christopher W.] Univ Michigan, Herbarium, Ann Arbor, MI 48108 USA.
+   [Dick, Christopher W.] Smithsonian Trop Res Inst, Balboa Ancon, Panama.
+RP Dick, CW (reprint author), Univ Michigan, Dept Ecol & Evolutionary Biol, 830 N Univ Ave, Ann Arbor, MI 48109 USA.
+EM cwdick@umich.edu
+TC 4
+Z9 4
+SN 1755-098X
+EI 1755-0998
+PD SEP
+PY 2009
+VL 9
+IS 5
+BP 1386
+EP 1388
+DI 10.1111/j.1755-0998.2009.02667.x
+UT WOS:000268855000015
+PM 21564914
+ER
+
+PT J
+AU Yanoviak, SP
+   Kaspari, M
+   Dudley, R
+AF Yanoviak, Stephen P.
+   Kaspari, Michael
+   Dudley, Robert
+TI Gliding hexapods and the origins of insect aerial behaviour
+SO BIOLOGY LETTERS
+C1 [Yanoviak, Stephen P.] Univ Arkansas, Dept Biol, Little Rock, AR 72204 USA.
+   [Kaspari, Michael] Univ Oklahoma, Dept Zool, Norman, OK 73019 USA.
+   [Kaspari, Michael; Dudley, Robert] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Dudley, Robert] Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USA.
+RP Yanoviak, SP (reprint author), Univ Arkansas, Dept Biol, 2801 S Univ Ave, Little Rock, AR 72204 USA.
+EM spyanoviak@ualr.edu
+OI Kaspari, Michael/0000-0002-9717-5768
+TC 36
+Z9 37
+SN 1744-9561
+PD AUG 23
+PY 2009
+VL 5
+IS 4
+BP 510
+EP 512
+DI 10.1098/rsbl.2009.0029
+UT WOS:000267881700021
+PM 19324632
+ER
+
+PT J
+AU Dechmann, DKN
+   Heucke, SL
+   Giuggioli, L
+   Safi, K
+   Voigt, CC
+   Wikelski, M
+AF Dechmann, Dina K. N.
+   Heucke, Silke L.
+   Giuggioli, Luca
+   Safi, Kamran
+   Voigt, Christian C.
+   Wikelski, Martin
+TI Experimental evidence for group hunting via eavesdropping in
+   echolocating bats
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Dechmann, Dina K. N.; Wikelski, Martin] Univ Konstanz, Dept Biol, D-78457 Constance, Germany.
+   [Dechmann, Dina K. N.; Heucke, Silke L.; Voigt, Christian C.] Leibniz Inst Zoo & Wildlife Res, D-10315 Berlin, Germany.
+   [Dechmann, Dina K. N.; Wikelski, Martin] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Heucke, Silke L.] Univ Vienna, A-1090 Vienna, Austria.
+   [Giuggioli, Luca] Univ Bristol, Dept Engn Math, Bristol Ctr Complex Sci, Bristol BS8 1TR, Avon, England.
+   [Giuggioli, Luca] Univ Bristol, Sch Biol Sci, Bristol BS8 1TR, Avon, England.
+   [Giuggioli, Luca] Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.
+   [Safi, Kamran] Zool Soc London, Inst Zool, London NW1 4RY, England.
+   [Wikelski, Martin] Max Planck Inst Ornithol, Dept Migrat & Immunoecol, D-78315 Radolfzell am Bodensee, Germany.
+RP Dechmann, DKN (reprint author), Univ Konstanz, Dept Biol, D-78457 Constance, Germany.
+EM ddechmann@orn.mpg.de
+RI Giuggioli, Luca/J-2881-2012; Dechmann, Dina/A-1827-2010; Safi,
+   Kamran/B-2079-2008
+OI Safi, Kamran/0000-0002-8418-6759
+TC 90
+Z9 91
+SN 0962-8452
+EI 1471-2954
+PD AUG 7
+PY 2009
+VL 276
+IS 1668
+BP 2721
+EP 2728
+DI 10.1098/rspb.2009.0473
+UT WOS:000267373700005
+PM 19419986
+ER
+
+PT J
+AU Koehler, B
+   Corre, MD
+   Veldkamp, E
+   Wullaert, H
+   Wright, SJ
+AF Koehler, Birgit
+   Corre, Marife D.
+   Veldkamp, Edzo
+   Wullaert, Hans
+   Wright, S. Joseph
+TI Immediate and long-term nitrogen oxide emissions from tropical forest
+   soils exposed to elevated nitrogen input
+SO GLOBAL CHANGE BIOLOGY
+C1 [Koehler, Birgit; Corre, Marife D.; Veldkamp, Edzo; Wullaert, Hans] Univ Gottingen, Buesgen Inst Soil Sci Trop & Subtrop Ecosyst, Gottingen, Germany.
+   [Wright, S. Joseph] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Corre, MD (reprint author), Univ Gottingen, Buesgen Inst Soil Sci Trop & Subtrop Ecosyst, Gottingen, Germany.
+EM mcorre@gwdg.de
+RI Veldkamp, Edzo/A-6660-2008; Wright, Stuart Joseph/M-3311-2013
+OI Veldkamp, Edzo/0000-0002-8318-8349; Wright, Stuart
+   Joseph/0000-0003-4260-5676
+TC 73
+Z9 78
+SN 1354-1013
+PD AUG
+PY 2009
+VL 15
+IS 8
+BP 2049
+EP 2066
+DI 10.1111/j.1365-2486.2008.01826.x
+UT WOS:000267698400015
+ER
+
+PT J
+AU Cai, ZQ
+   Schnitzer, SA
+   Bongers, F
+AF Cai, Zhi-Quan
+   Schnitzer, Stefan A.
+   Bongers, Frans
+TI Seasonal differences in leaf-level physiology give lianas a competitive
+   advantage over trees in a tropical seasonal forest
+SO OECOLOGIA
+C1 [Schnitzer, Stefan A.] Univ Wisconsin, Dept Biol Sci, Milwaukee, WI 53201 USA.
+   [Cai, Zhi-Quan] Chinese Acad Sci, Xishuangbanna Trop Bot Garden, Mengla 666303, Peoples R China.
+   [Schnitzer, Stefan A.] Smithsonian Trop Res Inst, Balboa 084303092, Panama.
+   [Cai, Zhi-Quan; Bongers, Frans] Univ Wageningen & Res Ctr, Ctr Ecosyst Studies, Forest Ecol & Forest Management Grp, Wageningen, Netherlands.
+RP Schnitzer, SA (reprint author), Univ Wisconsin, Dept Biol Sci, POB 413, Milwaukee, WI 53201 USA.
+EM schnitzer@uwm.edu
+OI Schnitzer, Stefan/0000-0002-2715-9455
+TC 76
+Z9 85
+SN 0029-8549
+EI 1432-1939
+PD AUG
+PY 2009
+VL 161
+IS 1
+BP 25
+EP 33
+DI 10.1007/s00442-009-1355-4
+UT WOS:000267345500003
+PM 19418072
+ER
+
+PT J
+AU Lasso, E
+   Engelbrecht, BMJ
+   Dalling, JW
+AF Lasso, Eloisa
+   Engelbrecht, Bettina M. J.
+   Dalling, James W.
+TI When sex is not enough: ecological correlates of resprouting capacity in
+   congeneric tropical forest shrubs
+SO OECOLOGIA
+C1 [Lasso, Eloisa; Dalling, James W.] Univ Illinois, Dept Plant Biol, Urbana, IL 61801 USA.
+   [Lasso, Eloisa; Engelbrecht, Bettina M. J.; Dalling, James W.] Smithsonian Trop Res Inst, Ancon, Panama.
+   [Engelbrecht, Bettina M. J.] San Francisco State Univ, Dept Biol, San Francisco, CA 94132 USA.
+RP Lasso, E (reprint author), Univ Illinois, Dept Plant Biol, Urbana, IL 61801 USA.
+EM elasso@illinois.edu
+RI Engelbrecht, Bettina/E-9914-2012
+OI Lasso, Eloisa/0000-0003-4586-8674
+TC 17
+Z9 19
+SN 0029-8549
+EI 1432-1939
+PD AUG
+PY 2009
+VL 161
+IS 1
+BP 43
+EP 56
+DI 10.1007/s00442-009-1353-6
+UT WOS:000267345500005
+PM 19412623
+ER
+
+PT J
+AU Dalling, JW
+   Pearson, TRH
+   Ballesteros, J
+   Sanchez, E
+   Burslem, DFRP
+AF Dalling, James W.
+   Pearson, T. R. H.
+   Ballesteros, J.
+   Sanchez, E.
+   Burslem, D. F. R. P.
+TI Habitat partitioning among neotropical pioneers: a consequence of
+   differential susceptibility to browsing herbivores?
+SO OECOLOGIA
+C1 [Dalling, James W.] Univ Illinois Champaign Urbana, Dept Plant Biol, Urbana, IL 61801 USA.
+   [Dalling, James W.; Ballesteros, J.; Sanchez, E.] Smithsonian Trop Res Inst, Balboa 084303092, Panama.
+   [Pearson, T. R. H.; Burslem, D. F. R. P.] Univ Aberdeen, Sch Biol Sci, Aberdeen AB24 3UU, Scotland.
+RP Dalling, JW (reprint author), Univ Illinois Champaign Urbana, Dept Plant Biol, 265 Morrill Hall,505 S Goodwin Ave, Urbana, IL 61801 USA.
+EM dallingj@life.uiuc.edu
+RI Burslem, David FRP/F-1204-2019
+OI Burslem, David FRP/0000-0001-6033-0990
+TC 3
+Z9 3
+SN 0029-8549
+EI 1432-1939
+PD AUG
+PY 2009
+VL 161
+IS 2
+BP 361
+EP 370
+DI 10.1007/s00442-009-1385-y
+UT WOS:000268548000014
+PM 19504125
+ER
+
+PT J
+AU Himler, AG
+   Caldera, EJ
+   Baer, BC
+   Fernandez-Marin, H
+   Mueller, UG
+AF Himler, Anna G.
+   Caldera, Eric J.
+   Baer, Boris C.
+   Fernandez-Marin, Hermogenes
+   Mueller, Ulrich G.
+TI No sex in fungus-farming ants or their crops
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Himler, Anna G.; Caldera, Eric J.; Mueller, Ulrich G.] Univ Texas Austin, Patterson Labs, Sect Integrat Biol, Austin, TX 78712 USA.
+   [Baer, Boris C.] Univ Western Australia, Crawley, WA 6009, Australia.
+   [Baer, Boris C.] Sch Anim Biol, Crawley, WA 6009, Australia.
+   [Fernandez-Marin, Hermogenes] Univ Puerto Rico, Dept Biol, San Juan, PR 00901 USA.
+   [Fernandez-Marin, Hermogenes; Mueller, Ulrich G.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Himler, AG (reprint author), Univ Texas Austin, Patterson Labs, Sect Integrat Biol, Austin, TX 78712 USA.
+EM ahimler@email.arizona.edu
+RI Baer, Boris/F-5301-2011
+OI Baer, Boris/0000-0002-1136-5967
+TC 42
+Z9 44
+SN 0962-8452
+PD JUL 22
+PY 2009
+VL 276
+IS 1667
+BP 2611
+EP 2616
+DI 10.1098/rspb.2009.0313
+UT WOS:000267280900013
+PM 19369264
+ER
+
+PT J
+AU Van Bael, SA
+   Fernandez-Marin, H
+   Valencia, MC
+   Rojas, EI
+   Wcislo, WT
+   Herre, EA
+AF Van Bael, Sunshine A.
+   Fernandez-Marin, Hermogenes
+   Valencia, Mariana C.
+   Rojas, Enith I.
+   Wcislo, William T.
+   Herre, Edward A.
+TI Two fungal symbioses collide: endophytic fungi are not welcome in
+   leaf-cutting ant gardens
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Van Bael, Sunshine A.; Fernandez-Marin, Hermogenes; Valencia, Mariana C.; Rojas, Enith I.; Wcislo, William T.; Herre, Edward A.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Fernandez-Marin, Hermogenes] Univ Copenhagen, Dept Biol, Inst Biol, DK-2100 Copenhagen, Denmark.
+RP Van Bael, SA (reprint author), Smithsonian Trop Res Inst, Apartado 0843-03092, Balboa, Ancon, Panama.
+EM vanbaels@si.edu
+RI Van Bael, Sunshine/M-5370-2019; Van Bael, Sunshine/K-1930-2019
+OI Van Bael, Sunshine/0000-0001-7317-3533; 
+TC 44
+Z9 45
+SN 0962-8452
+EI 1471-2954
+PD JUL 7
+PY 2009
+VL 276
+IS 1666
+BP 2419
+EP 2426
+DI 10.1098/rspb.2009.0196
+UT WOS:000266990700012
+PM 19364739
+ER
+
+PT J
+AU Bernal, XE
+   Akre, KL
+   Baugh, AT
+   Rand, AS
+   Ryan, MJ
+AF Bernal, Ximena E.
+   Akre, Karin L.
+   Baugh, Alexander T.
+   Rand, A. Stanley
+   Ryan, Michael J.
+TI Female and male behavioral response to advertisement calls of graded
+   complexity in tungara frogs, Physalaemus pustulosus
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+C1 [Bernal, Ximena E.; Akre, Karin L.; Baugh, Alexander T.; Ryan, Michael J.] Univ Texas Austin, Sect Integrat Biol C0930, Austin, TX 78712 USA.
+   [Rand, A. Stanley; Ryan, Michael J.] Smithsonian Trop Res Inst, Balboa Ancon, Panama.
+RP Bernal, XE (reprint author), Texas Tech Univ, Dept Biol Sci, Box 43131, Lubbock, TX 79409 USA.
+EM ximena.bernal@ttu.edu
+RI Baugh, Alex/E-4777-2010
+OI Baugh, Alexander/0000-0003-2032-892X
+TC 36
+Z9 38
+SN 0340-5443
+EI 1432-0762
+PD JUL
+PY 2009
+VL 63
+IS 9
+BP 1269
+EP 1279
+DI 10.1007/s00265-009-0795-5
+UT WOS:000267214900003
+ER
+
+PT J
+AU Dent, DH
+   Burslem, DFRP
+AF Dent, Daisy H.
+   Burslem, David F. R. P.
+TI Performance Trade-offs Driven by Morphological Plasticity Contribute to
+   Habitat Specialization of Bornean Tree Species
+SO BIOTROPICA
+C1 [Dent, Daisy H.; Burslem, David F. R. P.] Univ Aberdeen, Dept Plant & Soil Sci, Sch Biol Sci, Aberdeen AB24 3UU, Scotland.
+RP Dent, DH (reprint author), Smithsonian Trop Res Inst, Unit 0948, APO, AA 34002 USA.
+EM daisy.h.dent@gmail.com
+RI Burslem, David FRP/F-1204-2019; Dent, Daisy/L-3549-2016
+OI Burslem, David FRP/0000-0001-6033-0990; Dent, Daisy/0000-0002-1219-7344
+TC 37
+Z9 37
+SN 0006-3606
+PD JUL
+PY 2009
+VL 41
+IS 4
+BP 424
+EP 434
+DI 10.1111/j.1744-7429.2009.00505.x
+UT WOS:000267538200005
+ER
+
+PT J
+AU Brenes-Arguedas, T
+   Coley, PD
+   Kursar, TA
+AF Brenes-Arguedas, Tania
+   Coley, Phyllis D.
+   Kursar, Thomas A.
+TI Pests vs. drought as determinants of plant distribution along a tropical
+   rainfall gradient
+SO ECOLOGY
+C1 [Coley, Phyllis D.; Kursar, Thomas A.] Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.
+   [Brenes-Arguedas, Tania; Coley, Phyllis D.; Kursar, Thomas A.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Kursar, TA (reprint author), Univ Utah, Dept Biol, 257 S 1400 E, Salt Lake City, UT 84112 USA.
+EM kursar@biology.utah.edu
+TC 41
+Z9 42
+SN 0012-9658
+EI 1939-9170
+PD JUL
+PY 2009
+VL 90
+IS 7
+BP 1751
+EP 1761
+DI 10.1890/08-1271.1
+UT WOS:000267745800006
+PM 19694125
+ER
+
+PT J
+AU Ewers, RM
+   Scharlemann, JPW
+   Balmford, A
+   Green, RE
+AF Ewers, Robert M.
+   Scharlemann, Joern P. W.
+   Balmford, Andrew
+   Green, Rhys E.
+TI Do increases in agricultural yield spare land for nature?
+SO GLOBAL CHANGE BIOLOGY
+C1 [Ewers, Robert M.] Zool Soc London, Inst Zool, London NW1 4RY, England.
+   [Ewers, Robert M.; Balmford, Andrew] Univ Cambridge, Dept Zool, Conservat Sci Grp, Cambridge CB2 3EJ, England.
+   [Scharlemann, Joern P. W.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Green, Rhys E.] Royal Soc Protect Birds, Sandy SG19 2DL, Beds, England.
+RP Ewers, RM (reprint author), Univ London Imperial Coll Sci Technol & Med, Silwood Pk Campus, Ascot SL5 7PY, Berks, England.
+EM r.ewers@imperial.ac.uk
+RI Scharlemann, Jorn/H-6521-2019; Scharlemann, Jorn PW/A-4737-2008
+OI Scharlemann, Jorn/0000-0002-2834-6367; Scharlemann, Jorn
+   PW/0000-0002-2834-6367
+TC 178
+Z9 180
+SN 1354-1013
+PD JUL
+PY 2009
+VL 15
+IS 7
+BP 1716
+EP 1726
+DI 10.1111/j.1365-2486.2009.01849.x
+UT WOS:000266700000011
+ER
+
+PT J
+AU Powers, JS
+   Montgomery, RA
+   Adair, EC
+   Brearley, FQ
+   DeWalt, SJ
+   Castanho, CT
+   Chave, J
+   Deinert, E
+   Ganzhorn, JU
+   Gilbert, ME
+   Gonzalez-Iturbe, JA
+   Bunyavejchewin, S
+   Grau, HR
+   Harms, KE
+   Hiremath, A
+   Iriarte-Vivar, S
+   Manzane, E
+   de Oliveira, AA
+   Poorter, L
+   Ramanamanjato, JB
+   Salk, C
+   Varela, A
+   Weiblen, GD
+   Lerdau, MT
+AF Powers, Jennifer S.
+   Montgomery, Rebecca A.
+   Adair, E. Carol
+   Brearley, Francis Q.
+   DeWalt, Saara J.
+   Castanho, Camila T.
+   Chave, Jerome
+   Deinert, Erika
+   Ganzhorn, Joerg U.
+   Gilbert, Matthew E.
+   Antonio Gonzalez-Iturbe, Jose
+   Bunyavejchewin, Sarayudh
+   Grau, H. Ricardo
+   Harms, Kyle E.
+   Hiremath, Ankila
+   Iriarte-Vivar, Silvia
+   Manzane, Eric
+   de Oliveira, Alexandre A.
+   Poorter, Lourens
+   Ramanamanjato, Jean-Baptiste
+   Salk, Carl
+   Varela, Amanda
+   Weiblen, George D.
+   Lerdau, Manuel T.
+TI Decomposition in tropical forests: a pan-tropical study of the effects
+   of litter type, litter placement and mesofaunal exclusion across a
+   precipitation gradient
+SO JOURNAL OF ECOLOGY
+C1 [Powers, Jennifer S.] Univ Minnesota, Dept Ecol Evolut & Behav & Plant Biol, St Paul, MN 55108 USA.
+   [Brearley, Francis Q.] Manchester Metropolitan Univ, Dept Geog & Environm Sci, Manchester M1 5GD, Lancs, England.
+   [DeWalt, Saara J.] Clemson Univ, Dept Biol Sci, Clemson, SC 29634 USA.
+   [Castanho, Camila T.; de Oliveira, Alexandre A.] Univ Sao Paulo, Inst Biociencias, Sao Paulo, Brazil.
+   [Chave, Jerome] CNRS UPS, Lab Evolut & Divers Biol, UMR5174, F-31062 Toulouse, France.
+   [Deinert, Erika] Org Trop Studies, San Jose, Costa Rica.
+   [Ganzhorn, Joerg U.] Univ Hamburg, Dept Anim Ecol & Conservat, D-20146 Hamburg, Germany.
+   [Gilbert, Matthew E.] Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USA.
+   [Antonio Gonzalez-Iturbe, Jose] Biocenosis AC, Merida 97134, Yucatan, Mexico.
+   [Bunyavejchewin, Sarayudh] Natl Pk, Wildlife & Plant Conservat Dept, Res Off, Bangkok 10900, Thailand.
+   [Grau, H. Ricardo] Univ Nacl Tucuman, Fac Ciencias Nat, Conicet Liey, RA-4000 San Miguel De Tucuman, Tucuman, Argentina.
+   [Harms, Kyle E.] Louisiana State Univ, Dept Biol Sci, Baton Rouge, LA 70803 USA.
+   [Harms, Kyle E.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Hiremath, Ankila] ATREE, New Delhi 110014, India.
+   [Iriarte-Vivar, Silvia] Ctr Invest Cient Yucatan AC, Unidad Recursos Nat, Merida, Yucatan, Mexico.
+   [Manzane, Eric] Univ Miami, Dept Biol, Coral Gables, FL 33146 USA.
+   [Poorter, Lourens] Wageningen Univ, Ctr Ecosyst Studies, Forest Ecol & Forest Management Grp, NL-6700 AA Wageningen, Netherlands.
+   [Poorter, Lourens] Wageningen Univ, Ctr Ecosyst Studies, Resource Ecol Grp, NL-6700 AA Wageningen, Netherlands.
+   [Poorter, Lourens] Inst Boliviano Invest Forestal, Casilla 6204, Santa Cruz, Bolivia.
+   [Ramanamanjato, Jean-Baptiste] QIT Madagascar Minerals, Tolagnaro 614, Madagascar.
+   [Salk, Carl] Duke Univ, Dept Biol, Durham, NC 27708 USA.
+   [Varela, Amanda] Pontificia Univ Javeriana, Lab Ecol Suelos & Hongos Trop, Unidad Ecol & Sistemat, Dept Biol,Fac Ciencias, Bogota, Colombia.
+   [Weiblen, George D.] Univ Minnesota, Plant Biol & Bell Museum Nat Hist, St Paul, MN 55108 USA.
+   [Lerdau, Manuel T.] Univ Virginia, Dept Environm Sci, Charlottesville, VA 22904 USA.
+   [Lerdau, Manuel T.] Univ Virginia, Dept Biol, Charlottesville, VA 22904 USA.
+RP Powers, JS (reprint author), Univ Minnesota, Dept Ecol Evolut & Behav & Plant Biol, St Paul, MN 55108 USA.
+EM powers@umn.edu
+RI Montgomery, Rebecca/J-5774-2013; Oliveira, Alexandre/G-8830-2012;
+   Lerdau, Manuel/E-7320-2011; Castanho, Camila T/D-4583-2012;
+   Bunyavejchewin, Sarayudh/P-1529-2017
+OI Montgomery, Rebecca/0000-0002-4131-1847; Oliveira,
+   Alexandre/0000-0001-5526-8109; Lerdau, Manuel/0000-0003-1864-0834;
+   Castanho, Camila T/0000-0002-0198-3200; Bunyavejchewin,
+   Sarayudh/0000-0002-1976-5041; Varela, Amanda/0000-0001-7596-4259; Salk,
+   Carl/0000-0003-2833-8292; Gilbert, Matthew/0000-0002-6761-7975; Poorter,
+   Lourens/0000-0003-1391-4875
+TC 134
+Z9 145
+SN 0022-0477
+PD JUL
+PY 2009
+VL 97
+IS 4
+BP 801
+EP 811
+DI 10.1111/j.1365-2745.2009.01515.x
+UT WOS:000267071500021
+ER
+
+PT J
+AU Briceno, RD
+   Eberhard, WG
+AF Briceno, R. D.
+   Eberhard, W. G.
+TI Experimental modifications imply a stimulatory function for male tsetse
+   fly genitalia, supporting cryptic female choice theory
+SO JOURNAL OF EVOLUTIONARY BIOLOGY
+C1 [Briceno, R. D.; Eberhard, W. G.] Univ Costa Rica, Escuela Biol, San Jose, Costa Rica.
+   [Eberhard, W. G.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Eberhard, WG (reprint author), Univ Costa Rica, Escuela Biol, Ciudad Univ, San Jose, Costa Rica.
+EM william.eberhard@gmail.com
+RI TATSUTA, HARUKI/F-2997-2010
+TC 32
+Z9 33
+SN 1010-061X
+EI 1420-9101
+PD JUL
+PY 2009
+VL 22
+IS 7
+BP 1516
+EP 1525
+DI 10.1111/j.1420-9101.2009.01761.x
+UT WOS:000267129500014
+PM 19467130
+ER
+
+PT J
+AU Sanchez, E
+   Gallery, R
+   Dalling, JW
+AF Sanchez, Evelyn
+   Gallery, Rachel
+   Dalling, James W.
+TI Importance of nurse logs as a substrate for the regeneration of pioneer
+   tree species on Barro Colorado Island, Panama
+SO JOURNAL OF TROPICAL ECOLOGY
+C1 [Sanchez, Evelyn; Dalling, James W.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Gallery, Rachel; Dalling, James W.] Univ Illinois, Program Ecol & Evolutionary Biol, Urbana, IL 61801 USA.
+   [Dalling, James W.] Univ Illinois, Dept Plant Biol, Urbana, IL 61801 USA.
+RP Dalling, JW (reprint author), Smithsonian Trop Res Inst, Apartado 0843-03092, Balboa, Panama.
+EM dallingj@life.uiuc.edu
+RI Gallery, Rachel E/I-2169-2014
+TC 11
+Z9 11
+SN 0266-4674
+EI 1469-7831
+PD JUL
+PY 2009
+VL 25
+BP 429
+EP 437
+DI 10.1017/S0266467409006130
+PN 4
+UT WOS:000267242600008
+ER
+
+PT J
+AU Fernandez-Marin, H
+   Zimmerman, JK
+   Nash, DR
+   Boomsma, JJ
+   Wcislo, WT
+AF Fernandez-Marin, Hermogenes
+   Zimmerman, Jess K.
+   Nash, David R.
+   Boomsma, Jacobus J.
+   Wcislo, William T.
+TI Reduced biological control and enhanced chemical pest management in the
+   evolution of fungus farming in ants
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Fernandez-Marin, Hermogenes; Wcislo, William T.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Fernandez-Marin, Hermogenes; Wcislo, William T.] STRI, MRC 0580 12, Unit 9100, DPO, AA 34002 USA.
+   [Fernandez-Marin, Hermogenes] Univ Puerto Rico, Dept Biol, San Juan, PR 00936 USA.
+   [Zimmerman, Jess K.] Univ Puerto Rico, Inst Trop Ecosyst Studies, San Juan, PR 00936 USA.
+   [Fernandez-Marin, Hermogenes; Nash, David R.; Boomsma, Jacobus J.] Univ Copenhagen, Dept Biol, Ctr Social Evolut, DK-2100 Copenhagen, Denmark.
+RP Fernandez-Marin, H (reprint author), Smithsonian Trop Res Inst, POB 0843-03092, Balboa, Ancon, Panama.
+EM hermogenes_f@hotmail.com; wcislow@si.edu
+RI Nash, David R./B-2916-2009; Boomsma, Jacobus J/M-2785-2014
+OI Boomsma, Jacobus J/0000-0002-3598-1609; Nash, David/0000-0002-0462-6794
+TC 80
+Z9 80
+SN 0962-8452
+EI 1471-2954
+PD JUN 22
+PY 2009
+VL 276
+IS 1665
+BP 2263
+EP 2269
+DI 10.1098/rspb.2009.0184
+UT WOS:000265896700016
+PM 19324734
+ER
+
+PT J
+AU Clark, CJ
+   Dudley, R
+AF Clark, Christopher James
+   Dudley, Robert
+TI Flight costs of long, sexually selected tails in hummingbirds
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Clark, Christopher James; Dudley, Robert] Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USA.
+   [Dudley, Robert] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Clark, CJ (reprint author), Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USA.
+EM cclark@berkeley.edu
+TC 47
+Z9 48
+SN 0962-8452
+PD JUN 7
+PY 2009
+VL 276
+IS 1664
+BP 2109
+EP 2115
+DI 10.1098/rspb.2009.0090
+UT WOS:000265450700025
+PM 19324747
+ER
+
+PT J
+AU Biani, NB
+   Mueller, UG
+   Wcislo, WT
+AF Biani, Natalia B.
+   Mueller, Ulrich G.
+   Wcislo, William T.
+TI Cleaner Mites: Sanitary Mutualism in the Miniature Ecosystem of
+   Neotropical Bee Nests
+SO AMERICAN NATURALIST
+C1 [Biani, Natalia B.; Mueller, Ulrich G.] Univ Texas Austin, Sect Integrat Biol, Austin, TX 78712 USA.
+   [Wcislo, William T.] Smithsonian Trop Res Inst, Balboa 03092, Panama.
+RP Biani, NB (reprint author), Univ Texas Austin, Sect Integrat Biol, Austin, TX 78712 USA.
+EM megaloptabee@gmail.com
+TC 16
+Z9 18
+SN 0003-0147
+EI 1537-5323
+PD JUN
+PY 2009
+VL 173
+IS 6
+BP 841
+EP 847
+DI 10.1086/598497
+UT WOS:000265625700014
+PM 19371167
+ER
+
+PT J
+AU Paquette, A
+   Hawryshyn, J
+   Senikas, AV
+   Potvin, C
+AF Paquette, Alain
+   Hawryshyn, Jessica
+   Senikas, Alexandra Vyta
+   Potvin, Catherine
+TI Enrichment Planting in Secondary Forests: a Promising Clean Development
+   Mechanism to Increase Terrestrial Carbon Sinks
+SO ECOLOGY AND SOCIETY
+C1 [Paquette, Alain] Univ Quebec, Ctr Etude Foret, Montreal, PQ H3C 3P8, Canada.
+   [Hawryshyn, Jessica; Senikas, Alexandra Vyta; Potvin, Catherine] McGill Univ, Dept Biol, Montreal, PQ H3A 2T5, Canada.
+   [Hawryshyn, Jessica; Senikas, Alexandra Vyta; Potvin, Catherine] McGill Univ, McGill Sch Environm, Montreal, PQ H3A 2T5, Canada.
+   [Potvin, Catherine] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Paquette, A (reprint author), Univ Quebec, Ctr Etude Foret, Montreal, PQ H3C 3P8, Canada.
+RI Paquette, Alain/F-4919-2011
+TC 27
+Z9 27
+SN 1708-3087
+PD JUN
+PY 2009
+VL 14
+IS 1
+AR 31
+UT WOS:000267846300041
+ER
+
+PT J
+AU Melo, MC
+   Salazar, C
+   Jiggins, CD
+   Linares, M
+AF Melo, Maria C.
+   Salazar, Camilo
+   Jiggins, Chris D.
+   Linares, Mauricio
+TI ASSORTATIVE MATING PREFERENCES AMONG HYBRIDS OFFERS A ROUTE TO HYBRID
+   SPECIATION
+SO EVOLUTION
+C1 [Melo, Maria C.; Linares, Mauricio] Univ Los Andes, Inst Genet, Bogota, Colombia.
+   [Salazar, Camilo] Smithsonian Trop Res Inst, Panama City, Panama.
+   [Jiggins, Chris D.] Univ Cambridge, Dept Zool, Cambridge CB2 3EJ, England.
+RP Melo, MC (reprint author), Univ Los Andes, Inst Genet, Carrera 1E 18A-10,POBox 4976, Bogota, Colombia.
+EM mar-melo@uniandes.edu.co; salazarc@si.edu; c.jiggins@zoo.cam.ac.uk;
+   mlinares@uniandes.edu.co
+RI C, Salazar/A-1647-2010; Linares, Mauricio/I-3509-2016; Jiggins, Chris
+   D/B-9960-2008
+OI C, Salazar/0000-0001-9217-6588; Linares, Mauricio/0000-0002-1021-0226;
+   Jiggins, Chris D/0000-0002-7809-062X
+TC 59
+Z9 62
+SN 0014-3820
+PD JUN
+PY 2009
+VL 63
+IS 6
+BP 1660
+EP 1665
+DI 10.1111/j.1558-5646.2009.00633.x
+UT WOS:000266268000023
+PM 19492995
+ER
+
+PT J
+AU Boyero, L
+   Ramirez, A
+   Dudgeon, D
+   Pearson, RG
+AF Boyero, Luz
+   Ramirez, Alonso
+   Dudgeon, David
+   Pearson, Richard G.
+TI Are tropical streams really different?
+SO JOURNAL OF THE NORTH AMERICAN BENTHOLOGICAL SOCIETY
+C1 [Boyero, Luz; Pearson, Richard G.] James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+   [Boyero, Luz] Smithsonian Trop Res Inst, Balboa 2072, Panama.
+   [Ramirez, Alonso] Univ Puerto Rico, Inst Trop Ecosyst Studies, San Juan, PR 00931 USA.
+   [Dudgeon, David] Univ Hong Kong, Sch Biol Sci, Div Ecol & Biodivers, Hong Kong, Hong Kong, Peoples R China.
+RP Boyero, L (reprint author), James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+EM luz.boyero@jcu.edu.au; alonso_ites@yahoo.com; ddudgeon@hkucc.hku.hk;
+   richard.pearson@jcu.edu.au
+RI Boyero, Luz/L-5822-2014; Boyero, Luz/N-1719-2019; Dudgeon,
+   David/A-2733-2010; Ramirez, Alonso/E-4462-2012
+OI Boyero, Luz/0000-0001-7366-9299; Boyero, Luz/0000-0001-7366-9299;
+   Ramirez, Alonso/0000-0001-9985-5719; Pearson,
+   Richard/0000-0001-6047-031X
+TC 75
+Z9 80
+SN 0887-3593
+PD JUN
+PY 2009
+VL 28
+IS 2
+BP 397
+EP 403
+DI 10.1899/08-146.1
+UT WOS:000266645700012
+ER
+
+PT J
+AU Yule, CM
+   Leong, MY
+   Liew, KC
+   Ratnarajah, L
+   Schmidt, K
+   Wong, HM
+   Pearson, RG
+   Boyero, L
+AF Yule, Catherine M.
+   Leong, Mun Yi
+   Liew, Kong Cheng
+   Ratnarajah, Lavenia
+   Schmidt, Katrin
+   Wong, Hooi Ming
+   Pearson, Richard G.
+   Boyero, Luz
+TI Shredders in Malaysia: abundance and richness are higher in cool upland
+   tropical streams
+SO JOURNAL OF THE NORTH AMERICAN BENTHOLOGICAL SOCIETY
+C1 [Yule, Catherine M.; Leong, Mun Yi; Liew, Kong Cheng; Ratnarajah, Lavenia; Schmidt, Katrin; Wong, Hooi Ming] Monash Univ, Sch Sci, Selangor 46150, Malaysia.
+   [Pearson, Richard G.; Boyero, Luz] James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+   [Boyero, Luz] Smithsonian Trop Res Inst, Balboa 2072, Panama.
+RP Yule, CM (reprint author), Monash Univ, Sch Sci, Bandar Sunway, Selangor 46150, Malaysia.
+EM catherine.yule@sci.monash.edu.my; richard.pearson@jcu.edu.au;
+   luz.boyero@jcu.edu.au
+RI YULE, Catherine/F-9733-2015; Boyero, Luz/L-5822-2014; Boyero,
+   Luz/N-1719-2019
+OI Boyero, Luz/0000-0001-7366-9299; Boyero, Luz/0000-0001-7366-9299;
+   Pearson, Richard/0000-0001-6047-031X; YULE,
+   CATHERINE/0000-0002-1085-2798
+TC 69
+Z9 73
+SN 0887-3593
+PD JUN
+PY 2009
+VL 28
+IS 2
+BP 404
+EP 415
+DI 10.1899/07-161.1
+UT WOS:000266645700013
+ER
+
+PT J
+AU Pearson, RG
+   Boyero, L
+AF Pearson, Richard G.
+   Boyero, Luz
+TI Gradients in regional diversity of freshwater taxa
+SO JOURNAL OF THE NORTH AMERICAN BENTHOLOGICAL SOCIETY
+C1 [Pearson, Richard G.; Boyero, Luz] James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+   [Boyero, Luz] Smithsonian Trop Res Inst, Balboa 2072, Panama.
+RP Pearson, RG (reprint author), James Cook Univ, Sch Marine & Trop Biol, Townsville, Qld 4811, Australia.
+EM richard.pearson@jcu.edu.au; luz.boyero@jcu.edu.au
+RI Boyero, Luz/L-5822-2014; Boyero, Luz/N-1719-2019
+OI Boyero, Luz/0000-0001-7366-9299; Boyero, Luz/0000-0001-7366-9299;
+   Pearson, Richard/0000-0001-6047-031X
+TC 44
+Z9 44
+SN 0887-3593
+PD JUN
+PY 2009
+VL 28
+IS 2
+BP 504
+EP 514
+DI 10.1899/08-118.1
+UT WOS:000266645700021
+ER
+
+PT J
+AU Bruna, EM
+   Fiske, IJ
+   Trager, MD
+AF Bruna, Emilio M.
+   Fiske, Ian J.
+   Trager, Mathew D.
+TI Habitat fragmentation and plant populations: is what we know
+   demographically irrelevant?
+SO JOURNAL OF VEGETATION SCIENCE
+C1 [Bruna, Emilio M.; Fiske, Ian J.] Univ Florida, Dept Wildlife Ecol & Conservat, Gainesville, FL 32611 USA.
+   [Bruna, Emilio M.] Univ Florida, Ctr Latin Amer Studies, Gainesville, FL 32611 USA.
+   [Bruna, Emilio M.] Inst Nacl de Pesquisas da Amazonia, Biol Dynam Forest Fragments Project, BR-69011 Manaus, Amazonas, Brazil.
+   [Bruna, Emilio M.] Smithsonian Trop Res Inst, BR-69011 Manaus, Amazonas, Brazil.
+   [Trager, Mathew D.] Univ Florida, Sch Nat Resources & Environm, Gainesville, FL 32611 USA.
+RP Bruna, EM (reprint author), Univ Florida, Dept Wildlife Ecol & Conservat, POB 110430, Gainesville, FL 32611 USA.
+EM embruna@ufl.edu
+RI Bruna, Emilio M/H-2769-2012
+OI Bruna, Emilio M/0000-0003-3381-8477
+TC 34
+Z9 37
+SN 1100-9233
+PD JUN
+PY 2009
+VL 20
+IS 3
+BP 569
+EP 576
+DI 10.1111/j.1654-1103.2009.01060.x
+UT WOS:000266244100019
+ER
+
+PT J
+AU Zotz, G
+   Reuter, N
+AF Zotz, Gerhard
+   Reuter, Norman
+TI The effect of exposure to sea water on germination and vegetative growth
+   of an epiphytic bromeliad
+SO JOURNAL OF TROPICAL ECOLOGY
+C1 [Zotz, Gerhard; Reuter, Norman] Carl von Ossietzky Univ Oldenburg, Inst Environm & Biol Sci, AG Funct Ecol, D-26111 Oldenburg, Germany.
+   [Zotz, Gerhard] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Zotz, G (reprint author), Carl von Ossietzky Univ Oldenburg, Inst Environm & Biol Sci, AG Funct Ecol, Box 2503, D-26111 Oldenburg, Germany.
+EM gerhard.zotz@uni-oldenburg.de
+RI Zotz, Gerhard/Q-5365-2018
+OI Zotz, Gerhard/0000-0002-6823-2268
+TC 4
+Z9 5
+SN 0266-4674
+PD MAY
+PY 2009
+VL 25
+BP 311
+EP 319
+DI 10.1017/S0266467409006014
+UT WOS:000265504100008
+ER
+
+PT J
+AU Peters, MB
+   Hagen, C
+   Snyder, B
+   Glenn, TC
+   Gowaty, PA
+AF Peters, Maureen B.
+   Hagen, Cris
+   Snyder, Brian
+   Glenn, Travis C.
+   Gowaty, Patricia Adair
+TI Microsatellite markers isolated from Drosophila hydei
+SO MOLECULAR ECOLOGY RESOURCES
+C1 [Peters, Maureen B.; Hagen, Cris; Glenn, Travis C.] Univ Georgia, Savannah River Ecol Lab, Aiken, SC 29802 USA.
+   [Snyder, Brian] Univ Georgia, Inst Ecol, Athens, GA 30602 USA.
+   [Gowaty, Patricia Adair] Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USA.
+   [Glenn, Travis C.] Univ Georgia, Coll Publ Hlth, Athens, GA 30602 USA.
+   [Gowaty, Patricia Adair] Smithsonian Trop Res Inst, Unit 0948, APO, AA 34002 USA.
+RP Peters, MB (reprint author), Univ Georgia, Savannah River Ecol Lab, PO Drawer E, Aiken, SC 29802 USA.
+EM mbpeters@uga.edu
+RI Glenn, Travis C/A-2390-2008
+OI Glenn, Travis C/0000-0001-7725-3637
+TC 0
+Z9 0
+SN 1755-098X
+PD MAY
+PY 2009
+VL 9
+IS 3
+BP 817
+EP 819
+DI 10.1111/j.1755-0998.2008.02266.x
+UT WOS:000265897200030
+PM 21564754
+ER
+
+PT J
+AU Paine, CET
+   Harms, KE
+AF Paine, C. E. Timothy
+   Harms, Kyle E.
+TI Quantifying the effects of seed arrival and environmental conditions on
+   tropical seedling community structure
+SO OECOLOGIA
+C1 [Paine, C. E. Timothy; Harms, Kyle E.] Louisiana State Univ, Dept Biol Sci, Baton Rouge, LA 70803 USA.
+   [Harms, Kyle E.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Paine, CET (reprint author), UMR EcoFoG, ENGREF, Campus Agron,BP 709, F-97379 Kourou, French Guiana.
+EM timothy.paine@ecofog.gf; kharms@lsu.edu
+RI Paine, C. E. Timothy/R-8108-2019; Paine, C. E. Timothy/G-9961-2011
+OI Paine, C. E. Timothy/0000-0001-8705-3719; 
+TC 28
+Z9 34
+SN 0029-8549
+EI 1432-1939
+PD MAY
+PY 2009
+VL 160
+IS 1
+BP 139
+EP 150
+DI 10.1007/s00442-008-1269-6
+UT WOS:000265100500014
+PM 19142667
+ER
+
+PT J
+AU Bernal, XE
+   Rand, AS
+   Ryan, MJ
+AF Bernal, Ximena E.
+   Rand, A. Stanley
+   Ryan, Michael J.
+TI Task differences confound sex differences in receiver permissiveness in
+   tungara frogs
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Bernal, Ximena E.; Ryan, Michael J.] Univ Texas Austin, Sect Integrat Biol, Austin, TX 78712 USA.
+   [Rand, A. Stanley; Ryan, Michael J.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Bernal, XE (reprint author), Texas Tech Univ, Dept Biol Sci, POB 43131, Lubbock, TX 79409 USA.
+EM xbernal@mail.utexas.edu
+TC 19
+Z9 19
+SN 0962-8452
+PD APR 7
+PY 2009
+VL 276
+IS 1660
+BP 1323
+EP 1329
+DI 10.1098/rspb.2008.0935
+UT WOS:000264351800016
+PM 19141428
+ER
+
+PT J
+AU Dalling, JW
+   Brown, TA
+AF Dalling, James W.
+   Brown, Thomas A.
+TI Long-Term Persistence of Pioneer Species in Tropical Rain Forest Soil
+   Seed Banks
+SO AMERICAN NATURALIST
+C1 [Dalling, James W.] Univ Illinois, Dept Plant Biol, Urbana, IL 61801 USA.
+   [Dalling, James W.] Smithsonian Trop Res Inst, Ancon, Panama.
+   [Brown, Thomas A.] Lawrence Livermore Natl Lab, Ctr Accelerator Mass Spectrometry, Livermore, CA 94551 USA.
+RP Dalling, JW (reprint author), Univ Illinois, Dept Plant Biol, Urbana, IL 61801 USA.
+EM dallingj@life.uiuc.edu
+TC 26
+Z9 27
+SN 0003-0147
+PD APR
+PY 2009
+VL 173
+IS 4
+BP 531
+EP 535
+DI 10.1086/597221
+UT WOS:000263937300013
+PM 19228112
+ER
+
+PT J
+AU Miglietta, MP
+   Lessios, HA
+AF Miglietta, Maria Pia
+   Lessios, Harilaos A.
+TI A silent invasion
+SO BIOLOGICAL INVASIONS
+C1 [Miglietta, Maria Pia; Lessios, Harilaos A.] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Miglietta, MP (reprint author), Penn State Univ, Dept Biol, University Pk, PA 16802 USA.
+EM mp.miglietta@psu.edu
+TC 41
+Z9 43
+SN 1387-3547
+PD APR
+PY 2009
+VL 11
+IS 4
+BP 825
+EP 834
+DI 10.1007/s10530-008-9296-0
+UT WOS:000263785700005
+ER
+
+PT J
+AU Roche, DG
+   Torchin, ME
+   Leung, B
+   Binning, SA
+AF Roche, Dominique G.
+   Torchin, Mark E.
+   Leung, Brian
+   Binning, Sandra A.
+TI Localized invasion of the North American Harris mud crab,
+   Rhithropanopeus harrisii, in the Panama Canal: implications for
+   eradication and spread
+SO BIOLOGICAL INVASIONS
+C1 [Roche, Dominique G.; Torchin, Mark E.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Roche, Dominique G.; Leung, Brian; Binning, Sandra A.] McGill Univ, Dept Biol, Montreal, PQ H3A 1B1, Canada.
+RP Torchin, ME (reprint author), Smithsonian Trop Res Inst, Apartado 0843-03092, Balboa, Ancon, Panama.
+EM torchinm@si.edu
+RI Roche, Dominique/K-7426-2012
+OI Roche, Dominique/0000-0002-3326-864X; Binning,
+   Sandra/0000-0002-2804-9979
+TC 16
+Z9 20
+SN 1387-3547
+EI 1573-1464
+PD APR
+PY 2009
+VL 11
+IS 4
+BP 983
+EP 993
+DI 10.1007/s10530-008-9310-6
+UT WOS:000263785700019
+ER
+
+PT J
+AU Helson, JE
+   Capson, TL
+   Johns, T
+   Aiello, A
+   Windsor, DM
+AF Helson, Julie E.
+   Capson, Todd L.
+   Johns, Timothy
+   Aiello, Annette
+   Windsor, Donald M.
+TI Ecological and evolutionary bioprospecting: using aposematic insects as
+   guides to rainforest plants active against disease
+SO FRONTIERS IN ECOLOGY AND THE ENVIRONMENT
+C1 [Helson, Julie E.; Capson, Todd L.; Johns, Timothy] McGill Univ, Dept Plant Sci, Ste Anne De Bellevue, PQ, Canada.
+   [Capson, Todd L.; Aiello, Annette; Windsor, Donald M.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Helson, JE (reprint author), Univ Toronto, Scarborough, ON M1C 1A4, Canada.
+EM capsont@si.edu
+TC 14
+Z9 14
+SN 1540-9295
+PD APR
+PY 2009
+VL 7
+IS 3
+BP 130
+EP 134
+DI 10.1890/070189
+UT WOS:000264977600018
+ER
+
+PT J
+AU King, DA
+   Davies, SJ
+   Tan, S
+   Noor, NSM
+AF King, David A.
+   Davies, Stuart J.
+   Tan, Sylvester
+   Noor, Nur Supardi Md.
+TI Trees approach gravitational limits to height in tall lowland forests of
+   Malaysia
+SO FUNCTIONAL ECOLOGY
+C1 [King, David A.; Davies, Stuart J.] Harvard Univ, Ctr Trop Forest Sci, Arnold Arboretum, Cambridge, MA 02138 USA.
+   [Davies, Stuart J.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Tan, Sylvester] Sarawak Forestry Corp, Kuching, Sarawak, Malaysia.
+   [Noor, Nur Supardi Md.] Forest Res Inst Malaysia, Forest Management & Conservat Div, Kuala Lumpur 52109, Malaysia.
+RP King, DA (reprint author), 610 NW 18th St, Corvallis, OR 97330 USA.
+EM dkingaz@yahoo.com
+TC 45
+Z9 45
+SN 0269-8463
+PD APR
+PY 2009
+VL 23
+IS 2
+BP 284
+EP 291
+DI 10.1111/j.1365-2435.2008.01514.x
+UT WOS:000264185500008
+ER
+
+PT J
+AU Susan, GWL
+   Laurance, WF
+   Nascimento, HEM
+   Andrade, A
+   Fearnside, PM
+   Expedito, RGR
+   Condit, R
+AF Laurance Susan, G. W.
+   Laurance, William F.
+   Nascimento, Henrique E. M.
+   Andrade, Ana
+   Fearnside, Phillip M.
+   Rebello Expedito, R. G.
+   Condit, Richard
+TI Long-term variation in Amazon forest dynamics
+SO JOURNAL OF VEGETATION SCIENCE
+C1 [Laurance Susan, G. W.; Laurance, William F.; Condit, Richard] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+   [Laurance Susan, G. W.; Laurance, William F.; Nascimento, Henrique E. M.; Andrade, Ana] Natl Inst Amazonian Res INPA, Biol Dynam Forest Fragments Project, BR-69011970 Manaus, Amazonas, Brazil.
+   [Fearnside, Phillip M.] INPA, Dept Ecol, BR-69011970 Manaus, Amazonas, Brazil.
+   [Rebello Expedito, R. G.] Inst Nacl Meterol INMET, Brasilia, DF, Brazil.
+   [Condit, Richard] Univ Calif Santa Barbara, Natl Ctr Ecol Anal & Synth, Santa Barbara, CA 93106 USA.
+RP Susan, GWL (reprint author), Smithsonian Trop Res Inst, Apartado 0843-03092, Balboa, Ancon, Panama.
+EM laurances@si.edu
+RI Laurance, William F/B-2709-2012; Fearnside, Philip M/D-6559-2011;
+   Laurance, Susan/G-6021-2011; Nascimento, Henrique E/F-8612-2012
+OI Laurance, William F/0000-0003-4430-9408; Fearnside, Philip
+   M/0000-0003-3672-9082; Laurance, Susan/0000-0002-2831-2933; 
+TC 52
+Z9 52
+SN 1100-9233
+EI 1654-1103
+PD APR
+PY 2009
+VL 20
+IS 2
+BP 323
+EP 333
+DI 10.1111/j.1654-1103.2009.01044.x
+UT WOS:000264568200014
+ER
+
+PT J
+AU Van Bael, SA
+   Valencia, MC
+   Rojas, EI
+   Gomez, N
+   Windsor, DM
+   Herre, EA
+AF Van Bael, Sunshine A.
+   Valencia, Mariana C.
+   Rojas, Enith I.
+   Gomez, Nelida
+   Windsor, Donald M.
+   Herre, Edward A.
+TI Effects of Foliar Endophytic Fungi on the Preference and Performance of
+   the Leaf Beetle Chelymorpha alternans in Panama
+SO BIOTROPICA
+C1 [Van Bael, Sunshine A.; Valencia, Mariana C.; Rojas, Enith I.; Gomez, Nelida; Windsor, Donald M.; Herre, Edward A.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Van Bael, SA (reprint author), Smithsonian Trop Res Inst, Apartado Postal 0843-03092, Balboa, Ancon, Panama.
+EM vanbaels@si.edu
+RI Van Bael, Sunshine/M-5370-2019; Van Bael, Sunshine/K-1930-2019
+OI Van Bael, Sunshine/0000-0001-7317-3533; 
+TC 23
+Z9 23
+SN 0006-3606
+PD MAR
+PY 2009
+VL 41
+IS 2
+BP 221
+EP 225
+DI 10.1111/j.1744-7429.2008.00476.x
+UT WOS:000263747000012
+ER
+
+PT J
+AU Vencl, FV
+   Gomez, NE
+   Ploss, K
+   Boland, W
+AF Vencl, Fredric V.
+   Gomez, Nelida E.
+   Ploss, Kerstin
+   Boland, Wilhelm
+TI The Chlorophyll Catabolite, Pheophorbide a, Confers Predation Resistance
+   in a Larval Tortoise Beetle Shield Defense
+SO JOURNAL OF CHEMICAL ECOLOGY
+C1 [Vencl, Fredric V.] SUNY Stony Brook, Dept Ecol & Evolut, Stony Brook, NY 11794 USA.
+   [Vencl, Fredric V.; Gomez, Nelida E.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Ploss, Kerstin; Boland, Wilhelm] Max Planck Inst Chem Okol, D-07745 Jena, Germany.
+RP Vencl, FV (reprint author), SUNY Stony Brook, Dept Ecol & Evolut, Stony Brook, NY 11794 USA.
+EM fvencl@life.bio.sunysb.edu
+RI Boland, Wilhelm/K-7762-2012
+OI Boland, Wilhelm/0000-0001-6784-2534
+TC 16
+Z9 16
+SN 0098-0331
+PD MAR
+PY 2009
+VL 35
+IS 3
+BP 281
+EP 288
+DI 10.1007/s10886-008-9577-1
+UT WOS:000264177200001
+PM 19127385
+ER
+
+PT J
+AU Paine, CET
+   Harms, KE
+   Ramos, J
+AF Paine, C. E. Timothy
+   Harms, Kyle E.
+   Ramos, Jesus
+TI Supplemental irrigation increases seedling performance and diversity in
+   a tropical forest
+SO JOURNAL OF TROPICAL ECOLOGY
+C1 [Paine, C. E. Timothy; Harms, Kyle E.] Louisiana State Univ, Dept Biol Sci, Baton Rouge, LA 70803 USA.
+   [Harms, Kyle E.] Smithsonian Trop Res Inst, Balboa 2072, Panama.
+   [Ramos, Jesus] Asociac Conservac Cuenca Amazon, Jiron Cusco 499, Puerto Maldonad, Peru.
+RP Paine, CET (reprint author), UMR EcoFoG ENGREF, Campus Agron,BP 709, Kourou 97379, French Guiana.
+EM timothy.paine@ecofog.gf
+RI Paine, C. E. Timothy/R-8108-2019; Paine, C. E. Timothy/G-9961-2011
+OI Paine, C. E. Timothy/0000-0001-8705-3719; 
+TC 14
+Z9 14
+SN 0266-4674
+PD MAR
+PY 2009
+VL 25
+BP 171
+EP 180
+DI 10.1017/S0266467408005798
+UT WOS:000264212400006
+ER
+
+PT J
+AU Kim, TW
+   Christy, JH
+   Dennenmoser, S
+   Choe, JC
+AF Kim, Tae Won
+   Christy, John H.
+   Dennenmoser, Stefan
+   Choe, Jae C.
+TI The strength of a female mate preference increases with predation risk
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+C1 [Kim, Tae Won; Choe, Jae C.] Ewha Womans Univ, Div EcoSci, Seoul 120750, South Korea.
+   [Kim, Tae Won] Seoul Natl Univ, Sch Biol Sci, Seoul 151747, South Korea.
+   [Kim, Tae Won; Christy, John H.; Dennenmoser, Stefan] Smithsonian Trop Res Inst, Naos Lab, Panama City, Panama.
+RP Choe, JC (reprint author), Ewha Womans Univ, Div EcoSci, Seoul 120750, South Korea.
+EM jaechoe@ewha.ac.kr
+TC 28
+Z9 29
+SN 0962-8452
+EI 1471-2954
+PD FEB 22
+PY 2009
+VL 276
+IS 1657
+BP 775
+EP 780
+DI 10.1098/rspb.2008.1070
+UT WOS:000262419000022
+PM 19019792
+ER
+
+PT J
+AU Potvin, C
+   Dutilleul, P
+AF Potvin, Catherine
+   Dutilleul, Pierre
+TI Neighborhood effects and size-asymmetric competition in a tree
+   plantation varying in diversity
+SO ECOLOGY
+C1 [Potvin, Catherine] McGill Univ, Dept Biol, Montreal, PQ H3A 1B1, Canada.
+   [Potvin, Catherine] Smithsonian Trop Res Inst, Panama City, Panama.
+   [Dutilleul, Pierre] McGill Univ, Dept Plant Sci, Quebec City, PQ H9X 3V9, Canada.
+RP Potvin, C (reprint author), McGill Univ, Dept Biol, 1205 Dr Penfield, Montreal, PQ H3A 1B1, Canada.
+EM Catherine.potvin@mcgill.ca
+TC 72
+Z9 73
+SN 0012-9658
+PD FEB
+PY 2009
+VL 90
+IS 2
+BP 321
+EP 327
+DI 10.1890/08-0353.1
+UT WOS:000263570800005
+PM 19323214
+ER
+
+PT J
+AU Comita, LS
+   Hubbell, SP
+AF Comita, Liza S.
+   Hubbell, Stephen P.
+TI Local neighborhood and species' shade tolerance influence survival in a
+   diverse seedling bank
+SO ECOLOGY
+C1 [Comita, Liza S.; Hubbell, Stephen P.] Univ Georgia, Dept Plant Biol, Athens, GA 30602 USA.
+   [Hubbell, Stephen P.] Smithsonian Trop Res Inst, Balboa Ancon, Panama.
+RP Comita, LS (reprint author), Columbia Univ, Dept Ecol Evolut & Environm Biol, New York, NY 10027 USA.
+EM lsc2125@columbia.edu
+TC 120
+Z9 143
+SN 0012-9658
+EI 1939-9170
+PD FEB
+PY 2009
+VL 90
+IS 2
+BP 328
+EP 334
+DI 10.1890/08-0451.1
+UT WOS:000263570800006
+PM 19323215
+ER
+
+PT J
+AU Kellner, JR
+   Clark, DB
+   Hubbell, SP
+AF Kellner, James R.
+   Clark, David B.
+   Hubbell, Stephen P.
+TI Pervasive canopy dynamics produce short-term stability in a tropical
+   rain forest landscape
+SO ECOLOGY LETTERS
+C1 [Kellner, James R.; Hubbell, Stephen P.] Univ Georgia, Dept Plant Pathol, Athens, GA 30602 USA.
+   [Clark, David B.] Univ Missouri, Dept Biol, St Louis, MO 63121 USA.
+   [Hubbell, Stephen P.] Smithsonian Trop Res Inst, Ancon, Panama.
+RP Kellner, JR (reprint author), Univ Georgia, Dept Plant Pathol, Athens, GA 30602 USA.
+EM jkellner@stanford.edu
+TC 56
+Z9 56
+SN 1461-023X
+EI 1461-0248
+PD FEB
+PY 2009
+VL 12
+IS 2
+BP 155
+EP 164
+DI 10.1111/j.1461-0248.2008.01274.x
+UT WOS:000262468500005
+PM 19143827
+ER
+
+PT J
+AU Kursar, TA
+   Engelbrecht, BMJ
+   Burke, A
+   Tyree, MT
+   El Omari, B
+   Giraldo, JP
+AF Kursar, Thomas A.
+   Engelbrecht, Bettina M. J.
+   Burke, Amy
+   Tyree, Melvin T.
+   El Omari, Bouchra
+   Giraldo, Juan P.
+TI Tolerance to low leaf water status of tropical tree seedlings is related
+   to drought performance and distribution
+SO FUNCTIONAL ECOLOGY
+C1 [Kursar, Thomas A.] Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.
+   [Kursar, Thomas A.; Engelbrecht, Bettina M. J.; Burke, Amy; Tyree, Melvin T.; El Omari, Bouchra; Giraldo, Juan P.] Smithsonian Trop Res Inst, Panama City, Panama.
+   [Engelbrecht, Bettina M. J.] Univ Kaiserslautern, Dept Plant Ecol & Systemat, D-67663 Kaiserslautern, Germany.
+   [Tyree, Melvin T.] USDA Forest Serv, No Res Stn, S Burlington, VT 05403 USA.
+   [Tyree, Melvin T.] Univ Alberta, Dept Renewable Resources, Edmonton, AB T6G 2E3, Canada.
+RP Kursar, TA (reprint author), Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.
+EM kursar@biology.utah.edu
+RI Engelbrecht, Bettina/E-9914-2012
+OI El Omari, Bouchra/0000-0002-0001-5988
+TC 119
+Z9 124
+SN 0269-8463
+PD FEB
+PY 2009
+VL 23
+IS 1
+BP 93
+EP 102
+DI 10.1111/j.1365-2435.2008.01483.x
+UT WOS:000262510400010
+ER
+
+PT J
+AU Klose, S
+   Welbergen, J
+   Goldizen, A
+   Kalko, E
+AF Klose, Stefan M.
+   Welbergen, Justin A.
+   Goldizen, Anne W.
+   Kalko, Elisabeth K. V.
+TI Spatio-temporal vigilance architecture of an Australian flying-fox
+   colony
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+C1 [Klose, Stefan M.; Kalko, Elisabeth K. V.] Univ Ulm, Inst Expt Ecol, D-89069 Ulm, Germany.
+   [Klose, Stefan M.; Goldizen, Anne W.] Univ Queensland, Sch Integrat Biol, Brisbane, Qld 4072, Australia.
+   [Kalko, Elisabeth K. V.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Welbergen, Justin A.] Univ Cambridge, Dept Zool, Cambridge CB2 3EJ, England.
+RP Klose, S (reprint author), Univ Ulm, Inst Expt Ecol, Albert Einstein Allee 11, D-89069 Ulm, Germany.
+EM stefan.klose@uni-ulm.de
+RI Goldizen, Anne/G-7366-2012
+OI Goldizen, Anne/0000-0003-0101-4108
+TC 12
+Z9 12
+SN 0340-5443
+EI 1432-0762
+PD JAN
+PY 2009
+VL 63
+IS 3
+BP 371
+EP 380
+DI 10.1007/s00265-008-0671-8
+UT WOS:000261955100007
+ER
+
+PT J
+AU Baker, TR
+   Phillips, OL
+   Laurance, WF
+   Pitman, NCA
+   Almeida, S
+   Arroyo, L
+   DiFiore, A
+   Erwin, T
+   Higuchi, N
+   Killeen, TJ
+   Laurance, SG
+   Nascimento, H
+   Monteagudo, A
+   Neill, DA
+   Silva, JNM
+   Malhi, Y
+   Gonzalez, GL
+   Peacock, J
+   Quesada, CA
+   Lewis, SL
+   Lloyd, J
+AF Baker, T. R.
+   Phillips, O. L.
+   Laurance, W. F.
+   Pitman, N. C. A.
+   Almeida, S.
+   Arroyo, L.
+   DiFiore, A.
+   Erwin, T.
+   Higuchi, N.
+   Killeen, T. J.
+   Laurance, S. G.
+   Nascimento, H.
+   Monteagudo, A.
+   Neill, D. A.
+   Silva, J. N. M.
+   Malhi, Y.
+   Gonzalez, G. Lopez
+   Peacock, J.
+   Quesada, C. A.
+   Lewis, S. L.
+   Lloyd, J.
+TI Do species traits determine patterns of wood production in Amazonian
+   forests?
+SO BIOGEOSCIENCES
+C1 [Baker, T. R.; Phillips, O. L.; Gonzalez, G. Lopez; Peacock, J.; Quesada, C. A.; Lewis, S. L.; Lloyd, J.] Univ Leeds, Sch Geog, Earth & Biosphere Inst, Leeds LS2 9JT, W Yorkshire, England.
+   [Laurance, W. F.; Laurance, S. G.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Pitman, N. C. A.] Duke Univ, Ctr Trop Conservat, Durham, NC 27706 USA.
+   [Almeida, S.] Museu Paraense Emilio Goeldi, Belem, Para, Brazil.
+   [Arroyo, L.] Museo Noel Kempff Mercado, Santa Cruz, Bolivia.
+   [DiFiore, A.] NYU, Dept Anthropol, New York, NY 10003 USA.
+   [Erwin, T.] Smithsonian Inst, Washington, DC 20560 USA.
+   [Higuchi, N.] Inst Nacl de Pesquisas da Amazonia, Manaus, Amazonas, Brazil.
+   [Killeen, T. J.] Conservat Int, Ctr Appl Biodivers Sci, Washington, DC USA.
+   [Nascimento, H.] Biol Dynam Forest Fragments Project, Manaus, Amazonas, Brazil.
+   [Monteagudo, A.] Jardin Botan Missouri, Proyecto Flora Peru, Oxapampa, Peru.
+   [Neill, D. A.] Nat & Cultura Int, Missouri Bot Gardens, Loja, Ecuador.
+   [Silva, J. N. M.] Ctr Int Forestry Res, Tapajos, Brazil.
+   [Silva, J. N. M.] EMBRAPA Amazonia Oriental, Belem, Para, Brazil.
+   [Malhi, Y.] Univ Oxford, Ctr Environm, Oxford, England.
+RP Baker, TR (reprint author), Univ Leeds, Sch Geog, Earth & Biosphere Inst, Leeds LS2 9JT, W Yorkshire, England.
+EM t.r.baker@leeds.ac.uk
+RI Phillips, Oliver L/A-1523-2011; Lloyd, Jonathan/F-8893-2010; Laurance,
+   Susan/G-6021-2011; Laurance, William F/B-2709-2012; Pitman,
+   Nigel/A-7681-2008
+OI Phillips, Oliver L/0000-0002-8993-6168; Lloyd,
+   Jonathan/0000-0002-5458-9960; Laurance, Susan/0000-0002-2831-2933;
+   Laurance, William F/0000-0003-4430-9408; Lopez-Gonzalez,
+   Gabriela/0000-0002-0814-8830; Pitman, Nigel/0000-0002-9211-2880; Lewis,
+   Simon/0000-0002-8066-6851
+TC 56
+Z9 56
+SN 1726-4170
+PY 2009
+VL 6
+IS 2
+BP 297
+EP 307
+DI 10.5194/bg-6-297-2009
+UT WOS:000263839200014
+ER
+
+PT J
+AU Anderson, LO
+   Malhi, Y
+   Ladle, RJ
+   Aragao, LEOC
+   Shimabukuro, Y
+   Phillips, OL
+   Baker, T
+   Costa, ACL
+   Espejo, JS
+   Higuchi, N
+   Laurance, WF
+   Lopez-Gonzalez, G
+   Monteagudo, A
+   Nunez-Vargas, P
+   Peacock, J
+   Quesada, CA
+   Almeida, S
+AF Anderson, L. O.
+   Malhi, Y.
+   Ladle, R. J.
+   Aragao, L. E. O. C.
+   Shimabukuro, Y.
+   Phillips, O. L.
+   Baker, T.
+   Costa, A. C. L.
+   Espejo, J. S.
+   Higuchi, N.
+   Laurance, W. F.
+   Lopez-Gonzalez, G.
+   Monteagudo, A.
+   Nunez-Vargas, P.
+   Peacock, J.
+   Quesada, C. A.
+   Almeida, S.
+TI Influence of landscape heterogeneity on spatial patterns of wood
+   productivity, wood specific density and above ground biomass in Amazonia
+SO BIOGEOSCIENCES
+C1 [Anderson, L. O.; Malhi, Y.; Ladle, R. J.; Aragao, L. E. O. C.] Univ Oxford, Sch Geog & Environm, Oxford, England.
+   [Shimabukuro, Y.] Natl Inst Space Res, Remote Sensing Div, Sao Jose Dos Campos, Brazil.
+   [Phillips, O. L.; Baker, T.; Lopez-Gonzalez, G.; Peacock, J.; Quesada, C. A.] Univ Leeds, Sch Geog, Earth & Biosphere Inst, Leeds LS2 9JT, W Yorkshire, England.
+   [Costa, A. C. L.] Fed Univ Para, BR-66059 Belem, Para, Brazil.
+   [Monteagudo, A.; Nunez-Vargas, P.] Univ Nacl San Antonia Abad Cusco, Herbario Vargas, Cuzco, Peru.
+   [Higuchi, N.; Quesada, C. A.] Inst Natl Pesquisas Amazonia, Manaus, Amazonas, Brazil.
+   [Laurance, W. F.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Almeida, S.] Museu Paraense Emilio Goeldi, Belem, Para, Brazil.
+RP Anderson, LO (reprint author), Univ Oxford, Sch Geog & Environm, Oxford, England.
+EM liana.anderson@ouce.ox.ac.uk
+RI Laurance, William F/B-2709-2012; Phillips, Oliver L/A-1523-2011;
+   Anderson, Liana/G-8389-2012; Ladle, Richard/E-4228-2014; aragao,
+   luiz/G-8387-2012
+OI Laurance, William F/0000-0003-4430-9408; Phillips, Oliver
+   L/0000-0002-8993-6168; Anderson, Liana/0000-0001-9545-5136; Ladle,
+   Richard/0000-0003-3200-3946; aragao, luiz/0000-0002-4134-6708;
+   Lopez-Gonzalez, Gabriela/0000-0002-0814-8830
+TC 31
+Z9 31
+SN 1726-4170
+EI 1726-4189
+PY 2009
+VL 6
+IS 9
+BP 1883
+EP 1902
+DI 10.5194/bg-6-1883-2009
+UT WOS:000270321800005
+ER
+
+PT J
+AU Coronado, ENH
+   Baker, TR
+   Phillips, OL
+   Pitman, NCA
+   Pennington, RT
+   Martinez, RV
+   Monteagudo, A
+   Mogollon, H
+   Cardozo, ND
+   Rios, M
+   Garcia-Villacorta, R
+   Valderrama, E
+   Ahuite, M
+   Huamantupa, I
+   Neill, DA
+   Laurance, WF
+   Nascimento, HEM
+   de Almeida, SS
+   Killeen, TJ
+   Arroyo, L
+   Nunez, P
+   Alvarado, LF
+AF Honorio Coronado, E. N.
+   Baker, T. R.
+   Phillips, O. L.
+   Pitman, N. C. A.
+   Pennington, R. T.
+   Vasquez Martinez, R.
+   Monteagudo, A.
+   Mogollon, H.
+   Davila Cardozo, N.
+   Rios, M.
+   Garcia-Villacorta, R.
+   Valderrama, E.
+   Ahuite, M.
+   Huamantupa, I.
+   Neill, D. A.
+   Laurance, W. F.
+   Nascimento, H. E. M.
+   de Almeida, S. Soares
+   Killeen, T. J.
+   Arroyo, L.
+   Nunez, P.
+   Freitas Alvarado, L.
+TI Multi-scale comparisons of tree composition in Amazonian terra firme
+   forests
+SO BIOGEOSCIENCES
+C1 [Honorio Coronado, E. N.; Freitas Alvarado, L.] Inst Invest Amazonia Peruana, Iquitos, Peru.
+   [Baker, T. R.; Phillips, O. L.; Monteagudo, A.] Univ Leeds, Sch Geog, Earth & Biosphere Inst, Leeds LS2 9JT, W Yorkshire, England.
+   [Pitman, N. C. A.] Duke Univ, Ctr Trop Conservat, Durham, NC 27706 USA.
+   [Honorio Coronado, E. N.; Pennington, R. T.] Royal Bot Garden Edinburgh, Edinburgh EH3 5LR, Midlothian, Scotland.
+   [Vasquez Martinez, R.; Huamantupa, I.] Jardin Bot Missouri, Proyecto Flora Peru, Oxapampa, Peru.
+   [Mogollon, H.] Finding Species, Takoma Pk, MD 20912 USA.
+   [Davila Cardozo, N.; Rios, M.; Garcia-Villacorta, R.; Valderrama, E.; Ahuite, M.] Univ Nacl Amazonia Peruana, Fac Ciencias Biol, Iquitos, Peru.
+   [Neill, D. A.] Naturaleza & Cultura Int, Missouri Bot Garden, Loja, Ecuador.
+   [Laurance, W. F.; Nascimento, H. E. M.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Nascimento, H. E. M.] Biol Dynam Forest Fragments Project, Manaus, Amazonas, Brazil.
+   [de Almeida, S. Soares] Museu Paraense Emilio Goeldi, BR-66040170 Belem, Para, Brazil.
+   [Killeen, T. J.] Conservat Int, Ctr Appl Biodivers Sci, Washington, DC USA.
+   [Arroyo, L.] Museo Noel Kempff Mercado, Santa Cruz, Bolivia.
+   [Nunez, P.] Univ Nacl San Antonio Abad Cusco, Herbario Vargas, Cuzco, Peru.
+RP Coronado, ENH (reprint author), Inst Invest Amazonia Peruana, Av A Jose Quinones Km 2-5, Iquitos, Peru.
+EM eurihc@yahoo.com
+RI Coronado, Euridice Nora Honorio/K-3412-2015; Nascimento, Henrique
+   E/F-8612-2012; Laurance, William F/B-2709-2012; Phillips, Oliver
+   L/A-1523-2011; Pitman, Nigel/A-7681-2008
+OI Coronado, Euridice Nora Honorio/0000-0003-2314-590X; Laurance, William
+   F/0000-0003-4430-9408; Phillips, Oliver L/0000-0002-8993-6168; Pitman,
+   Nigel/0000-0002-9211-2880
+TC 35
+Z9 37
+SN 1726-4170
+EI 1726-4189
+PY 2009
+VL 6
+IS 11
+BP 2719
+EP 2731
+UT WOS:000272232200027
+ER
+
+PT J
+AU Alvarez-Clare, S
+   Kitajima, K
+AF Alvarez-Clare, Silvia
+   Kitajima, Kaoru
+TI Susceptibility of Tree Seedlings to Biotic and Abiotic Hazards in the
+   Understory of a Moist Tropical Forest in Panama
+SO BIOTROPICA
+C1 [Alvarez-Clare, Silvia; Kitajima, Kaoru] Univ Florida, Dept Bot, Gainesville, FL 32611 USA.
+   [Kitajima, Kaoru] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Alvarez-Clare, S (reprint author), Univ Florida, Dept Bot, Gainesville, FL 32611 USA.
+EM silviacr@ufl.edu
+RI Kitajima, Kaoru/M-8521-2018; Kitajima, Kaoru/E-8877-2012
+OI Kitajima, Kaoru/0000-0001-6822-8536; 
+TC 27
+Z9 28
+SN 0006-3606
+PD JAN
+PY 2009
+VL 41
+IS 1
+BP 47
+EP 56
+DI 10.1111/j.1744-7429.2008.00442.x
+UT WOS:000261961100007
+ER
+
+PT J
+AU Meyer, CFJ
+   Kalko, EKV
+   Kerth, G
+AF Meyer, Christoph F. J.
+   Kalko, Elisabeth K. V.
+   Kerth, Gerald
+TI Small-Scale Fragmentation Effects on Local Genetic Diversity in Two
+   Phyllostomid Bats with Different Dispersal Abilities in Panama
+SO BIOTROPICA
+C1 [Meyer, Christoph F. J.; Kalko, Elisabeth K. V.] Univ Ulm, Inst Expt Ecol, D-89069 Ulm, Germany.
+   [Kalko, Elisabeth K. V.] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Kerth, Gerald] Univ Lausanne, Dept Ecol & Evolut, CH-1015 Lausanne, Switzerland.
+RP Meyer, CFJ (reprint author), Univ Ulm, Inst Expt Ecol, Albert Einstein Allee 11, D-89069 Ulm, Germany.
+EM christoph.meyer@uni-ulm.de
+RI Meyer, Christoph/A-4363-2012; Vazquez-Dominguez, Guillermo
+   GVD/L-7818-2014
+OI Meyer, Christoph/0000-0001-9958-8913; 
+TC 41
+Z9 43
+SN 0006-3606
+EI 1744-7429
+PD JAN
+PY 2009
+VL 41
+IS 1
+BP 95
+EP 102
+DI 10.1111/j.1744-7429.2008.00443.x
+UT WOS:000261961100013
+ER
+
+PT J
+AU Comita, LS
+   Goldsmith, GR
+   Hubbell, SP
+AF Comita, Liza S.
+   Goldsmith, Gregory R.
+   Hubbell, Stephen P.
+TI Intensive research activity alters short-term seedling dynamics in a
+   tropical forest
+SO ECOLOGICAL RESEARCH
+C1 [Comita, Liza S.] Columbia Univ, Dept Ecol Evolut & Environm Biol, New York, NY 10027 USA.
+   [Goldsmith, Gregory R.] Bowdoin Coll, Dept Biol, Brunswick, ME 04011 USA.
+   [Comita, Liza S.; Hubbell, Stephen P.] Univ Georgia, Dept Plant Biol, Athens, GA 30602 USA.
+   [Hubbell, Stephen P.] Smithsonian Trop Res Inst, Unit 0948, Balbao 34002, Panama.
+RP Comita, LS (reprint author), Columbia Univ, Dept Ecol Evolut & Environm Biol, 10th Floor,Schermerhorn Extension,MC 5557,1200 Am, New York, NY 10027 USA.
+EM lsc2125@columbia.edu
+RI Goldsmith, Gregory/A-4337-2009
+OI Comita, Liza/0000-0002-9169-1331
+TC 4
+Z9 4
+SN 0912-3814
+EI 1440-1703
+PD JAN
+PY 2009
+VL 24
+IS 1
+BP 225
+EP 230
+DI 10.1007/s11284-008-0490-4
+UT WOS:000261956100024
+ER
+
+PT J
+AU Zotz, G
+AF Zotz, Gerhard
+TI GROWTH IN THE XEROPHYTIC EPIPHYTE TILLANDSIA FLEXUOSA SW. (BROMELIACEAE)
+SO ECOTROPICA
+C1 [Zotz, Gerhard] Carl von Ossietzky Univ Oldenburg, Inst Biol & Environm Sci, D-26111 Oldenburg, Germany.
+   [Zotz, Gerhard] Smithsonian Trop Res Inst, Balboa, Panama.
+RP Zotz, G (reprint author), Carl von Ossietzky Univ Oldenburg, Inst Biol & Environm Sci, POB 2503, D-26111 Oldenburg, Germany.
+EM gerhard.zotz@uni-oldenburg.de
+RI Zotz, Gerhard/Q-5365-2018
+OI Zotz, Gerhard/0000-0002-6823-2268
+TC 2
+Z9 2
+SN 0949-3026
+PY 2009
+VL 15
+IS 1-2
+BP 7
+EP 12
+UT WOS:000272676100002
+ER
+
+PT J
+AU Rivadavia, F
+   Vicentini, A
+   Fleischmann, A
+AF Rivadavia, Fernando
+   Vicentini, Alberto
+   Fleischmann, Andreas
+TI A NEW SPECIES OF SUNDEW (DROSERA, DROSERACEAE), WITH WATER-DISPERSED
+   SEED, FROM THE FLOODPLAINS OF THE NORTHERN AMAZON BASIN, BRAZIL
+SO ECOTROPICA
+C1 [Rivadavia, Fernando] Daniel Burnham Ct, San Francisco, CA 94109 USA.
+   [Vicentini, Alberto] Smithsonian Trop Res Inst, Ctr Trop Forest Sci, Panama City, Panama.
+   [Fleischmann, Andreas] Ludwig Maximilians Univ Munchen, D-80638 Munich, Germany.
+RP Rivadavia, F (reprint author), Daniel Burnham Ct, San Francisco, CA 94109 USA.
+EM fleischmann@lrz.uni-muenchen.de
+RI Vicentini, Alberto/F-7479-2012
+OI Vicentini, Alberto/0000-0002-5906-9358
+TC 6
+Z9 8
+SN 0949-3026
+PY 2009
+VL 15
+IS 1-2
+BP 13
+EP 21
+UT WOS:000272676100003
+ER
+
+PT J
+AU Blakeslee, AMH
+   Keogh, CL
+   Byers, JE
+   Kuris, AM
+   Lafferty, KD
+   Torchin, ME
+AF Blakeslee, April M. H.
+   Keogh, Carolyn L.
+   Byers, James E.
+   Kuris, Armand M.
+   Lafferty, Kevin D.
+   Torchin, Mark E.
+TI Differential escape from parasites by two competing introduced crabs
+SO MARINE ECOLOGY PROGRESS SERIES
+C1 [Blakeslee, April M. H.] Smithsonian Environm Res Ctr, Marine Invas Lab, Edgewater, MD 21037 USA.
+   [Keogh, Carolyn L.] Emory Univ, Dept Environm Studies, Atlanta, GA 30322 USA.
+   [Byers, James E.] Univ Georgia, Odum Sch Ecol, Athens, GA 30602 USA.
+   [Kuris, Armand M.] Univ Calif Santa Barbara, Dept Ecol Evolut & Marine Biol, Santa Barbara, CA 93106 USA.
+   [Lafferty, Kevin D.] Univ Calif Santa Barbara, Inst Marine Sci, US Geol Survey, Western Ecol Res Ctr, Santa Barbara, CA 93106 USA.
+   [Torchin, Mark E.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Blakeslee, AMH (reprint author), Smithsonian Environm Res Ctr, Marine Invas Lab, 647 Contees Wharf Rd, Edgewater, MD 21037 USA.
+EM blakesleea@si.edu
+RI Lafferty, Kevin D./B-3888-2009
+OI Lafferty, Kevin D./0000-0001-7583-4593; Byers, James/0000-0001-9240-0287
+TC 21
+Z9 22
+SN 0171-8630
+PY 2009
+VL 393
+BP 83
+EP 96
+DI 10.3354/meps08225
+UT WOS:000272187800008
+ER
+
+PT J
+AU Robertson, DR
+   Cramer, KL
+AF Robertson, D. Ross
+   Cramer, Katie L.
+TI Shore fishes and biogeographic subdivisions of the Tropical Eastern
+   Pacific
+SO MARINE ECOLOGY PROGRESS SERIES
+C1 [Robertson, D. Ross] Smithsonian Trop Res Inst, Balboa, Panama.
+   [Cramer, Katie L.] Univ Calif San Diego, Scripps Inst Oceanog, Ctr Marine Biodivers & Conservat, San Diego, CA 92103 USA.
+RP Robertson, DR (reprint author), STRI, Unit 9100,Box 0948, Dpo, AA 34002 USA.
+EM drr@stri.org
+OI Cramer, Katie/0000-0001-8760-180X
+TC 87
+Z9 92
+SN 0171-8630
+EI 1616-1599
+PY 2009
+VL 380
+BP 1
+EP 17
+DI 10.3354/meps07925
+UT WOS:000265907000001
+ER
+
+PT J
+AU Jha, S
+   Dick, CW
+AF Jha, Shalene
+   Dick, Christopher W.
+TI Isolation and characterization of nine microsatellite loci for the
+   tropical understory tree Miconia affinis Wurdack (Melastomataceae)
+SO MOLECULAR ECOLOGY RESOURCES
+C1 [Jha, Shalene; Dick, Christopher W.] Univ Michigan, Dept Ecol & Evolutionary Biol, Ann Arbor, MI 48109 USA.
+   [Dick, Christopher W.] Smithsonian Trop Res Inst, Balboa, Ancon, Panama.
+RP Jha, S (reprint author), Univ Michigan, Dept Ecol & Evolutionary Biol, 830 N Univ, Ann Arbor, MI 48109 USA.
+EM sjha@umich.edu
+RI Jha, Shalene/B-4271-2012
+TC 5
+Z9 5
+SN 1755-098X
+PD JAN
+PY 2009
+VL 9
+IS 1
+BP 344
+EP 345
+DI 10.1111/j.1755-0998.2008.02428.x
+UT WOS:000262678900086
+PM 21564645
+ER
+
+EF
