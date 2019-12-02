@@ -61,60 +61,100 @@ library(tidyverse)
 # Load the data
 ######################
 
-StationPubs_refsEB<-references_read(data = './data/EB', dir = T)
+# StationPubs_refsEB<-references_read(data = './data/EB', dir = T)
 
-StationPubs_refs<-references_read(data = './data/', dir = T)
+LS_refs<-references_read(data = './data/LS', dir = T)
+BCI_refs<-references_read(data = './data/BCI', dir = T)
+# CR_refs<-references_read(data = './data/LS', dir = T)
+# PA_refs<-references_read(data = './data/LS', dir = T)
 
 # this will save a CSV version of the references (1 reference per line) - it's easier to scan this wat
-write.csv(StationPubs_refs,"./output/StationPubs_refs.csv")
+write.csv(LS_refs,"./output/LS_refs.csv")
+write.csv(BCI_refs,"./output/BCI_refs.csv")
+# write.csv(CR_refs,"./output/CR_refs.csv")
+# write.csv(PA_refs,"./output/PA_refs.csv")
 
 ######################
 
 ######################
 # This will process the data & disambiaguate the author names
-StationPubs_clean<-authors_clean(StationPubs_refs)
+LS_clean<-authors_clean(LS_refs)
+BCI_clean<-authors_clean(BCI_refs)
+CR_clean<-authors_clean(CR_refs)
+PA_clean<-authors_clean(PA_refs)
 
 # this will save the "preliminary" disambiguation done by refsplitr as a csv file
-write.csv(StationPubs_clean$prelim,"./output/StationPubs_prelim.csv")
-# save the names refsplitr suggests you review as a csv file
-write.csv(StationPubs_clean$review,"./output/StationPubs_review.csv")
+write.csv(LS_clean$prelim,"./output/LS_prelim.csv")
+write.csv(BCI_clean$prelim,"./output/BCI_prelim.csv")
+# write.csv(CR_clean$prelim,"./output/CR_prelim.csv")
+# write.csv(PA_clean$prelim,"./output/PA_prelim.csv")
 
+# save the names refsplitr suggests you review as a csv file
+write.csv(LS_clean$review,"./output/LS_review.csv")
+write.csv(BCI_clean$review,"./output/BCI_review.csv")
+# write.csv(CR_clean$review,"./output/CR_review.csv")
+# write.csv(PA_clean$review,"./output/PA_review.csv")
 # Unless the data you are reading in have changed, you don't have to load the 
 # data from the raw text files every time....
 # Just skip straight to this and load the csv!
-StationPubs_prelim<-read.csv("./output/StationPubs_prelim.csv")
+LS_prelim<-read.csv("./output/LS_prelim.csv")
+BCI_prelim<-read.csv("./output/BCI_prelim.csv")
+# CR_prelim<-read.csv("./output/CR_prelim.csv")
+# PA_prelim<-read.csv("./output/PA_prelim.csv")
 
 # You can also load the "review" file as a dataframe
-StationPubs_review<-read.csv("./output/StationPubs_review.csv")
+LS_review<-read.csv("./output/LS_review.csv")
+BCI_review<-read.csv("./output/BCI_review.csv")
+# CR_review<-read.csv("./output/CR_review.csv")
+# PA_review<-read.csv("./output/PA_review.csv")
 ######################
 
 ######################
 # TO ACCEPT THE disambiguation WITHOUT MERGING ANY CORRECTIONS 
-StationPubs_refined <- authors_refine(StationPubs_clean$review, 
-                                       StationPubs_clean$prelim)
-# OR 
-StationPubs_refined <- authors_refine(StationPubs_review, 
-                                      StationPubs_prelim)
+LS_refined <- authors_refine(LS_clean$review, 
+                                       LS_clean$prelim)
+
+BCI_refined <- authors_refine(BCI_clean$review, 
+                             BCI_clean$prelim)
+
+# 
+# CR_refined <- authors_refine(CR_clean$review, 
+#                              CR_clean$prelim)
+# 
+# PA_refined <- authors_refine(PA_clean$review, 
+#                              PA_clean$prelim)
+
+
+# # OR 
+# StationPubs_refined <- authors_refine(StationPubs_review, 
+#                                       StationPubs_prelim)
 
 # IF YOU MADE CORRECTIONS TO THE "REVIEW" FILE, 
 # MAKE THE CORRECTIONS AND SAVE THE FILE AS "StationPubs_review_corrections.csv" 
 # LOAD THE CORRRECTIONS
-StationPubs_review_corrections<-read.csv("./output/StationPubs_review_corrections.csv")
-# THEN MERGE THE CORRECTIONS
-StationPubs_refined <- authors_refine(StationPubs_review_corrections, 
-                                      StationPubs_prelim)
+# StationPubs_review_corrections<-read.csv("./output/StationPubs_review_corrections.csv")
+# # THEN MERGE THE CORRECTIONS
+# StationPubs_refined <- authors_refine(StationPubs_review_corrections, 
+#                                       StationPubs_prelim)
 
 
 ######################
 # save the disambiguated data set
-write.csv(StationPubs_refined,"./output/StationPubs_refined.csv")
+write.csv(LS_refined,"./output/LS_refined.csv")
+write.csv(BCI_refined,"./output/BCI_refined.csv")
+# write.csv(CR_refined,"./output/CR_refined.csv")
+# write.csv(PA_refined,"./output/PA_refined.csv")
 ######################
 
 
 ######################
 # Georeference the author locations
-StationPubs_georef <-authors_georef(data=StationPubs_refined, 
-                                address_column = "address")
+LS_georef <-authors_georef(data=LS_refined,address_column = "address")
+
+
+
+BCI_georef <-authors_georef(data=BCI_refined, 
+                                    address_column = "address")
 
 ######################
 
@@ -124,24 +164,43 @@ StationPubs_georef <-authors_georef(data=StationPubs_refined,
 # Visualizations
 
 # Plot No. pf authors x country
-plot_addresses_country <- plot_addresses_country(StationPubs_georef$addresses)
+LS_plot_addresses_country <- plot_addresses_country(LS_georef$addresses)
+
+BCI_plot_addresses_country <- plot_addresses_country(BCI_georef$addresses)
 
 
 # Plot author location
-plot_addresses_points <- plot_addresses_points(StationPubs_georef$addresses)
-plot_addresses_points
+LS_plot_addresses_points <- plot_addresses_points(LS_georef$addresses)
+LS_plot_addresses_points
+
+BCI_plot_addresses_points <- plot_addresses_points(BCI_georef$addresses)
+BCI_plot_addresses_points
 
 # # Plot social network x country
-plot_net_coauthor <- plot_net_coauthor(StationPubs_georef$addresses)
+LS_plot_net_coauthor <- plot_net_coauthor(LS_georef$addresses)
+BCI_plot_net_coauthor <- plot_net_coauthor(BCI_georef$addresses)
 
 # Plot coauthorships x country
-plot_net_country <- plot_net_country(StationPubs_georef$addresses)
-plot_net_country$plot
+LS_plot_net_country <- plot_net_country(LS_georef$addresses)
+LS_plot_net_country$plot
+
+BCI_georef$addresses$country<-gsub("papua n guinea","papua new guinea",BCI_georef$addresses$country)
+BCI_georef$addresses$country<-as.factor(BCI_georef$addresses$country)
+BCI_georef$addresses$country[BCI_georef$addresses$country=="cz"]<-"panama"
+# BCI_georef$addresses$country[BCI_georef$addresses$country=="papua n guinea"]<-"papua new guinea"
+BCI_georef$addresses$country<-as.character(BCI_georef$addresses$country)
+
+BCI_plot_net_country <- plot_net_country(BCI_georef$addresses)
+BCI_plot_net_country$plot
 
 
 # Plot coauthorships x locality
-plot_net_address <- plot_net_address(StationPubs_georef$addresses)
-plot_net_address$plot
+LS_plot_net_address <- plot_net_address(LS_georef$addresses)
+LS_plot_net_address$plot
+
+
+BCI_plot_net_address <- plot_net_address(BCI_georef$addresses)
+BCI_plot_net_address$plot
 ######################
 
 

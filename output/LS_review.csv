@@ -1,0 +1,632 @@
+"","authorID","AU","AF","groupID","match_name","matchID","similarity","confidence","university","department","postal_code","country","address","RP_address","RI","OI","EM","UT","author_order","refID","PT","PY","PU"
+"46",46,"Cross, M","Cross, Matthew",14,"Cross, Matthew D.",14,0.956043956043956,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000473794600017",1,8,"J","2019",NA
+"14",14,"Cross, MD","Cross, Matthew D.",14,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000487530100029",1,3,"J","2019",NA
+"150",150,"Cross, MD","Cross, Matthew D.",14,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427865400001",1,32,"J","2018",NA
+"47",47,"Marshall, W","Marshall, Wesley",15,"Marshall, Wesley E.",15,0.961666666666667,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000473794600017",6,8,"J","2019",NA
+"15",15,"Marshall, WE","Marshall, Wesley E.",15,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-3106-7342",NA,"WOS:000487530100029",4,3,"J","2019",NA
+"151",151,"Marshall, WE","Marshall, Wesley E.",15,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-3106-7342",NA,"WOS:000427865400001",4,32,"J","2018",NA
+"16",16,"Pacifici, F","Pacifici, Fabio",49,"Pacifici, Fabio",49,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000487530100029",3,3,"J","2019",NA
+"49",49,"Pacifici, F","Pacifici, Fabio",49,"Pacifici, Fabio",152,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000473794600017",3,8,"J","2019",NA
+"152",152,"Pacifici, F","Pacifici, Fabio",49,"Pacifici, Fabio",16,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427865400001",3,32,"J","2018",NA
+"389",389,"Cove, M","Cove, Michael",53,"Cove, Michael, V",53,0.969230769230769,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349242600008",1,102,"J","2014",NA
+"53",53,"Cove, MV","Cove, Michael, V",53,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-5691-0634",NA,"WOS:000485906300011",3,9,"J","2019",NA
+"230",230,"Cove, MV","Cove, Michael V.",53,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373952000008",2,59,"J","2016",NA
+"346",346,"Cove, MV","Cove, Michael V.",53,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337972400020",1,92,"J","2014",NA
+"505",505,"Cove, MV","Cove, Michael V.",53,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000338643800007",1,133,"J","2013",NA
+"1331",1331,"Kobe, RK","Kobe, RK",74,"Kobe, Richard K.",74,0.85,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000078045600014",1,402,"J","1999",NA
+"74",74,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000461112200044",2,15,"J","2019",NA
+"270",270,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000363559800022",2,69,"J","2015",NA
+"442",442,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000324839400002",4,116,"J","2013",NA
+"586",586,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000304370800003",2,153,"J","2012",NA
+"622",622,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000294152800014",2,164,"J","2011",NA
+"851",851,"Kobe, RK","Kobe, Richard K.",74,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"M-1054-2014",NA,NA,"WOS:000258007500011",2,228,"J","2008",NA
+"20",20,"Allen, MF","Allen, M. F.",76,"Allen, M. F.",76,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",13,5,"J","2019",NA
+"76",76,"Allen, MF","Allen, M. F.",76,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",4,16,"J","2019",NA
+"22",22,"Artavia-Leon, A","Artavia-Leon, A.",78,"Artavia-Leon, A.",78,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-6774-5985",NA,"WOS:000481443800031",11,5,"J","2019",NA
+"78",78,"Artavia-Leon, A","Artavia-Leon, A.",78,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",6,16,"J","2019",NA
+"25",25,"Harmon, TC","Harmon, T. C.",82,"Harmon, T. C.",82,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7105-7133",NA,"WOS:000481443800031",6,5,"J","2019",NA
+"82",82,"Harmon, TC","Harmon, T. C.",82,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",15,16,"J","2019",NA
+"31",31,"Swanson, AC","Swanson, A. C.",89,"Swanson, A. C.",89,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",9,5,"J","2019",NA
+"89",89,"Swanson, AC","Swanson, A. C.",89,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",3,16,"J","2019",NA
+"32",32,"Zelikova, TJ","Zelikova, T. J.",90,"Zelikova, T. J.",90,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",5,5,"J","2019",NA
+"90",90,"Zelikova, TJ","Zelikova, T. J.",90,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",14,16,"J","2019",NA
+"29",29,"Pinto-Tomas, AA","Pinto-Tomas, A. A.",103,NA,NA,0.944444444444444,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",10,5,"J","2019",NA
+"85",85,"Pinto-Tomas, AA","Pinto-Tomas, A. A.",103,"Pinto-Tomas, A. A.",29,0.944444444444444,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",10,16,"J","2019",NA
+"103",103,"Pinto-Tomas, AA","Pinto-Tomas, Adrian A.",103,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000443430000001",9,19,"J","2018",NA
+"136",136,"Pinto-Tomas, AA","Pinto-Tomas, Adrian A.",103,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425323900029",5,27,"J","2018",NA
+"1182",1182,"Clark, D","Clark, D",109,"Clark, Deborah A.",109,0.859090909090909,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000178321900007",5,345,"J","2002",NA
+"889",889,"Clark, DA","Clark, D. A.",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248379900004",2,244,"J","2007",NA
+"989",989,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000236289600008",2,278,"J","2006",NA
+"1082",1082,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220382500008",3,311,"J","2004",NA
+"1102",1102,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000189130000010",6,320,"J","2004",NA
+"1127",1127,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000186644700001",2,327,"J","2003",NA
+"1148",1148,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000182939400053",1,333,"J","2003",NA
+"1188",1188,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176604900018",2,346,"J","2002",NA
+"1249",1249,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000168844200020",1,367,"J","2001",NA
+"1263",1263,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000089269400018",2,374,"J","2000",NA
+"1290",1290,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000084204100017",3,387,"J","1999",NA
+"1318",1318,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000081972600019",1,396,"J","1999",NA
+"1352",1352,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000074486100003",1,415,"J","1998",NA
+"1384",1384,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UL40500004",2,430,"J","1996",NA
+"1397",1397,"Clark, DA","Clark, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996TT31100019",2,436,"J","1996",NA
+"1404",1404,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TJ31200018",1,439,"J","1995",NA
+"1436",1436,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PV00900014",1,452,"J","1994",NA
+"1438",1438,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PZ75500002",3,453,"J","1994",NA
+"1455",1455,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993MQ92100003",2,462,"J","1993",NA
+"1469",1469,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LK27900006",3,469,"J","1993",NA
+"1482",1482,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JJ41600001",1,477,"J","1992",NA
+"1492",1492,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HC68800005",2,484,"J","1992",NA
+"1503",1503,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991GX79600014",2,490,"J","1991",NA
+"1513",1513,"CLARK, DA","CLARK, DA",109,"Clark, Deborah A.",109,0.907692307692308,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1988R669900003",1,497,"J","1988",NA
+"709",709,"Clark, DB","Clark, D. B.",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000276545600001",3,188,"J","2010",NA
+"930",930,"Clark, DB","Clark, D. B.",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000245427300003",4,256,"J","2007",NA
+"1008",1008,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000234028800017",3,284,"J","2006",NA
+"1077",1077,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000221231600002",3,309,"J","2004",NA
+"1103",1103,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000189130000010",1,320,"J","2004",NA
+"1112",1112,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000187274500007",1,322,"J","2004",NA
+"1149",1149,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000182939400053",4,333,"J","2003",NA
+"1161",1161,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000181397100008",4,338,"J","2003",NA
+"1189",1189,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176604900018",1,346,"J","2002",NA
+"1217",1217,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173230400014",3,355,"J","2002",NA
+"1250",1250,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000168844200020",2,367,"J","2001",NA
+"1264",1264,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000089269400018",1,374,"J","2000",NA
+"1291",1291,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000084204100017",1,387,"J","1999",NA
+"1319",1319,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000081972600019",2,396,"J","1999",NA
+"1385",1385,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UL40500004",1,430,"J","1996",NA
+"1398",1398,"Clark, DB","Clark, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996TT31100019",1,436,"J","1996",NA
+"1405",1405,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TJ31200018",2,439,"J","1995",NA
+"1437",1437,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PV00900014",2,452,"J","1994",NA
+"1456",1456,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993MQ92100003",1,462,"J","1993",NA
+"1470",1470,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LK27900006",2,469,"J","1993",NA
+"1483",1483,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JJ41600001",2,477,"J","1992",NA
+"1493",1493,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HC68800005",1,484,"J","1992",NA
+"1504",1504,"CLARK, DB","CLARK, DB",109,"Clark, David B.",110,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991GX79600014",1,490,"J","1991",NA
+"109",109,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000440407500022",1,21,"J","2018",NA
+"110",110,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000440407500022",2,21,"J","2018",NA
+"170",170,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000412360300006",2,38,"J","2017",NA
+"171",171,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000412360300006",1,38,"J","2017",NA
+"352",352,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000340721500057",2,93,"J","2014",NA
+"423",423,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000325567100016",4,111,"J","2013",NA
+"424",424,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000325567100016",3,111,"J","2013",NA
+"446",446,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000321087700011",4,118,"J","2013",NA
+"447",447,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000321087700011",3,118,"J","2013",NA
+"468",468,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000324913100030",1,124,"J","2013",NA
+"469",469,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000324913100030",2,124,"J","2013",NA
+"512",512,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000310798600019",1,135,"J","2012",NA
+"552",552,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000311247700021",6,146,"J","2012",NA
+"574",574,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000304828600008",3,150,"J","2012",NA
+"600",600,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000298768500001",2,158,"J","2011",NA
+"609",609,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000295501400009",4,161,"J","2011",NA
+"619",619,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000296208500002",2,163,"J","2011",NA
+"662",662,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000285832000008",1,174,"J","2011",NA
+"663",663,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000285832000008",2,174,"J","2011",NA
+"725",725,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274419400020",2,192,"J","2010",NA
+"726",726,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000274419400020",1,192,"J","2010",NA
+"751",751,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000270274200013",4,198,"J","2009",NA
+"801",801,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000262468500005",2,215,"J","2009",NA
+"805",805,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263318700014",3,216,"J","2009",NA
+"808",808,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000262545800001",3,217,"J","2009",NA
+"863",863,"Clark, DA","Clark, Deborah A.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000254195100003",4,234,"J","2008",NA
+"864",864,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-4000-4925",NA,"WOS:000254195100003",3,234,"J","2008",NA
+"868",868,"Clark, DB","Clark, David B.",109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000254195100015",3,235,"J","2008",NA
+"899",899,"Russell, AE","Russell, A. E.",125,"Russell, Ann E.",125,0.963636363636364,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248103200035",1,248,"J","2007",NA
+"125",125,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000434856800028",1,25,"J","2018",NA
+"163",163,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000414241400007",1,36,"J","2017",NA
+"342",342,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000339418400013",1,89,"J","2014",NA
+"580",580,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000306291400064",1,151,"J","2012",NA
+"611",611,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000295501400009",5,161,"J","2011",NA
+"689",689,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000278865200015",1,182,"J","2010",NA
+"763",763,"Russell, AE","Russell, Ann E.",125,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"F-3153-2017","0000-0001-5410-3361",NA,"WOS:000268548000010",2,203,"J","2009",NA
+"64",64,"Bruckner, A","Brueckner, Adrian",126,"Brueckner, Adrian",126,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000471073000020",3,13,"J","2019",NA
+"126",126,"Bruckner, A","Brueckner, Adrian",126,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427726200001",2,26,"J","2018",NA
+"71",71,"von Beeren, C","von Beeren, Christoph",130,"von Beeren, Christoph",130,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000471073000020",9,13,"J","2019",NA
+"130",130,"von Beeren, C","von Beeren, Christoph",130,"von Beeren, Christoph",187,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427726200001",1,26,"J","2018",NA
+"187",187,"von Beeren, C","von Beeren, Christoph",130,"von Beeren, Christoph",71,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000404870000003",3,44,"J","2017",NA
+"202",202,"von Beeren, C","von Beeren, Christoph",130,"von Beeren, Christoph",71,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000387724300028",1,51,"J","2016",NA
+"245",245,"von Beeren, C","von Beeren, Christoph",130,"von Beeren, Christoph",71,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000370653700012",1,62,"J","2016",NA
+"1293",1293,"Donnelly, MA","Donnelly, MA",139,"Donnelly, Maureen A.",139,0.925,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000084139200013",1,388,"J","1999",NA
+"139",139,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000426725900042",2,29,"J","2018",NA
+"198",198,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000391031400012",2,50,"J","2016",NA
+"320",320,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345523700005",4,84,"J","2014",NA
+"472",472,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000319469600009",6,125,"J","2013",NA
+"519",519,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000310729200009",4,137,"J","2012",NA
+"875",875,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000252100300023",5,238,"J","2007",NA
+"904",904,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246599900030",8,249,"J","2007",NA
+"941",941,"Donnelly, MA","Donnelly, Maureen A.",139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000242724500025",2,261,"J","2006",NA
+"137",137,"Folt, B","Folt, Brian",140,"Folt, Brian",140,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000430257700003",2,28,"J","2018",NA
+"140",140,"Folt, B","Folt, Brian",140,"Folt, Brian",157,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000426725900042",1,29,"J","2018",NA
+"157",157,"Folt, B","Folt, Brian",140,"Folt, Brian",137,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000423257300010",1,34,"J","2017",NA
+"458",458,"Folt, B","Folt, Brian",140,"Folt, Brian",137,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000322619300010",1,120,"J","2013",NA
+"50",50,"Scambos, T","Scambos, Ted",153,"Scambos, Ted A.",153,0.948484848484848,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000473794600017",2,8,"J","2019",NA
+"153",153,"Scambos, TA","Scambos, Ted A.",153,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427865400001",2,32,"J","2018",NA
+"898",898,"Raich, JW","Raich, J. W.",162,"Raich, James W.",162,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248103200035",2,248,"J","2007",NA
+"162",162,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000414241400007",3,36,"J","2017",NA
+"188",188,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000395659200011",1,45,"J","2017",NA
+"353",353,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000340721500057",1,93,"J","2014",NA
+"579",579,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000306291400064",2,151,"J","2012",NA
+"688",688,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000278865200015",2,182,"J","2010",NA
+"762",762,"Raich, JW","Raich, James W.",162,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000268548000010",1,203,"J","2009",NA
+"1045",1045,"Erwin, TL","Erwin, TL",165,"Erwin, Terry L.",165,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000225435900001",1,301,"J","2004",NA
+"165",165,"Erwin, TL","Erwin, Terry L.",165,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000414314100007",5,37,"J","2017",NA
+"500",500,"Erwin, TL","Erwin, Terry L.",165,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000313429800023",4,132,"J","2013",NA
+"1014",1014,"Horvitz, CC","Horvitz, CC",167,"Horvitz, Carol C.",167,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000233188400006",2,286,"J","2005",NA
+"167",167,"Horvitz, CC","Horvitz, Carol C.",167,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000414314100007",2,37,"J","2017",NA
+"625",625,"Horvitz, CC","Horvitz, Carol C.",167,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000293176400009",2,165,"J","2011",NA
+"684",684,"Horvitz, CC","Horvitz, Carol C.",167,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000281718500003",2,181,"J","2010",NA
+"752",752,"Horvitz, CC","Horvitz, Carol C.",167,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000270274200013",2,198,"J","2009",NA
+"783",783,"Horvitz, CC","Horvitz, Carol C.",167,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000265070500002",2,210,"J","2009",NA
+"1339",1339,"Staines, CL","Staines, CL",169,"Staines, Charles L.",169,0.92,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000076607100006",1,407,"J","1998",NA
+"169",169,"Staines, CL","Staines, Charles L.",169,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000414314100007",6,37,"J","2017",NA
+"503",503,"Staines, CL","Staines, Charles L.",169,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000313429800023",3,132,"J","2013",NA
+"664",664,"Staines, CL","Staines, Charles L.",169,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000300800800004",1,175,"J","2011",NA
+"685",685,"Staines, CL","Staines, Charles L.",169,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000281718500003",3,181,"J","2010",NA
+"28",28,"Oberbauer, S","Oberbauer, S.",173,NA,NA,0.891666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",4,5,"J","2019",NA
+"84",84,"Oberbauer, S","Oberbauer, S.",173,"Oberbauer, S.",28,0.891666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",9,16,"J","2019",NA
+"780",780,"Oberbauer, SF","Oberbauer, S. F.",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000266143400003",2,209,"J","2009",NA
+"1079",1079,"Oberbauer, SF","Oberbauer, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000221231600002",2,309,"J","2004",NA
+"1164",1164,"Oberbauer, SF","Oberbauer, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000181397100008",2,338,"J","2003",NA
+"1190",1190,"Oberbauer, SF","Oberbauer, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176604900018",4,346,"J","2002",NA
+"1199",1199,"Oberbauer, SF","Oberbauer, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000174907100005",3,350,"J","2002",NA
+"1386",1386,"Oberbauer, SF","Oberbauer, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UL40500004",5,430,"J","1996",NA
+"1471",1471,"OBERBAUER, SF","OBERBAUER, SF",173,"Oberbauer, Steven F.",173,0.9375,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LK27900006",4,469,"J","1993",NA
+"173",173,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000412360300006",3,38,"J","2017",NA
+"264",264,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000368938500007",4,67,"J","2015",NA
+"449",449,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000321087700011",2,118,"J","2013",NA
+"470",470,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000324913100030",3,124,"J","2013",NA
+"577",577,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000304828600008",4,150,"J","2012",NA
+"727",727,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274419400020",3,192,"J","2010",NA
+"866",866,"Oberbauer, SF","Oberbauer, Steven F.",173,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000254195100003",2,234,"J","2008",NA
+"129",129,"Maruyama, M","Maruyama, Munetoshi",201,"Maruyama, Munetoshi",201,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000427726200001",3,26,"J","2018",NA
+"201",201,"Maruyama, M","Maruyama, Munetoshi",201,"Maruyama, Munetoshi",244,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000387724300028",2,51,"J","2016",NA
+"244",244,"Maruyama, M","Maruyama, Munetoshi",201,"Maruyama, Munetoshi",129,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000370653700012",2,62,"J","2016",NA
+"1490",1490,"MARQUIS, RJ","MARQUIS, RJ",204,"Marquis, Robert J.",204,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HC84200012",1,482,"J","1992",NA
+"204",204,"Marquis, RJ","Marquis, Robert J.",204,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000387228200027",3,52,"J","2016",NA
+"207",207,"Marquis, RJ","Marquis, Robert J.",204,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000380282100021",3,53,"J","2016",NA
+"428",428,"Marquis, RJ","Marquis, Robert J.",204,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000326712100008",3,112,"J","2013",NA
+"391",391,"Saenz, J","Saenz, Joel",232,"Saenz, Joel C.",232,0.943636363636364,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349242600008",4,102,"J","2014",NA
+"232",232,"Saenz, JC","Saenz, Joel C.",232,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373952000008",5,59,"J","2016",NA
+"349",349,"Saenz, JC","Saenz, Joel C.",232,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337972400020",6,92,"J","2014",NA
+"507",507,"Saenz, JC","Saenz, Joel C.",232,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000338643800007",4,133,"J","2013",NA
+"564",564,"Snyder, M","Snyder, Marcia",242,"Snyder, Marcia N.",242,0.956043956043956,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000307763700009",7,147,"J","2012",NA
+"242",242,"Snyder, MN","Snyder, Marcia N.",242,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000370993800007",1,61,"J","2016",NA
+"510",510,"Snyder, MN","Snyder, Marcia N.",242,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000314991300008",1,134,"J","2013",NA
+"24",24,"Dierick, D","Dierick, D.",262,"Dierick, Diego",262,0.942857142857143,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",2,5,"J","2019",NA
+"80",80,"Dierick, D","Dierick, D.",262,"Dierick, Diego",262,0.942857142857143,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",2,16,"J","2019",NA
+"262",262,"Dierick, D","Dierick, Diego",262,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000368938500007",3,67,"J","2015",NA
+"1359",1359,"Genereux, D","Genereux, D",263,"Genereux, David P.",263,0.892207792207792,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1997YF31000006",1,417,"J","1997",NA
+"987",987,"Genereux, DP","Genereux, DP",263,"Genereux, David P.",263,0.942857142857143,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000236636900009",1,277,"J","2006",NA
+"1212",1212,"Genereux, DP","Genereux, DP",263,"Genereux, David P.",263,0.942857142857143,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173810800011",1,354,"J","2002",NA
+"263",263,"Genereux, DP","Genereux, David P.",263,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000368938500007",2,67,"J","2015",NA
+"311",311,"Genereux, DP","Genereux, David P.",263,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349995000021",5,81,"J","2015",NA
+"759",759,"Genereux, DP","Genereux, David P.",263,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000269036900005",1,202,"J","2009",NA
+"1090",1090,"Carson, WP","Carson, WP",266,"Carson, Walter P.",266,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,"A-2569-2013",NA,NA,"WOS:000220456000002",3,313,"J","2004",NA
+"266",266,"Carson, WP","Carson, Walter P.",266,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000363809800012",2,68,"J","2015",NA
+"413",413,"Carson, WP","Carson, Walter P.",266,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337762100001",3,107,"J","2014",NA
+"481",481,"Carson, WP","Carson, Walter P.",266,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000318314900007",5,127,"J","2013",NA
+"997",997,"Sherry, TW","Sherry, TW",268,"Sherry, Thomas W.",268,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000235367100012",2,281,"J","2006",NA
+"268",268,"Sherry, TW","Sherry, Thomas W.",268,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000363809800012",3,68,"J","2015",NA
+"280",280,"Sherry, TW","Sherry, Thomas W.",268,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000357225600003",2,73,"J","2015",NA
+"415",415,"Sherry, TW","Sherry, Thomas W.",268,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337762100001",2,107,"J","2014",NA
+"723",723,"Sherry, TW","Sherry, Thomas W.",268,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274761000008",3,191,"J","2010",NA
+"834",834,"Sherry, TW","Sherry, Thomas W.",268,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000258581100013",2,223,"J","2008",NA
+"1408",1408,"LOISELLE, BA","LOISELLE, BA",277,"Loiselle, Bette A.",277,0.942857142857143,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TF10800010",1,440,"J","1995",NA
+"1466",1466,"LOISELLE, BA","LOISELLE, BA",277,"Loiselle, Bette A.",277,0.942857142857143,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LV24200014",3,467,"J","1993",NA
+"1509",1509,"LOISELLE, BA","LOISELLE, BA",277,"Loiselle, Bette A.",277,0.942857142857143,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991EY49000014",2,494,"J","1991",NA
+"277",277,"Loiselle, BA","Loiselle, Bette A.",277,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-7106-2016","0000-0003-1434-4173",NA,"WOS:000360845100007",2,71,"J","2015",NA
+"1252",1252,"Loiselle, BA","Loiselle, BA",277,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-7106-2016","0000-0003-1434-4173",NA,"WOS:000169466700003",2,368,"J","2001",NA
+"1333",1333,"Loiselle, BA","Loiselle, BA",277,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-7106-2016","0000-0003-1434-4173",NA,"WOS:000078045600026",1,403,"J","1999",NA
+"1401",1401,"Loiselle, BA","Loiselle, BA",277,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-7106-2016","0000-0003-1434-4173",NA,"WOS:A1995TL47600011",1,438,"J","1995",NA
+"998",998,"Sigel, BJ","Sigel, BJ",279,"Sigel, Bryan J.",279,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000235367100012",1,281,"J","2006",NA
+"279",279,"Sigel, BJ","Sigel, Bryan J.",279,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0003-2345-9028",NA,"WOS:000357225600002",2,72,"J","2015",NA
+"724",724,"Sigel, BJ","Sigel, Bryan J.",279,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0003-2345-9028",NA,"WOS:000274761000008",1,191,"J","2010",NA
+"835",835,"Sigel, BJ","Sigel, Bryan J.",279,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0003-2345-9028",NA,"WOS:000258581100013",3,223,"J","2008",NA
+"1288",1288,"Coville, RE","Coville, RE",283,"Coville, Rollin E.",283,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085456100004",1,386,"J","2000",NA
+"283",283,"Coville, RE","Coville, Rollin E.",283,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000362307300004",1,74,"J","2015",NA
+"678",678,"Coville, RE","Coville, Rollin E.",283,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000283382700001",2,179,"J","2010",NA
+"223",223,"Palace, M","Palace, Michael",293,"Palace, Michael W.",293,0.959047619047619,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000375211700047",1,57,"J","2016",NA
+"293",293,"Palace, MW","Palace, Michael W.",293,"Palace, Michael",329,0.959047619047619,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000351654500001",1,76,"J","2015",NA
+"329",329,"Palace, M","Palace, Michael",293,"Palace, Michael",223,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345201900031",2,86,"J","2014",NA
+"1474",1474,"CHAZDON, RL","CHAZDON, RL",303,"Chazdon, Robin L.",144,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LP12500004",2,470,"J","1993",NA
+"144",144,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425396700008",4,30,"J","2018",NA
+"190",190,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000399435200004",2,46,"J","2017",NA
+"212",212,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000379603900013",5,55,"J","2016",NA
+"303",303,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000350556400016",2,79,"J","2015",NA
+"608",608,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000295501400009",3,161,"J","2011",NA
+"650",650,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000291535500012",3,170,"J","2011",NA
+"708",708,"Chazdon, RL","Chazdon, R. L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000276545600001",7,188,"J","2010",NA
+"771",771,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000265450700015",2,206,"J","2009",NA
+"804",804,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000263318700014",4,216,"J","2009",NA
+"880",880,"Chazdon, RL","Chazdon, Robin L.",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000251965200012",2,239,"J","2007",NA
+"1024",1024,"Chazdon, RL","Chazdon, RL",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000229355500011",2,289,"J","2005",NA
+"1201",1201,"Chazdon, RL","Chazdon, RL",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000175509700001",2,351,"J","2002",NA
+"1216",1216,"Chazdon, RL","Chazdon, RL",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000173230400014",7,355,"J","2002",NA
+"1342",1342,"Chazdon, RL","Chazdon, RL",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:000074462000007",2,409,"J","1998",NA
+"1380",1380,"Chazdon, RL","Chazdon, RL",303,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"O-9766-2018","0000-0002-7349-5687",NA,"WOS:A1996VW92400003",2,428,"J","1996",NA
+"1000",1000,"Cardelus, C","Cardelus, C",305,"Cardelus, Catherine L.",305,0.863636363636364,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000234586100007",2,282,"J","2006",NA
+"1023",1023,"Cardelus, CL","Cardelus, CL",305,"Cardelus, Catherine L.",305,0.911111111111111,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000229355500011",1,289,"J","2005",NA
+"765",765,"Cardelus, C","Cardelus, Catherine",305,"Cardelus, Catherine L.",305,0.967836257309941,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274419000003",2,204,"J","2009",NA
+"305",305,"Cardelus, CL","Cardelus, Catherine L.",305,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000350549000013",2,80,"J","2015",NA
+"697",697,"Cardelus, CL","Cardelus, Catherine L.",305,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000277289400005",1,185,"J","2010",NA
+"720",720,"Cardelus, CL","Cardelus, Catherine L.",305,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274211800003",1,190,"J","2010",NA
+"891",891,"Cardelus, CL","Cardelus, Catherine L.",305,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000249150200003",3,245,"J","2007",NA
+"910",910,"Cardelus, CL","Cardelus, Catherine L.",305,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000244098300003",1,250,"J","2007",NA
+"231",231,"de la Cruz, JC","Camilo de la Cruz, Juan",347,"Camilo de la Cruz, Juan",347,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373952000008",4,59,"J","2016",NA
+"347",347,"de la Cruz, JC","Camilo de la Cruz, Juan",347,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337972400020",3,92,"J","2014",NA
+"233",233,"Spinola, RM","Manuel Spinola, R.",350,"Manuel Spinola, R.",350,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373952000008",3,59,"J","2016",NA
+"350",350,"Spinola, RM","Manuel Spinola, R.",350,"Manuel Spinola, R.",392,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337972400020",4,92,"J","2014",NA
+"392",392,"Spinola, RM","Manuel Spinola, R.",350,"Manuel Spinola, R.",233,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349242600008",2,102,"J","2014",NA
+"88",88,"Schwendenmann, L","Schwendenmann, L.",354,"Schwendenmann, Luitgard",354,0.939130434782609,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",13,16,"J","2019",NA
+"963",963,"Schwendenmann, L","Schwendenmann, Luitgard",354,"Schwendenmann, L.",88,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000240561000006",1,266,"J","2006",NA
+"354",354,"Schwendenmann, L","Schwendenmann, Luitgard",354,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-2290-3003",NA,"WOS:000340721500057",3,93,"J","2014",NA
+"486",486,"Schwendenmann, L","Schwendenmann, L.",354,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-2290-3003",NA,"WOS:000318325000009",2,128,"J","2013",NA
+"928",928,"Schwendenmann, L","Schwendenmann, Luitgard",354,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-2290-3003",NA,"WOS:000244795300001",2,255,"J","2007",NA
+"1025",1025,"Schwendenmann, L","Schwendenmann, L",354,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-2290-3003",NA,"WOS:000230804500001",1,290,"J","2005",NA
+"1144",1144,"Schwendenmann, L","Schwendenmann, L",354,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-2290-3003",NA,"WOS:000184413200006",1,331,"J","2003",NA
+"117",117,"Otarola, MF","Fernandez Otarola, Mauricio",357,"Fernandez Otarola, Mauricio",357,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000443624700010",3,23,"J","2018",NA
+"357",357,"Otarola, MF","Fernandez Otarola, Mauricio",357,"Fernandez Otarola, Mauricio",445,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000340453400012",1,94,"J","2014",NA
+"445",445,"Otarola, MF","Fernandez Otarola, Mauricio",357,"Fernandez Otarola, Mauricio",117,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000324509200032",2,117,"J","2013",NA
+"1002",1002,"Moran, RC","Moran, RC",367,"Moran, Robbin C.",367,0.916666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000234586100007",4,282,"J","2006",NA
+"1067",1067,"Moran, RC","Moran, RC",367,"Moran, Robbin C.",367,0.916666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000223206300003",1,306,"J","2004",NA
+"1080",1080,"Moran, RC","Moran, RC",367,"Moran, Robbin C.",367,0.916666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000223018000002",1,310,"J","2004",NA
+"1157",1157,"Moran, RC","Moran, RC",367,"Moran, Robbin C.",367,0.916666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000182530700006",1,335,"J","2003",NA
+"1224",1224,"Moran, RC","Moran, RC",367,"Moran, Robbin C.",367,0.916666666666667,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000175972500009",1,356,"J","2002",NA
+"367",367,"Moran, RC","Moran, Robbin C.",367,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000334618800004",2,97,"J","2014",NA
+"583",583,"Moran, RC","Moran, Robbin C.",367,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000305405500014",3,152,"J","2012",NA
+"1003",1003,"Watkins, JE","Watkins, JE",368,"Watkins, James E., Jr.",368,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000234586100007",1,282,"J","2006",NA
+"1068",1068,"Watkins, JE","Watkins, JE",368,"Watkins, James E., Jr.",368,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000223206300003",2,306,"J","2004",NA
+"1225",1225,"Watkins, JE","Watkins, JE",368,"Watkins, James E., Jr.",368,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000175972500009",2,356,"J","2002",NA
+"368",368,"Watkins, JE","Watkins, James E., Jr.",368,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000334618800004",3,97,"J","2014",NA
+"766",766,"Watkins, JE","Watkins, James E., Jr.",368,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000274419000003",1,204,"J","2009",NA
+"893",893,"Watkins, JE","Watkins, James E., Jr.",368,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000249150200003",1,245,"J","2007",NA
+"914",914,"Center, BJ","Center, B. J.",401,"Center, Barbara J.",401,0.914285714285714,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",4,252,"J","2007",NA
+"401",401,"Center, BJ","Center, Barbara J.",401,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",6,105,"J","2014",NA
+"737",737,"Center, BJ","Center, Barbara J.",401,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000280001600012",6,195,"J","2010",NA
+"811",811,"Center, BJ","Center, Barbara J.",401,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000272487300007",4,218,"J","2009",NA
+"792",792,"Esquivel, A","Esquivel, A. .",403,"Esquivel, Alejandro",132,0.894736842105263,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263521800018",4,214,"J","2009",NA
+"915",915,"Esquivel, A","Esquivel, A.",403,"Esquivel, Alejandro",132,0.91578947368421,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",6,252,"J","2007",NA
+"132",132,"Esquivel, A","Esquivel, Alejandro",403,"Esquivel, Alejandro",403,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425323900029",3,27,"J","2018",NA
+"403",403,"Esquivel, A","Esquivel, Alejandro",403,"Esquivel, Alejandro",738,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",7,105,"J","2014",NA
+"738",738,"Esquivel, A","Esquivel, Alejandro",403,"Esquivel, Alejandro",132,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000280001600012",7,195,"J","2010",NA
+"793",793,"Giblin-Davis, RM","Giblin-Davis, R. M.",404,"Giblin-Davis, Robin M.",404,0.955555555555555,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263521800018",5,214,"J","2009",NA
+"916",916,"Giblin-Davis, RM","Giblin-Davis, R. M.",404,"Giblin-Davis, Robin M.",404,0.955555555555555,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",1,252,"J","2007",NA
+"404",404,"Giblin-Davis, RM","Giblin-Davis, Robin M.",404,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",1,105,"J","2014",NA
+"538",538,"Giblin-Davis, RM","Giblin-Davis, Robin M.",404,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000308638700074",2,143,"J","2012",NA
+"739",739,"Giblin-Davis, RM","Giblin-Davis, Robin M.",404,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000280001600012",2,195,"J","2010",NA
+"813",813,"Giblin-Davis, RM","Giblin-Davis, Robin M.",404,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000272487300007",2,218,"J","2009",NA
+"918",918,"Powers, T","Powers, T.",406,"Powers, Thomas O.",406,0.863247863247863,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",7,252,"J","2007",NA
+"798",798,"Powers, TO","Powers, T. O.",406,"Powers, Thomas O.",406,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263521800018",1,214,"J","2009",NA
+"406",406,"Powers, TO","Powers, Thomas O.",406,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",8,105,"J","2014",NA
+"540",540,"Powers, TO","Powers, Thomas O.",406,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000308638700074",3,143,"J","2012",NA
+"1078",1078,"O'Brien, JJ","O'Brien, JJ",448,"O'Brien, Joseph J.",448,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000221231600002",1,309,"J","2004",NA
+"1143",1143,"O'Brien, JJ","O'Brien, JJ",448,"O'Brien, Joseph J.",448,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000184413200006",4,331,"J","2003",NA
+"448",448,"O'Brien, JJ","O'Brien, Joseph J.",448,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000321087700011",6,118,"J","2013",NA
+"865",865,"O'Brien, JJ","O'Brien, Joseph J.",448,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000254195100003",1,234,"J","2008",NA
+"236",236,"McClearn, D","McClearn, Deedra",454,"McClearn, Deedra",454,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373722700001",4,60,"J","2016",NA
+"454",454,"McClearn, D","McClearn, Deedra",454,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000323532600005",5,119,"J","2013",NA
+"237",237,"Romero, A","Romero, Andrea",456,"Romero, Andrea",456,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000373722700001",1,60,"J","2016",NA
+"456",456,"Romero, A","Romero, Andrea",456,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000323532600005",1,119,"J","2013",NA
+"141",141,"Guyer, C","Guyer, Craig",466,"Guyer, Craig",466,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000426725900042",3,29,"J","2018",NA
+"466",466,"Guyer, C","Guyer, Craig",466,"Guyer, Craig",606,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000322504300032",2,123,"J","2013",NA
+"606",606,"Guyer, C","Guyer, Craig",466,"Guyer, Craig",141,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000297502200007",2,160,"J","2011",NA
+"108",108,"Hespenheide, H","Hespenheide, Henry",488,"Hespenheide, Henry A.",488,0.966013071895425,6,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000448402500036",1,20,"J","2018",NA
+"488",488,"Hespenheide, HA","Hespenheide, Henry A.",488,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000316727600009",1,129,"J","2013",NA
+"308",308,"Ardon, M","Ardon, Marcelo",492,"Ardon, Marcelo",492,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349995000021",3,81,"J","2015",NA
+"492",492,"Ardon, M","Ardon, Marcelo",492,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7275-2672",NA,"WOS:000315559900028",1,131,"J","2013",NA
+"558",558,"Ardon, M","Ardon, Marcelo",492,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7275-2672",NA,"WOS:000307763700009",2,147,"J","2012",NA
+"777",777,"Ardon, M","Ardon, Marcelo",492,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7275-2672",NA,"WOS:000266645700016",1,208,"J","2009",NA
+"949",949,"Ardon, M","Ardon, Marcelo",492,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7275-2672",NA,"WOS:000241454900001",6,263,"J","2006",NA
+"976",976,"Ardon, M","Ardon, Marcelo",492,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-7275-2672",NA,"WOS:000239600400011",2,272,"J","2006",NA
+"959",959,"Triska, F","Triska, Frank",498,"Triska, Frank J.",498,0.952564102564103,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000241454900002",1,264,"J","2006",NA
+"498",498,"Triska, FJ","Triska, Frank J.",498,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000315559900028",6,131,"J","2013",NA
+"565",565,"Triska, FJ","Triska, Frank J.",498,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000307763700009",5,147,"J","2012",NA
+"955",955,"Triska, FJ","Triska, Frank J.",498,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000241454900001",1,263,"J","2006",NA
+"166",166,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",501,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000414314100007",1,37,"J","2017",NA
+"501",501,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",624,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000313429800023",1,132,"J","2013",NA
+"624",624,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",166,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000293176400009",1,165,"J","2011",NA
+"683",683,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",166,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000281718500003",1,181,"J","2010",NA
+"698",698,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",166,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000277483200002",2,186,"J","2010",NA
+"782",782,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",166,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000265070500002",1,210,"J","2009",NA
+"788",788,"Garcia-Robledo, C","Garcia-Robledo, Carlos",501,"Garcia-Robledo, Carlos",166,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263747000010",1,212,"J","2009",NA
+"345",345,"Chassot, O","Chassot, Olivier",504,"Chassot, Olivier",504,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000337972400020",7,92,"J","2014",NA
+"504",504,"Chassot, O","Chassot, Olivier",504,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000338643800007",5,133,"J","2013",NA
+"420",420,"Jung, JH","Jung, Jinha",515,"Jung, Jinha",515,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000327719600013",1,110,"J","2013",NA
+"515",515,"Jung, JH","Jung, Jinha",515,"Jung, Jinha",588,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000310587300010",2,136,"J","2012",NA
+"588",588,"Jung, JH","Jung, Jinha",515,"Jung, Jinha",420,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000301236900035",1,154,"J","2012",NA
+"475",475,"Kerby, JL","Kerby, Jacob L.",521,"Kerby, Jacob",521,0.948484848484848,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000319469600009",7,125,"J","2013",NA
+"521",521,"Kerby, J","Kerby, Jacob",521,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000310729200009",2,137,"J","2012",NA
+"175",175,"O'Donnell, S","O'Donnell, Sean",529,"O'Donnell, Sean",529,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000413690800001",1,39,"J","2017",NA
+"529",529,"O'Donnell, S","O'Donnell, Sean",529,"O'Donnell, Sean",838,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000308636400014",5,140,"J","2012",NA
+"838",838,"O'Donnell, S","O'Donnell, Sean",529,"O'Donnell, Sean",175,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000258316200007",3,224,"J","2008",NA
+"326",326,"Sharifi, S","Sharifi, Soroosh",536,"Sharifi, Soroosh",536,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000344948100024",3,85,"J","2014",NA
+"536",536,"Sharifi, S","Sharifi, Soroosh",536,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000309137400002",2,142,"J","2012",NA
+"544",544,"Wohl, E","Wohl, Ellen",550,"Wohl, Ellen",550,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000309015400002",3,144,"J","2012",NA
+"550",550,"Wohl, E","Wohl, Ellen",550,"Wohl, Ellen",654,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000309015400007",1,145,"J","2012",NA
+"654",654,"Wohl, E","Wohl, Ellen",550,"Wohl, Ellen",544,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000289338700007",2,171,"J","2011",NA
+"674",674,"Wohl, E","Wohl, Ellen",550,"Wohl, Ellen",544,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000282732600005",2,177,"J","2010",NA
+"770",770,"Wohl, E","Wohl, Ellen",550,"Wohl, Ellen",544,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000268117800002",2,205,"J","2009",NA
+"143",143,"Blair, JB","Blair, James B.",551,"Blair, J. B.",707,0.927272727272727,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425396700008",6,30,"J","2018",NA
+"551",551,"Blair, B","Blair, Bryan",551,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"D-3881-2013",NA,NA,"WOS:000311247700021",7,146,"J","2012",NA
+"637",637,"Blair, BJ","Blair, Bryan J.",551,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"D-3881-2013",NA,NA,"WOS:000290011200027",10,169,"J","2011",NA
+"1500",1500,"PRINGLE, CM","PRINGLE, CM",561,"Pringle, Catherine M.",240,0.871895424836601,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991HB62300001",1,487,"J","1991",NA
+"240",240,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000370993800007",4,61,"J","2016",NA
+"313",313,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000349995000021",7,81,"J","2015",NA
+"495",495,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000315559900028",7,131,"J","2013",NA
+"509",509,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000314991300008",2,134,"J","2013",NA
+"561",561,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000307763700009",8,147,"J","2012",NA
+"656",656,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000289553600014",2,172,"J","2011",NA
+"779",779,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000266645700016",2,208,"J","2009",NA
+"953",953,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000241454900001",2,263,"J","2006",NA
+"958",958,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000241454900002",2,264,"J","2006",NA
+"977",977,"Pringle, CM","Pringle, Catherine M.",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000239600400011",3,272,"J","2006",NA
+"993",993,"Pringle, CM","Pringle, CM",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000236565400010",2,279,"J","2006",NA
+"1213",1213,"Pringle, CM","Pringle, CM",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000173810800011",3,354,"J","2002",NA
+"1228",1228,"Pringle, CM","Pringle, CM",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000173529200026",2,357,"J","2002",NA
+"1240",1240,"Pringle, CM","Pringle, CM",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:000170452600014",2,362,"J","2001",NA
+"1360",1360,"Pringle, C","Pringle, C",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:A1997YF31000006",2,417,"J","1997",NA
+"1363",1363,"Pringle, CM","Pringle, CM",561,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"I-1841-2012",NA,NA,"WOS:A1997XZ76000005",3,418,"J","1997",NA
+"496",496,"Ramirez, A","Ramirez, Alonso",562,"Ramirez, Alonso",562,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000315559900028",3,131,"J","2013",NA
+"562",562,"Ramirez, A","Ramirez, Alonso",562,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-4462-2012","0000-0001-9985-5719",NA,"WOS:000307763700009",6,147,"J","2012",NA
+"954",954,"Ramirez, A","Ramirez, Alonso",562,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-4462-2012","0000-0001-9985-5719",NA,"WOS:000241454900001",5,263,"J","2006",NA
+"994",994,"Ramirez, A","Ramirez, A",562,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-4462-2012","0000-0001-9985-5719",NA,"WOS:000236565400010",1,279,"J","2006",NA
+"1229",1229,"Ramirez, A","Ramirez, A",562,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-4462-2012","0000-0001-9985-5719",NA,"WOS:000173529200026",3,357,"J","2002",NA
+"1241",1241,"Ramirez, A","Ramirez, A",562,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-4462-2012","0000-0001-9985-5719",NA,"WOS:000170452600014",3,362,"J","2001",NA
+"271",271,"Vriesendorp, C","Vriesendorp, Corine",623,"Vriesendorp, Corine F.",623,0.967836257309941,6,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000363559800022",3,69,"J","2015",NA
+"623",623,"Vriesendorp, CF","Vriesendorp, Corine F.",623,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000294152800014",3,164,"J","2011",NA
+"301",301,"Saatchi, S","Saatchi, S.",652,"Saatchi, Sassan S.",652,0.874285714285714,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000343902300005",2,78,"J","2015",NA
+"612",612,"Saatchi, S","Saatchi, Sassan",652,"Saatchi, Sassan S.",652,0.959047619047619,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000295501400009",1,161,"J","2011",NA
+"652",652,"Saatchi, SS","Saatchi, Sassan S.",652,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000291535500012",2,170,"J","2011",NA
+"296",296,"Treuhaft, RN","Treuhaft, Robert N.",672,"Treuhaft, R. N.",672,0.933333333333333,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000351654500001",4,76,"J","2015",NA
+"672",672,"Treuhaft, RN","Treuhaft, R. N.",672,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000285255300005",1,176,"J","2010",NA
+"553",553,"Dubayah, R","Dubayah, Ralph",710,"Dubayah, R. O.",225,0.892063492063492,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000311247700021",2,146,"J","2012",NA
+"1071",1071,"Dubayah, R","Dubayah, R",710,"Dubayah, R. O.",225,0.942857142857143,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222174000019",2,307,"J","2004",NA
+"1175",1175,"Dubayah, R","Dubayah, R",710,"Dubayah, R. O.",225,0.942857142857143,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000178484800009",4,343,"J","2002",NA
+"225",225,"Dubayah, RO","Dubayah, R. O.",710,"Dubayah, R. O.",710,1,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000374541200010",4,58,"J","2016",NA
+"710",710,"Dubayah, RO","Dubayah, R. O.",710,"Dubayah, RO",1219,1,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000276545600001",1,188,"J","2010",NA
+"1219",1219,"Dubayah, RO","Dubayah, RO",710,"Dubayah, R. O.",225,1,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173230400014",2,355,"J","2002",NA
+"227",227,"Hurtt, GC","Hurtt, G. C.",712,"Hurtt, G. C.",712,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000374541200010",1,58,"J","2016",NA
+"712",712,"Hurtt, GC","Hurtt, G. C.",712,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-8450-2012",NA,NA,"WOS:000276545600001",6,188,"J","2010",NA
+"1073",1073,"Hurtt, GC","Hurtt, GC",712,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-8450-2012",NA,NA,"WOS:000222174000019",1,307,"J","2004",NA
+"555",555,"Sheldon, S","Sheldon, Sage",713,"Sheldon, S. L.",228,0.900854700854701,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000311247700021",5,146,"J","2012",NA
+"228",228,"Sheldon, SL","Sheldon, S. L.",713,"Sheldon, S. L.",713,1,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000374541200010",5,58,"J","2016",NA
+"713",713,"Sheldon, SL","Sheldon, S. L.",713,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000276545600001",2,188,"J","2010",NA
+"405",405,"Kanzaki, N","Kanzaki, Natsumi",740,"Kanzaki, Natsumi",740,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",2,105,"J","2014",NA
+"740",740,"Kanzaki, N","Kanzaki, Natsumi",740,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-3864-2012","0000-0001-8752-1674",NA,"WOS:000280001600012",1,195,"J","2010",NA
+"794",794,"Kanzaki, N","Kanzaki, N.",740,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-3864-2012","0000-0001-8752-1674",NA,"WOS:000263521800018",6,214,"J","2009",NA
+"814",814,"Kanzaki, N","Kanzaki, Natsumi",740,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-3864-2012","0000-0001-8752-1674",NA,"WOS:000272487300007",1,218,"J","2009",NA
+"917",917,"Kanzaki, N","Kanzaki, N.",740,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"A-3864-2012","0000-0001-8752-1674",NA,"WOS:000246640000115",5,252,"J","2007",NA
+"743",743,"Ye, WM","Ye, Weimin",743,"Ye, W.",919,0.743333333333333,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000280001600012",5,195,"J","2010",NA
+"919",919,"Ye, W","Ye, W.",743,"Ye, Weimin",407,0.743333333333333,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",3,252,"J","2007",NA
+"407",407,"Ye, WM","Ye, Weimin",743,"Ye, Weimin",743,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",4,105,"J","2014",NA
+"744",744,"Zeng, YS","Zeng, Yongsan",744,"Zeng, Y.",920,0.81978021978022,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000280001600012",4,195,"J","2010",NA
+"920",920,"Zeng, Y","Zeng, Y.",744,"Zeng, Yongsan",408,0.81978021978022,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000246640000115",2,252,"J","2007",NA
+"408",408,"Zeng, YS","Zeng, Yongsan",744,"Zeng, Yongsan",744,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000345112700004",5,105,"J","2014",NA
+"764",764,"Valverde-Barrantes, O","Valverde-Barrantes, Oscar",764,"Valverde-Barrantes, O. J.",900,0.942,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000268548000010",3,203,"J","2009",NA
+"900",900,"Valverde-Barrantes, OJ","Valverde-Barrantes, O. J.",764,"Valverde-Barrantes, Oscar",690,0.942,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248103200035",3,248,"J","2007",NA
+"690",690,"Valverde-Barrantes, O","Valverde-Barrantes, Oscar",764,"Valverde-Barrantes, Oscar",764,1,8,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000278865200015",4,182,"J","2010",NA
+"534",534,"Palow, DT","Palow, Danielle T.",781,"Palow, D. T.",781,0.857142857142857,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000309391500017",1,141,"J","2012",NA
+"781",781,"Palow, DT","Palow, D. T.",781,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000266143400003",1,209,"J","2009",NA
+"258",258,"Lawrence, D","Lawrence, Deborah",806,"Lawrence, Deborah",806,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000368722700003",4,66,"J","2016",NA
+"806",806,"Lawrence, D","Lawrence, Deborah",806,"Lawrence, Deborah",858,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263318700014",2,216,"J","2009",NA
+"858",858,"Lawrence, D","Lawrence, Deborah",806,"Lawrence, Deborah",258,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000256309200009",2,232,"J","2008",NA
+"627",627,"Chaves-Campos, J","Chaves-Campos, J.",855,"Chaves-Campos, Johel",746,0.96,6,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000292045800005",2,166,"J","2011",NA
+"746",746,"Chaves-Campos, J","Chaves-Campos, Johel",855,"Chaves-Campos, Johel",855,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000272828800028",2,196,"J","2009",NA
+"855",855,"Chaves-Campos, J","Chaves-Campos, Johel",855,"Chaves-Campos, Johel",871,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000256494700014",1,230,"J","2008",NA
+"871",871,"Chaves-Campos, J","Chaves-Campos, Johel",855,"Chaves-Campos, Johel",746,1,7,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000254195100019",2,236,"J","2008",NA
+"1042",1042,"Montagnini, F","Montagnini, F",862,"Montagnini, Florencia",702,0.923809523809524,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000224197100006",2,299,"J","2004",NA
+"1193",1193,"Montagnini, F","Montagnini, F",862,"Montagnini, Florencia",702,0.923809523809524,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176460500017",2,347,"J","2002",NA
+"1327",1327,"Montagnini, F","Montagnini, F",862,"Montagnini, Florencia",702,0.923809523809524,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000078102500010",2,400,"J","1999",NA
+"1443",1443,"MONTAGNINI, F","MONTAGNINI, F",862,"Montagnini, Florencia",702,0.923809523809524,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PV33000007",2,454,"J","1994",NA
+"1449",1449,"MONTAGNINI, F","MONTAGNINI, F",862,"Montagnini, Florencia",702,0.923809523809524,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PB94800013",1,458,"J","1994",NA
+"702",702,"Montagnini, F","Montagnini, Florencia",862,"Montagnini, Florencia",862,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000276435800009",3,187,"J","2010",NA
+"862",862,"Montagnini, F","Montagnini, Florencia",862,"Montagnini, Florencia",885,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000256143900023",2,233,"J","2008",NA
+"885",885,"Montagnini, F","Montagnini, Florencia",862,"Montagnini, Florencia",702,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248619000012",2,242,"J","2007",NA
+"965",965,"Montagnini, F","Montagnini, Florencia",862,"Montagnini, Florencia",702,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000241236100016",2,267,"J","2006",NA
+"974",974,"Montagnini, F","Montagnini, Florencia",862,"Montagnini, Florencia",702,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000239864300018",2,271,"J","2006",NA
+"1479",1479,"HORN, SP","HORN, SP",873,"Horn, Sally P.",873,0.92,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JP92800001",1,475,"J","1992",NA
+"873",873,"Horn, SP","Horn, Sally P.",873,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"B-1918-2013","0000-0002-0575-3664",NA,"WOS:000252319600004",2,237,"J","2008",NA
+"1132",1132,"Horn, SP","Horn, SP",873,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"B-1918-2013","0000-0002-0575-3664",NA,"WOS:000186644700014",1,328,"J","2003",NA
+"1254",1254,"Horn, SP","Horn, SP",873,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"B-1918-2013","0000-0002-0575-3664",NA,"WOS:000168959800018",1,370,"J","2001",NA
+"1371",1371,"Horn, SP","Horn, SP",873,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"B-1918-2013","0000-0002-0575-3664",NA,"WOS:A1997XY70000013",2,422,"J","1997",NA
+"30",30,"Rundel, P","Rundel, P.",892,"Rundel, Philip W.",892,0.863247863247863,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000481443800031",7,5,"J","2019",NA
+"87",87,"Rundel, P","Rundel, P.",892,"Rundel, Philip W.",892,0.863247863247863,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000460859100005",12,16,"J","2019",NA
+"892",892,"Rundel, PW","Rundel, Philip W.",892,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000249150200003",2,245,"J","2007",NA
+"1418",1418,"COLWELL, RK","COLWELL, RK",912,"Colwell, Robert K.",912,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RH47200008",1,446,"J","1995",NA
+"912",912,"Colwell, RK","Colwell, Robert K.",912,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"C-7276-2015",NA,NA,"WOS:000244274900009",2,251,"J","2007",NA
+"1001",1001,"Colwell, RK","Colwell, RK",912,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"C-7276-2015",NA,NA,"WOS:000234586100007",3,282,"J","2006",NA
+"1210",1210,"Colwell, RK","Colwell, RK",912,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"C-7276-2015",NA,NA,"WOS:000173967500011",3,353,"J","2002",NA
+"1294",1294,"Colwell, RK","Colwell, RK",912,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"C-7276-2015",NA,NA,"WOS:000084005100019",1,389,"J","1999",NA
+"1367",1367,"Colwell, RK","Colwell, RK",912,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"C-7276-2015",NA,NA,"WOS:A1997YD79000020",2,420,"J","1997",NA
+"133",133,"Hanson, P","Hanson, Paul",969,"Hanson, Paul",969,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425323900029",4,27,"J","2018",NA
+"969",969,"Hanson, P","Hanson, Paul",969,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000249875900006",4,268,"J","2006",NA
+"148",148,"Porder, S","Porder, Stephen",990,"Porder, S",990,0.92,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000425396700008",2,30,"J","2018",NA
+"990",990,"Porder, S","Porder, S",990,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000236289600008",1,278,"J","2006",NA
+"837",837,"Young, BE","Young, Bruce E.",999,"Young, BE",999,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000258581100013",1,223,"J","2008",NA
+"999",999,"Young, BE","Young, BE",999,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000235367100012",3,281,"J","2006",NA
+"795",795,"Mora, MM","Mora, M. M.",1007,"Mora, Marcela",1007,0.843589743589744,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000263521800018",8,214,"J","2009",NA
+"1007",1007,"Mora, M","Mora, Marcela",1007,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000240071400012",1,283,"J","2006",NA
+"450",450,"Olivas, PC","Olivas, Paulo C.",1010,"Olivas, P",1010,0.872222222222222,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000321087700011",1,118,"J","2013",NA
+"1010",1010,"Olivas, P","Olivas, P",1010,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000234028800017",4,284,"J","2006",NA
+"979",979,"Carney, KM","Carney, Karen M.",1012,"Carney, KM",1012,0.933333333333333,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000240481000007",1,273,"J","2006",NA
+"1064",1064,"Carney, KM","Carney, KM",1012,"Carney, Karen M.",979,0.933333333333333,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222716600009",1,304,"J","2004",NA
+"1012",1012,"Carney, KM","Carney, KM",1012,"Carney, KM",1064,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000233874000005",1,285,"J","2005",NA
+"980",980,"Matson, PA","Matson, Pamela A.",1013,"Matson, PA",1013,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000240481000007",2,273,"J","2006",NA
+"1065",1065,"Matson, PA","Matson, PA",1013,"Matson, Pamela A.",980,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222716600009",2,304,"J","2004",NA
+"1013",1013,"Matson, PA","Matson, PA",1013,"Matson, PA",1065,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000233874000005",2,285,"J","2005",NA
+"1016",1016,"Ewel, JJ","Ewel, JJ",1021,"Ewel, JJ",1021,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000232322600011",4,287,"J","2005",NA
+"1021",1021,"Ewel, JJ","Ewel, JJ",1021,"Ewel, JJ",1121,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000229581600022",2,288,"J","2005",NA
+"1121",1121,"Ewel, JJ","Ewel, JJ",1021,"Ewel, JJ",1016,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000186590200013",2,325,"J","2003",NA
+"1428",1428,"EWEL, JJ","EWEL, JJ",1021,"Ewel, JJ",1016,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995QT58400008",3,449,"J","1995",NA
+"896",896,"Thiele, R","Thiele, Rainer",1028,"Thiele, R",1028,0.928571428571429,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000247714600020",1,247,"J","2007",NA
+"1028",1028,"Thiele, R","Thiele, R",1028,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000231592900006",1,292,"J","2005",NA
+"995",995,"Augspurger, C","Augspurger, C",1040,"Augspurger, C",1040,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000235706200016",2,280,"J","2006",NA
+"1040",1040,"Augspurger, C","Augspurger, C",1040,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000225266600018",2,298,"J","2004",NA
+"996",996,"Wang, YH","Wang, YH",1041,"Wang, YH",1041,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000235706200016",1,280,"J","2006",NA
+"1041",1041,"Wang, YH","Wang, YH",1041,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000225266600018",1,298,"J","2004",NA
+"966",966,"Petit, B","Petit, Bryan",1043,"Petit, B",1043,0.933333333333333,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000241236100016",1,267,"J","2006",NA
+"1043",1043,"Petit, B","Petit, B",1043,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000224197100006",1,299,"J","2004",NA
+"651",651,"Moorcroft, PR","Moorcroft, Paul R.",1074,"Moorcroft, PR",1074,0.957142857142857,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000291535500012",4,170,"J","2011",NA
+"1074",1074,"Moorcroft, PR","Moorcroft, PR",1074,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222174000019",4,307,"J","2004",NA
+"156",156,"Pacala, SW","Pacala, Stephen W.",1075,"Pacala, SW",1075,0.914285714285714,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000417839700013",3,33,"J","2018",NA
+"1075",1075,"Pacala, SW","Pacala, SW",1075,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222174000019",5,307,"J","2004",NA
+"483",483,"Mascaro, J","Mascaro, Joseph",1091,"Mascaro, J",1091,0.933333333333333,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000318314900007",3,127,"J","2013",NA
+"1091",1091,"Mascaro, J","Mascaro, J",1091,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220456000002",1,313,"J","2004",NA
+"306",306,"DeWalt, SJ","DeWalt, Saara J.",1095,"DeWalt, SJ",1095,0.933333333333333,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000350549000013",3,80,"J","2015",NA
+"1095",1095,"DeWalt, SJ","DeWalt, SJ",1095,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220383700002",1,315,"J","2004",NA
+"1093",1093,"Powers, JS","Powers, JS",1100,"Powers, JS",1100,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220383700001",1,314,"J","2004",NA
+"1100",1100,"Powers, JS","Powers, JS",1100,"Powers, JS",1200,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220383700005",2,318,"J","2004",NA
+"1200",1200,"Powers, JS","Powers, JS",1100,"Powers, JS",1093,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000174907100005",2,350,"J","2002",NA
+"923",923,"Lopez, JE","Lopez, Jorge E.",1108,"Lopez, JE",1108,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248031700032",1,254,"J","2007",NA
+"1350",1350,"Lopez, JE","Lopez, JE",1108,"Lopez, Jorge E.",923,0.927272727272727,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000074884800007",3,414,"J","1998",NA
+"1108",1108,"Lopez, JE","Lopez, JE",1108,"Lopez, JE",1350,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222921800009",1,321,"J","2004",NA
+"924",924,"Vaughan, C","Vaughan, Christopher",1109,"Vaughan, C",1109,0.84,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248031700032",2,254,"J","2007",NA
+"1109",1109,"Vaughan, C","Vaughan, C",1109,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222921800009",2,321,"J","2004",NA
+"1107",1107,"Read, JM","Read, JM",1113,"Read, JM",1113,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000189130000010",2,320,"J","2004",NA
+"1113",1113,"Read, JM","Read, JM",1113,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000187274500007",4,322,"J","2004",NA
+"1018",1018,"Reich, A","Reich, A",1123,"Reich, A",1123,1,0,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000232322600011",3,287,"J","2005",NA
+"1123",1123,"Reich, A","Reich, A",1123,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000186590200013",1,325,"J","2003",NA
+"733",733,"Vargas, O","Vargas, O.",1136,"Vargas, O",1136,1,0,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000273479800009",4,193,"J","2010",NA
+"1136",1136,"Vargas, O","Vargas, O",1136,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000186644700014",8,328,"J","2003",NA
+"884",884,"Franz, NM","Franz, N. M.",1138,"Franz, NM",1138,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000251900400005",1,241,"J","2007",NA
+"1138",1138,"Franz, NM","Franz, NM",1138,"Franz, NM",1231,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000183336000005",1,329,"J","2003",NA
+"1231",1231,"Franz, NM","Franz, NM",1138,"Franz, N. M.",884,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173256400004",1,358,"J","2001",NA
+"1232",1232,"Franz, NM","Franz, NM",1138,"Franz, N. M.",884,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000172451400003",1,359,"J","2001",NA
+"1247",1247,"Franz, NM","Franz, NM",1138,"Franz, N. M.",884,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000170079900007",1,366,"J","2001",NA
+"1485",1485,"BAWA, KS","BAWA, KS",1139,"Bawa, KS",1139,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JJ70000014",3,479,"J","1992",NA
+"1139",1139,"Bawa, KS","Bawa, KS",1139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-6174-9777",NA,"WOS:000183710400005",2,330,"J","2003",NA
+"1305",1305,"Bawa, K","Bawa, K",1139,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-6174-9777",NA,"WOS:000083466800003",3,392,"J","1999",NA
+"1122",1122,"Nadkarni, NM","Nadkarni, NM",1153,"Nadkarni, NM",1153,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000186590200013",3,325,"J","2003",NA
+"1153",1153,"Nadkarni, NM","Nadkarni, NM",1153,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000182530700005",3,334,"J","2003",NA
+"1163",1163,"Loescher, HW","Loescher, HW",1186,"Loescher, HW",1186,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000181397100008",1,338,"J","2003",NA
+"1186",1186,"Loescher, HW","Loescher, HW",1186,"Loescher, HW",1198,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000178321900007",4,345,"J","2002",NA
+"1198",1198,"Loescher, HW","Loescher, HW",1186,"Loescher, HW",1163,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000174907100005",1,350,"J","2002",NA
+"1088",1088,"Gawlicka, A","Gawlicka, A",1195,"Gawlicka, A",1195,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220878400007",4,312,"J","2004",NA
+"1195",1195,"Gawlicka, A","Gawlicka, A",1195,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176587000005",3,348,"J","2002",NA
+"1089",1089,"Horn, MH","Horn, MH",1196,"Horn, MH",1196,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000220878400007",2,312,"J","2004",NA
+"1196",1196,"Horn, MH","Horn, MH",1196,"Horn, MH",1375,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000176587000005",2,348,"J","2002",NA
+"1375",1375,"Horn, MH","Horn, MH",1196,"Horn, MH",1089,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1997WE99300010",1,425,"J","1997",NA
+"334",334,"McKone, MJ","McKone, Mark J.",1207,"McKone, MJ",1207,0.945454545454545,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0002-8824-2295",NA,"WOS:000345112500009",1,87,"J","2014",NA
+"1357",1357,"McKone, MJ","McKone, MJ",1207,"McKone, Mark J.",334,0.945454545454545,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000072404800002",6,416,"J","1998",NA
+"1207",1207,"McKone, MJ","McKone, MJ",1207,"McKone, MJ",1357,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000175063600009",6,352,"J","2002",NA
+"729",729,"Longino, J","Longino, J.",1211,"Longino, J. T.",480,0.937777777777778,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000273479800009",2,193,"J","2010",NA
+"480",480,"Longino, JT","Longino, J. T.",1211,"Longino, JT",1211,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000322536400014",2,126,"J","2013",NA
+"1211",1211,"Longino, JT","Longino, JT",1211,"Longino, JT",1368,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173967500011",1,353,"J","2002",NA
+"1368",1368,"Longino, JT","Longino, JT",1211,"Longino, J. T.",480,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1997YD79000020",1,420,"J","1997",NA
+"1070",1070,"Drake, J","Drake, J",1218,"Drake, J. B.",667,0.921428571428571,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000222174000019",3,307,"J","2004",NA
+"667",667,"Drake, JB","Drake, J. B.",1218,"Drake, JB",1218,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000285255300005",3,176,"J","2010",NA
+"1218",1218,"Drake, JB","Drake, JB",1218,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173230400014",1,355,"J","2002",NA
+"1227",1227,"Paul, MJ","Paul, MJ",1239,"Paul, MJ",1239,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000173529200026",4,357,"J","2002",NA
+"1239",1239,"Paul, MJ","Paul, MJ",1239,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000170452600014",4,362,"J","2001",NA
+"1030",1030,"Lucking, R","Lucking, R",1246,"Lucking, R",1246,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000228028100005",1,293,"J","2005",NA
+"1246",1246,"Lucking, R","Lucking, R",1246,"Lucking, R",1258,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000172964200036",1,365,"J","2001",NA
+"1258",1258,"Lucking, R","Lucking, R",1246,"Lucking, R",1030,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000172590500008",1,372,"J","2001",NA
+"1317",1317,"Lucking, R","Lucking, R",1246,"Lucking, R",1030,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085023200002",1,395,"J","1999",NA
+"1345",1345,"Lucking, R","Lucking, R",1246,"Lucking, R",1030,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000074346700010",1,412,"J","1998",NA
+"1233",1233,"O'Brien, CW","O'Brien, CW",1248,"O'Brien, CW",1248,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000172451400003",2,359,"J","2001",NA
+"1248",1248,"O'Brien, CW","O'Brien, CW",1248,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000170079900007",2,366,"J","2001",NA
+"276",276,"Blake, JG","Blake, John G.",1251,"Blake, JG",1251,0.94,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000360845100007",1,71,"J","2015",NA
+"1332",1332,"Blake, JG","Blake, JG",1251,"Blake, John G.",276,0.94,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000078045600026",2,403,"J","1999",NA
+"1508",1508,"BLAKE, JG","BLAKE, JG",1251,"Blake, John G.",276,0.94,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991EY49000014",1,494,"J","1991",NA
+"1251",1251,"Blake, JG","Blake, JG",1251,"Blake, JG",1332,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000169466700003",1,368,"J","2001",NA
+"1179",1179,"Guariguata, MR","Guariguata, MR",1269,"Guariguata, MR",1269,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000178898900008",1,344,"J","2002",NA
+"1269",1269,"Guariguata, MR","Guariguata, MR",1269,"Guariguata, MR",1282,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000088442400015",1,376,"J","2000",NA
+"1282",1282,"Guariguata, MR","Guariguata, MR",1269,"Guariguata, MR",1179,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085108400012",1,383,"J","2000",NA
+"1280",1280,"Hummel, S","Hummel, S",1281,"Hummel, S",1281,1,0,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085205000003",1,381,"J","2000",NA
+"1281",1281,"Hummel, S","Hummel, S",1281,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000086665500003",1,382,"J","2000",NA
+"282",282,"Coville, PL","Coville, Pamela L.",1287,"Coville, PL",1287,0.928571428571429,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000362307300004",3,74,"J","2015",NA
+"1287",1287,"Coville, PL","Coville, PL",1287,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085456100004",3,386,"J","2000",NA
+"284",284,"Griswold, C","Griswold, Charles",1289,"Griswold, C",1289,0.929411764705882,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000362307300004",2,74,"J","2015",NA
+"1289",1289,"Griswold, C","Griswold, C",1289,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000085456100004",2,386,"J","2000",NA
+"1498",1498,"ZOU, XM","ZOU, XM",1304,"Zou, XM",1304,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HB32200015",1,485,"J","1992",NA
+"1304",1304,"Zou, XM","Zou, XM",1304,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-9023-3067",NA,"WOS:000083518800008",4,391,"J","1999",NA
+"1313",1313,"Zou, X","Zou, X",1304,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0001-9023-3067",NA,"WOS:000082408300008",3,393,"J","1999",NA
+"1302",1302,"Crossley, DA","Crossley, DA",1310,"Crossley, DA",1310,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000083518800008",3,391,"J","1999",NA
+"1310",1310,"Crossley, DA","Crossley, DA",1310,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000082408300008",4,393,"J","1999",NA
+"1303",1303,"Heneghan, L","Heneghan, L",1312,"Heneghan, L",1312,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000083518800008",1,391,"J","1999",NA
+"1312",1312,"Heneghan, L","Heneghan, L",1312,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000082408300008",1,393,"J","1999",NA
+"1076",1076,"Tschapka, M","Tschapka, M",1315,"Tschapka, M",1315,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000221567900002",1,308,"J","2004",NA
+"1315",1315,"Tschapka, M","Tschapka, M",1315,"Tschapka, M",1320,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000083606600010",1,394,"J","1999",NA
+"1320",1320,"Tschapka, M","Tschapka, M",1315,"Tschapka, M",1076,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000082342100002",1,397,"J","1999",NA
+"1284",1284,"von Helversen, O","von Helversen, O",1316,"von Helversen, O",1316,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000086153900004",1,384,"J","2000",NA
+"1316",1316,"von Helversen, O","von Helversen, O",1316,"von Helversen, O",1321,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000083606600010",2,394,"J","1999",NA
+"1321",1321,"von Helversen, O","von Helversen, O",1316,"von Helversen, O",1284,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000082342100002",2,397,"J","1999",NA
+"18",18,"Jordal, BH","Jordal, Bjarte H.",1344,"Jordal, BH",1344,0.923076923076923,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000475289900001",1,4,"J","2019",NA
+"1344",1344,"Jordal, BH","Jordal, BH",1344,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000078824100023",1,411,"J","1998",NA
+"1039",1039,"Wetterer, JK","Wetterer, JK",1351,"Wetterer, JK",1351,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000233224900005",1,297,"J","2005",NA
+"1351",1351,"Wetterer, JK","Wetterer, JK",1351,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000074884800007",1,414,"J","1998",NA
+"1323",1323,"Haggar, J","Haggar, J",1365,"Haggar, J",1365,1,0,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000079567800003",4,398,"J","1999",NA
+"1365",1365,"Haggar, J","Haggar, J",1365,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1997YG71600006",1,419,"J","1997",NA
+"1444",1444,"STONER, KE","STONER, KE",1389,"Stoner, KE",1389,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PK38400013",1,455,"J","1994",NA
+"1389",1389,"Stoner, KE","Stoner, KE",1389,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-1510-2015","0000-0002-9964-1697",NA,"WOS:A1996UK80100032",1,431,"J","1996",NA
+"1395",1395,"Stoner, KE","Stoner, KE",1389,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,"E-1510-2015","0000-0002-9964-1697",NA,"WOS:A1996TU42000001",1,434,"J","1996",NA
+"921",921,"Lieberman, D","Lieberman, Diana",1391,"Lieberman, D",1391,0.95,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000244743800003",2,253,"J","2007",NA
+"1424",1424,"LIEBERMAN, D","LIEBERMAN, D",1391,"Lieberman, Diana",921,0.95,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RA99000001",2,448,"J","1995",NA
+"1514",1514,"LIEBERMAN, D","LIEBERMAN, D",1391,"Lieberman, Diana",921,0.95,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987L120500006",1,498,"J","1987",NA
+"1521",1521,"LIEBERMAN, D","LIEBERMAN, D",1391,"Lieberman, Diana",921,0.95,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987Q502100003",3,501,"J","1987",NA
+"1391",1391,"Lieberman, D","Lieberman, D",1391,"LIEBERMAN, D",1424,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UH36300001",1,432,"J","1996",NA
+"922",922,"Lieberman, M","Lieberman, Milton",1392,"Lieberman, M",1392,0.941176470588235,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000244743800003",1,253,"J","2007",NA
+"1425",1425,"LIEBERMAN, M","LIEBERMAN, M",1392,"Lieberman, Milton",922,0.941176470588235,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RA99000001",1,448,"J","1995",NA
+"1515",1515,"LIEBERMAN, M","LIEBERMAN, M",1392,"Lieberman, Milton",922,0.941176470588235,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987L120500006",2,498,"J","1987",NA
+"1522",1522,"LIEBERMAN, M","LIEBERMAN, M",1392,"Lieberman, Milton",922,0.941176470588235,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987Q502100003",4,501,"J","1987",NA
+"1392",1392,"Lieberman, M","Lieberman, M",1392,"LIEBERMAN, M",1425,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UH36300001",2,432,"J","1996",NA
+"620",620,"King, DA","King, David A.",1399,"King, DA",1399,0.92,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000296208500002",1,163,"J","2011",NA
+"1505",1505,"KING, DA","KING, DA",1399,"King, David A.",620,0.92,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991LE77900008",1,491,"J","1991",NA
+"1399",1399,"King, DA","King, DA",1399,"KING, DA",1505,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996TV26500003",1,437,"J","1996",NA
+"361",361,"Sork, VL","Sork, Victoria L.",1402,"Sork, VL",1402,0.843589743589744,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000339301800003",5,95,"J","2014",NA
+"1410",1410,"SORK, VL","SORK, VL",1402,"Sork, Victoria L.",361,0.843589743589744,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TF10800010",2,440,"J","1995",NA
+"1402",1402,"Sork, VL","Sork, VL",1402,"SORK, VL",1410,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TL47600011",2,438,"J","1995",NA
+"1400",1400,"Graham, C","Graham, C",1407,"GRAHAM, C",1407,1,0,NA,NA,NA,NA,"Could not be extracted",NA,"A-9560-2011","0000-0001-9267-7948",NA,"WOS:A1995TL47600011",3,438,"J","1995",NA
+"1407",1407,"GRAHAM, C","GRAHAM, C",1407,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TF10800010",4,440,"J","1995",NA
+"12",12,"Denslow, JS","Denslow, Julie S.",1412,"DENSLOW, JS",1412,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000486953500001",1,2,"J","2019",NA
+"1464",1464,"DENSLOW, JS","DENSLOW, JS",1412,"Denslow, Julie S.",12,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LV24200014",2,467,"J","1993",NA
+"1518",1518,"DENSLOW, JS","DENSLOW, JS",1412,"Denslow, Julie S.",12,0.938461538461538,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987J378900011",2,500,"J","1987",NA
+"1412",1412,"DENSLOW, JS","DENSLOW, JS",1412,"DENSLOW, JS",1464,1,4,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TF37500012",1,442,"J","1995",NA
+"1382",1382,"Boinski, S","Boinski, S",1413,"BOINSKI, S",1413,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996VP78000004",1,429,"J","1996",NA
+"1413",1413,"BOINSKI, S","BOINSKI, S",1413,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TH73100005",1,443,"J","1995",NA
+"1383",1383,"Campbell, AF","Campbell, AF",1414,"CAMPBELL, AF",1414,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996VP78000004",2,429,"J","1996",NA
+"1414",1414,"CAMPBELL, AF","CAMPBELL, AF",1414,"CAMPBELL, AF",1453,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TH73100005",2,443,"J","1995",NA
+"1453",1453,"CAMPBELL, AF","CAMPBELL, AF",1414,"Campbell, AF",1383,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994NB97200005",1,461,"J","1994",NA
+"1135",1135,"Sanford, RL","Sanford, RL",1416,"SANFORD, RL",1416,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0003-2391-9231",NA,"WOS:000186644700014",2,328,"J","2003",NA
+"1416",1416,"SANFORD, RL","SANFORD, RL",1416,"SANFORD, RL",1441,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RP28600030",2,444,"J","1995",NA
+"1441",1441,"SANFORD, RL","SANFORD, RL",1416,"Sanford, RL",1135,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PZ75500002",4,453,"J","1994",NA
+"1480",1480,"SANFORD, RL","SANFORD, RL",1416,"Sanford, RL",1135,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JP92800001",2,475,"J","1992",NA
+"1496",1496,"SANFORD, RL","SANFORD, RL",1416,"Sanford, RL",1135,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HB32200015",3,485,"J","1992",NA
+"1394",1394,"Butterfield, RP","Butterfield, RP",1417,"BUTTERFIELD, RP",1417,1,5,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UF88500015",1,433,"J","1996",NA
+"1417",1417,"BUTTERFIELD, RP","BUTTERFIELD, RP",1417,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RQ45800012",1,445,"J","1995",NA
+"1390",1390,"Hartshorn, GS","Hartshorn, GS",1423,"HARTSHORN, GS",1423,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UH36300001",4,432,"J","1996",NA
+"1423",1423,"HARTSHORN, GS","HARTSHORN, GS",1423,"HARTSHORN, GS",1520,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RA99000001",4,448,"J","1995",NA
+"1520",1520,"HARTSHORN, GS","HARTSHORN, GS",1423,"Hartshorn, GS",1390,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987Q502100003",2,501,"J","1987",NA
+"1393",1393,"Peralta, R","Peralta, R",1426,"PERALTA, R",1426,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UH36300001",3,432,"J","1996",NA
+"1426",1426,"PERALTA, R","PERALTA, R",1426,"PERALTA, R",1523,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995RA99000001",3,448,"J","1995",NA
+"1523",1523,"PERALTA, R","PERALTA, R",1426,"Peralta, R",1393,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987Q502100003",1,501,"J","1987",NA
+"1364",1364,"Fisher, R","Fisher, R",1434,"Fisher, R. F.",897,0.930555555555555,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1997YG71600006",3,419,"J","1997",NA
+"897",897,"Fisher, RF","Fisher, R. F.",1434,"FISHER, RF",1434,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000248103200035",4,248,"J","2007",NA
+"1434",1434,"FISHER, RF","FISHER, RF",1434,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994QC19900014",2,451,"J","1994",NA
+"452",452,"Ryan, MG","Ryan, Michael G.",1440,"RYAN, MG",1440,0.85,3,NA,NA,NA,NA,"Could not be extracted",NA,"A-9805-2008","0000-0002-2500-6738",NA,"WOS:000321087700011",5,118,"J","2013",NA
+"1440",1440,"RYAN, MG","RYAN, MG",1440,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994PZ75500002",1,453,"J","1994",NA
+"1387",1387,"Rich, PM","Rich, PM",1457,"RICH, PM",1457,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1996UL40500004",3,430,"J","1996",NA
+"1457",1457,"RICH, PM","RICH, PM",1457,"RICH, PM",1472,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993MQ92100003",3,462,"J","1993",NA
+"1472",1472,"RICH, PM","RICH, PM",1457,"Rich, PM",1387,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LK27900006",1,469,"J","1993",NA
+"1452",1452,"BYRNE, MM","BYRNE, MM",1467,"BYRNE, MM",1467,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1994NE09100008",1,460,"J","1994",NA
+"1467",1467,"BYRNE, MM","BYRNE, MM",1467,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LV24200020",2,468,"J","1993",NA
+"358",358,"Braker, E","Braker, Elizabeth",1473,"BRAKER, E",1473,0.837908496732026,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000339301800003",4,95,"J","2014",NA
+"1507",1507,"BRAKER, E","BRAKER, E",1473,"Braker, Elizabeth",358,0.837908496732026,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991FD58800005",1,493,"J","1991",NA
+"1473",1473,"BRAKER, E","BRAKER, E",1473,"BRAKER, E",1507,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LP12500004",1,470,"J","1993",NA
+"687",687,"Gonzalez, E","Gonzalez, Eugenio",1477,"GONZALEZ, E",1477,0.929411764705882,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000278865200015",5,182,"J","2010",NA
+"1489",1489,"GONZALEZ, E","GONZALEZ, E",1477,"Gonzalez, Eugenio",687,0.929411764705882,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JD63400019",1,481,"J","1992",NA
+"1506",1506,"GONZALEZ, E","GONZALEZ, E",1477,"Gonzalez, Eugenio",687,0.929411764705882,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991HE85800008",1,492,"J","1991",NA
+"1477",1477,"GONZALEZ, E","GONZALEZ, E",1477,"GONZALEZ, E",1489,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993KU75300020",1,473,"J","1993",NA
+"1411",1411,"STILES, FG","STILES, FG",1484,"STILES, FG",1484,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1995TJ71900001",1,441,"J","1995",NA
+"1484",1484,"STILES, FG","STILES, FG",1484,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JE98400020",1,478,"J","1992",NA
+"1140",1140,"Kang, H","Kang, H",1487,"KANG, H",1487,1,0,NA,NA,NA,NA,"Could not be extracted",NA,NA,"0000-0003-3476-4570",NA,"WOS:000183710400005",1,330,"J","2003",NA
+"1487",1487,"KANG, H","KANG, H",1487,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JJ70000014",1,479,"J","1992",NA
+"1488",1488,"MEMMOTT, J","MEMMOTT, J",1502,"MEMMOTT, J",1502,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992JU51000002",1,480,"J","1992",NA
+"1502",1502,"MEMMOTT, J","MEMMOTT, J",1502,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991GQ09800003",1,489,"J","1991",NA
+"1468",1468,"LEVEY, DJ","LEVEY, DJ",1511,"LEVEY, DJ",1511,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993LV24200020",1,468,"J","1993",NA
+"1511",1511,"LEVEY, DJ","LEVEY, DJ",1511,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1991GP20700011",2,495,"J","1991",NA
+"1462",1462,"VANDERMEER, J","VANDERMEER, J",1512,"VANDERMEER, J",1512,1,1,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1993MB69400008",2,466,"J","1993",NA
+"1512",1512,"VANDERMEER, J","VANDERMEER, J",1512,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1990EV64000002",1,496,"J","1990",NA
+"1494",1494,"GRAYUM, MH","GRAYUM, MH",1517,"GRAYUM, MH",1517,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1992HC68800005",3,484,"J","1992",NA
+"1517",1517,"GRAYUM, MH","GRAYUM, MH",1517,"GRAYUM, MH",1529,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987M413300001",1,499,"J","1987",NA
+"1529",1529,"GRAYUM, MH","GRAYUM, MH",1517,"GRAYUM, MH",1494,1,2,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1982PZ82000012",2,504,"J","1982",NA
+"991",991,"Vitousek, PM","Vitousek, PM",1519,"VITOUSEK, PM",1519,1,3,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:000236289600008",3,278,"J","2006",NA
+"1519",1519,"VITOUSEK, PM","VITOUSEK, PM",1519,NA,NA,NA,NA,NA,NA,NA,NA,"Could not be extracted",NA,NA,NA,NA,"WOS:A1987J378900011",1,500,"J","1987",NA
