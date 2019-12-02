@@ -78,8 +78,8 @@ write.csv(STRI_refs,"./output/STRI_refs.csv")
 # This will process the data & disambiaguate the author names
 PANAMA_clean<-authors_clean(PANAMA_refs)
 STRI_clean<-authors_clean(STRI_refs)
-CR_clean<-authors_clean(CR_refs)
-PA_clean<-authors_clean(PA_refs)
+# CR_clean<-authors_clean(CR_refs)
+# PA_clean<-authors_clean(PA_refs)
 
 # this will save the "preliminary" disambiguation done by refsplitr as a csv file
 write.csv(PANAMA_clean$prelim,"./output/PANAMA_prelim.csv")
@@ -197,7 +197,7 @@ PANAMA_plot_net_address <- plot_net_address(PANAMA_georef$addresses)
 PANAMA_plot_net_address$plot
 
 
-STRI_plot_net_address <- plot_net_address(STRI_georef$addresses)
+STRI_plot_net_address <- plot_net_address(STRI_georef$addresses, lineAlpha = 0.2)
 STRI_plot_net_address$plot
 ######################
 
