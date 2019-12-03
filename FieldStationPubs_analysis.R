@@ -65,7 +65,7 @@ library(tidyverse)
 
 PANAMA_refs<-references_read(data = './data/PANAMA', dir = T)
 STRI_refs<-references_read(data = './data/STRI', dir = T)
-
+BOTH_refs<-references_read(data = './data/STRIPAN', dir = T)
 # this will save a CSV version of the references (1 reference per line) - it's easier to scan this wat
 write.csv(PANAMA_refs,"./output/PANAMA_refs.csv")
 write.csv(STRI_refs,"./output/STRI_refs.csv")
@@ -78,6 +78,7 @@ write.csv(STRI_refs,"./output/STRI_refs.csv")
 # This will process the data & disambiaguate the author names
 PANAMA_clean<-authors_clean(PANAMA_refs)
 STRI_clean<-authors_clean(STRI_refs)
+BOTH_clean<-authors_clean(BOTH_refs)
 # CR_clean<-authors_clean(CR_refs)
 # PA_clean<-authors_clean(PA_refs)
 
@@ -144,6 +145,9 @@ write.csv(STRI_refined,"./output/STRI_refined.csv")
 # write.csv(PA_refined,"./output/PA_refined.csv")
 ######################
 
+STRI_refined<-read_csv("./output/STRI_refined_1Pan.csv")
+STRI_refined_pan1<-STRI_refined %>%  filter (country=="panama" & author_order==1) %>% select(refID)
+STRI_refined_pan1<-STRI_refined_pan1 %>% left_join(STRI_refined,STRI_refined_pan1,by="refID") %>% arrange(refID, author_order) %>% select(-X1)
 
 ######################
 # Georeference the author locations
@@ -154,7 +158,7 @@ save(PANAMA_georef, file = "./output/PANAMA_georef.RData")
 STRI_georef <-authors_georef(data=STRI_refined,address_column = "address")
 save(STRI_georef, file = "./output/STRI_georef.RData")
 ######################
-
+STRI_refined_pan1<-authors_georef(data=STRI_refined_pan1,address_column = "address")
 
 
 ######################
@@ -165,6 +169,7 @@ PANAMA_plot_addresses_country <- plot_addresses_country(PANAMA_georef$addresses)
 
 STRI_plot_addresses_country <- plot_addresses_country(STRI_georef$addresses)
 
+STRI_refined_plot_addresses_country <- plot_addresses_country(STRI_refined_pan1$addresses)
 
 # Plot author location
 PANAMA_plot_addresses_points <- plot_addresses_points(PANAMA_georef$addresses)
@@ -172,6 +177,9 @@ PANAMA_plot_addresses_points
 
 STRI_plot_addresses_points <- plot_addresses_points(STRI_georef$addresses)
 STRI_plot_addresses_points
+
+STRI_refined__plot_addresses_points <- plot_addresses_points(STRI_refined_pan1$addresses)
+STRI_refined__plot_addresses_points
 
 # # Plot social network x country
 PANAMA_plot_net_coauthor <- plot_net_coauthor(PANAMA_georef$addresses)
