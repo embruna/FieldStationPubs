@@ -212,5 +212,28 @@ STRI_plot_net_address <- plot_net_address(STRI_georef$addresses, lineAlpha = 0.2
 STRI_plot_net_address$plot
 ######################
 
+str(PANAMA_plot_net_address)
+V <- crossprod(table(dat[1:2]))
+
+mat_data<-PANAMA_refined %>% select(groupID,refID)
+foo2<-as.data.frame(ftable(mat_data))
+head(foo2,10)
+foo2$groupID2<-foo2$groupID
+head(foo2,10)
+foo2<-foo2 %>% group_by(groupID,groupID2) %>%  spread(key = groupID, value=Freq)
 
 
+mytable <- table(refID,groupID)
+
+
+
+
+foo2<-foo2 %>% select(groupID,groupID2,Freq) %>% group_by(groupID,groupID2) %>% summarize(sum(Freq)) %>% arrange(groupID,groupID2)
+
+adj_mat <- mat_data %>%  
+  group_by(groupID,refID) %>%
+  summarise(weight = n()) %>% 
+  ungroup()
+adj_mat
+
+foo3<-foo2  %>% spread(key = refID, value=Freq)
