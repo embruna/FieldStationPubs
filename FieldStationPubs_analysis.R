@@ -56,6 +56,7 @@ devtools::install_github("embruna/refsplitr", force=FALSE)
 library(refsplitr)
 library(tidyverse)
 
+sessionInfo()
 
 ######################
 # Load the data
@@ -146,6 +147,8 @@ write.csv(STRI_refined,"./output/STRI_refined.csv")
 ######################
 
 STRI_refined<-read_csv("./output/STRI_refined_1Pan.csv")
+PANAMA_refined<-read_csv("./output/PANAMA_refined.csv")
+PANAMA_refined<-PANAMA_refined %>% select(-X1,-X21,-X22)
 STRI_refined_pan1<-STRI_refined %>%  filter (country=="panama" & author_order==1) %>% select(refID)
 STRI_refined_pan1<-STRI_refined_pan1 %>% left_join(STRI_refined,STRI_refined_pan1,by="refID") %>% arrange(refID, author_order) %>% select(-X1)
 
