@@ -146,7 +146,7 @@ write.csv(STRI_refined,"./output/STRI_refined.csv")
 # write.csv(PA_refined,"./output/PA_refined.csv")
 ######################
 
-STRI_refined<-read_csv("./output/STRI_refined_1Pan.csv")
+STRI_refined<-read_csv("./output/STRI_refined.csv")
 PANAMA_refined<-read_csv("./output/PANAMA_refined.csv")
 PANAMA_refined<-PANAMA_refined %>% select(-X1,-X21,-X22)
 STRI_refined_pan1<-STRI_refined %>%  filter (country=="panama" & author_order==1) %>% select(refID)
@@ -156,7 +156,7 @@ STRI_refined_pan1<-STRI_refined_pan1 %>% left_join(STRI_refined,STRI_refined_pan
 # Georeference the author locations
 PANAMA_georef <-authors_georef(data=PANAMA_refined,address_column = "address")
 save(PANAMA_georef, file = "./output/PANAMA_georef.RData")
-
+load("./output/PANAMA_georef.RData")
 
 STRI_georef <-authors_georef(data=STRI_refined,address_column = "address")
 save(STRI_georef, file = "./output/STRI_georef.RData")
@@ -212,17 +212,79 @@ STRI_plot_net_address <- plot_net_address(STRI_georef$addresses, lineAlpha = 0.2
 STRI_plot_net_address$plot
 ######################
 
-str(PANAMA_plot_net_address)
-V <- crossprod(table(dat[1:2]))
+mat_data<-STRI_refined %>% select(groupID,refID)
 
-mat_data<-PANAMA_refined %>% select(groupID,refID)
-foo2<-as.data.frame(ftable(mat_data))
-head(foo2,10)
-foo2$groupID2<-foo2$groupID
-head(foo2,10)
-foo2<-foo2 %>% group_by(groupID,groupID2) %>%  spread(key = groupID, value=Freq)
+# Create an incidence Matrix
+mat_data_inc<-PANAMA_refined %>% # select from which data set
+  select(refID,groupID) %>%   # select the columns needed MUST BE IN THIS ORDER
+  group_by(refID,groupID) %>% # group and summarize to add a 1
+  summarize(Freq=n()) %>% 
+  spread(refID,Freq) %>% # "spread" it into an incidence matrix 
+  replace(is.na(.), 0) %>% #replace all of the NA with "0"
+  select(-groupID) # delete the 1st colummn
+
+# convert the dataframe to a matrix
+mat_data_inc<-as.matrix(mat_data_inc)
+
+# Calclulate the crossproduct of the incidence matrix 
+# to get the co-occurrence matrix
+mat_data_co <- crossprod(mat_data_inc)
+# Set the main diagonal to zero
+diag(mat_data_co) <- 0
+
+mat_data_co
 
 
+library(slam)
+object.size(mat_data_co)
+object.size(mat_data_co<-simple_triplet_zero_matrix(mat_data_co))
+
+
+
+foo<-as.data.frame(table(mat_data_inc[1:2]))
+# can see what it looks like
+head(mat_data_inc,10) 
+# Create an 
+mat_data_co <- crossprod(table(mat_data_inc[1:2]))
+diag(mat_data_co) <- 0
+
+dim(mat_data_co)
+
+authors_P<-PANAMA_refined %>% distinct(groupID)
+
+
+
+mat_data<-data.matrix(mat_data)
+
+
+
+# mat_data_inc<-mat_data_inc %>% spread(groupID,Freq) %>% select(-refID)
+
+
+library(igraph)
+# change it to a Boolean matrix
+mat_data[mat_data>=1] <- 1
+# transform into a term-term adjacency matrix
+termMatrix <- mat_data %*% t(mat_data)
+# inspect terms numbered 5 to 10
+termMatrix[5:10,5:10]
+
+
+%>% replace_na(0)
+
+
+
+
+head(mat_data,10)
+# mat_data$groupID2<-mat_data$groupID
+# head(mat_data,10)
+mat_data<-mat_data %>% select(refID,groupID,Freq) %>% arrange(refID,groupID,Freq) %>% spread(groupID,Freq)
+
+
+
+library(cooccur)
+cooccur.finches <- cooccur(mat = mat_data, type = "spp_site",thresh = TRUE, spp_names = TRUE)
+mat_data<-mat_data %>% select(refID,groupID,Freq) %>% group_by(refID,groupID) %>% spread(key = groupID, value=Freq)
 mytable <- table(refID,groupID)
 
 
@@ -235,5 +297,3 @@ adj_mat <- mat_data %>%
   summarise(weight = n()) %>% 
   ungroup()
 adj_mat
-
-foo3<-foo2  %>% spread(key = refID, value=Freq)
