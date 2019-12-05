@@ -218,82 +218,50 @@ mat_data<-STRI_refined %>% select(groupID,refID)
 mat_data_inc<-PANAMA_refined %>% # select from which data set
   select(refID,groupID) %>%   # select the columns needed MUST BE IN THIS ORDER
   group_by(refID,groupID) %>% # group and summarize to add a 1
-  summarize(Freq=n()) %>% 
-  spread(refID,Freq) %>% # "spread" it into an incidence matrix 
-  replace(is.na(.), 0) %>% #replace all of the NA with "0"
-  select(-groupID) # delete the 1st colummn
+  summarize(Freq=n()) #%>% 
+  # spread(refID,Freq) %>% # "spread" it into an incidence matrix 
+  # replace(is.na(.), 0) %>% #replace all of the NA with "0"
+  # select(-groupID) # delete the 1st colummn
 
 # convert the dataframe to a matrix
-mat_data_inc<-as.matrix(mat_data_inc)
+# mat_data_inc<-as.matrix(mat_data_inc)
 
 # Calclulate the crossproduct of the incidence matrix 
 # to get the co-occurrence matrix
-mat_data_co <- crossprod(mat_data_inc)
+mat_data_co <- crossprod(table(mat_data_inc[1:2]))
 # Set the main diagonal to zero
 diag(mat_data_co) <- 0
 
-mat_data_co
+# prefix <- "group_ID"
+# suffix <- seq(1:ncol(edges))
+# my.names<-paste(prefix,suffix,sep=".")
+# names(edges) <- my.names
 
 
-library(slam)
-object.size(mat_data_co)
-object.size(mat_data_co<-simple_triplet_zero_matrix(mat_data_co))
+# What to put it in a format for use in igraph?
+
+# first a dataframe of the edges
+edges<-as.data.frame(mat_data_co)
+edges<-as.data.frame(edges)
+head(edges,10)
+str(edges)
+source<-data.frame("source"=colnames(edges))
+
+# head(source,10)
+edges<-bind_cols(source,edges)
+edges <- edges %>% gather(target, weight, 2:ncol(edges))
+edges$source<-as.factor(edges$source)
+edges$target<-as.factor(edges$target)
 
 
-
-foo<-as.data.frame(table(mat_data_inc[1:2]))
-# can see what it looks like
-head(mat_data_inc,10) 
-# Create an 
-mat_data_co <- crossprod(table(mat_data_inc[1:2]))
-diag(mat_data_co) <- 0
-
-dim(mat_data_co)
-
-authors_P<-PANAMA_refined %>% distinct(groupID)
+# the one of the nodes
+nodes<-ungroup(mat_data_inc) %>% distinct(groupID) %>% rename("nodes"="groupID")
+nodes<-as.factor(nodes$nodes)
 
 
-
-mat_data<-data.matrix(mat_data)
-
-
-
-# mat_data_inc<-mat_data_inc %>% spread(groupID,Freq) %>% select(-refID)
-
-
+# and now the analyses with igraph
 library(igraph)
-# change it to a Boolean matrix
-mat_data[mat_data>=1] <- 1
-# transform into a term-term adjacency matrix
-termMatrix <- mat_data %*% t(mat_data)
-# inspect terms numbered 5 to 10
-termMatrix[5:10,5:10]
+g<-graph_from_data_frame(d=edges,vertices=nodes,directed = FALSE)
 
-
-%>% replace_na(0)
-
-
-
-
-head(mat_data,10)
-# mat_data$groupID2<-mat_data$groupID
-# head(mat_data,10)
-mat_data<-mat_data %>% select(refID,groupID,Freq) %>% arrange(refID,groupID,Freq) %>% spread(groupID,Freq)
-
-
-
-library(cooccur)
-cooccur.finches <- cooccur(mat = mat_data, type = "spp_site",thresh = TRUE, spp_names = TRUE)
-mat_data<-mat_data %>% select(refID,groupID,Freq) %>% group_by(refID,groupID) %>% spread(key = groupID, value=Freq)
-mytable <- table(refID,groupID)
-
-
-
-
-foo2<-foo2 %>% select(groupID,groupID2,Freq) %>% group_by(groupID,groupID2) %>% summarize(sum(Freq)) %>% arrange(groupID,groupID2)
-
-adj_mat <- mat_data %>%  
-  group_by(groupID,refID) %>%
-  summarise(weight = n()) %>% 
-  ungroup()
-adj_mat
+par(mar=c(0,0,0,0))
+plot(g)
